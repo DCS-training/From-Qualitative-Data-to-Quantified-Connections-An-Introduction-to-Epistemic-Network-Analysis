@@ -3,12 +3,36 @@
 This repo contains all the material connected with the "From Qualitative Data to Quantified Connections.An Introduction to Epistemic Network Analysis". 
 The material was designed by **Barbara Dzieciatko-Szendrei**
 
+From Qualitative Data to Quantified Connections: An Introduction to Epistemic Network Analysis
+Overview
 
-## What can you find in this repo
-- The PPT
-- The data
-- The codebook
-- Uncoded data for coding exercise
+This repository contains the materials and datasets used in the workshop “From Qualitative Data to Quantified Connections: An Introduction to Epistemic Network Analysis (ENA)”, designed to introduce researchers and educators to the principles and practice of ENA. The workshop demonstrates how qualitative discourse can be systematically coded, modelled, and visualised as a network to reveal patterns of connection in meaning and reasoning.
+
+Contents
+File	Description
+GOT.scripts.final.coded.042219.csv	Example dataset of coded discourse segments used to illustrate ENA modelling.
+GOT.scripts.final.codes.exercise (1).csv	Companion exercise dataset for hands-on coding practice.
+GoT_codebook.xlsx	Codebook outlining the categories and definitions used for the example datasets.
+
+(Replace or update these file descriptions once you upload your own dataset.)
+
+Learning Objectives
+
+Participants will learn to:
+
+Understand the conceptual foundations of Quantitative Ethnography and Epistemic Network Analysis.
+
+Segment and code qualitative data to create structured datasets.
+
+Train automated coding using nCoder.
+
+Visualise and interpret epistemic networks to identify meaningful connections in discourse.
+
+Software and Tools
+
+https://www.epistemicnetwork.org/
+https://www.n-coder.org/
+
 
 ## Copyright
 
