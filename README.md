@@ -14,19 +14,16 @@ GOT.scripts.final.coded.042219.csv	Example dataset of coded discourse segments u
 GOT.scripts.final.codes.exercise (1).csv	Companion exercise dataset for hands-on coding practice.
 GoT_codebook.xlsx	Codebook outlining the categories and definitions used for the example datasets.
 
-(Replace or update these file descriptions once you upload your own dataset.)
-
 Learning Objectives
-
 Participants will learn to:
 
-Understand the conceptual foundations of Quantitative Ethnography and Epistemic Network Analysis.
+  1.Understand the conceptual foundations of Quantitative Ethnography and Epistemic Network Analysis.
 
-Segment and code qualitative data to create structured datasets.
+  2.Segment and code qualitative data to create structured datasets.
 
-Train automated coding using nCoder.
+  3.Train automated coding using nCoder.
 
-Visualise and interpret epistemic networks to identify meaningful connections in discourse.
+  4.Visualise and interpret epistemic networks to identify meaningful connections in discourse.
 
 Software and Tools
 
