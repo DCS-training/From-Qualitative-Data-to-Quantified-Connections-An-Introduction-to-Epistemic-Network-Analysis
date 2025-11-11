@@ -1,4 +1,4 @@
-# From Qualitative Data to Quantified Connections. // An Introduction to Epistemic Network Analysis
+# From Qualitative Data to Quantified Connections. / An Introduction to Epistemic Network Analysis
 
 This repo contains all the material connected with the "From Qualitative Data to Quantified Connections.An Introduction to Epistemic Network Analysis". 
 The material was designed by **Barbara Dzieciatko-Szendrei**
