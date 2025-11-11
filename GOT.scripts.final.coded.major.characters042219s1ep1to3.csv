@@ -1,0 +1,959 @@
+Index,Season,Episode,title,Scene,Line,Speaker,Text,Location,Region,House,Major.Char,Gender,Sex,Violence,Religion,Magic,Payment,Love,Message,Drinking,Honor,Family,Death
+23,Season 1,S01E01,Winter is Coming,2,23,BRAN STARK,"[Riders from Winterfell come up behind a dazed WILL. The scene shifts to the castle, where BRAN is practicing archery and getting frustrated, under the eyes of JON SNOW and ROBB STARK. JON pats BRAN'S shoulder.]",Winterfell,The North,Stark,1,Male,0,0,0,0,0,0,0,0,0,0,0
+24,Season 1,S01E01,Winter is Coming,2,24,JON SNOW,"[Riders from Winterfell come up behind a dazed WILL. The scene shifts to the castle, where BRAN is practicing archery and getting frustrated, under the eyes of JON SNOW and ROBB STARK. JON pats BRAN'S shoulder.]",Winterfell,The North,Stark,1,Male,0,0,0,0,0,0,0,0,0,0,0
+25,Season 1,S01E01,Winter is Coming,2,25,ROBB STARK,"[Riders from Winterfell come up behind a dazed WILL. The scene shifts to the castle, where BRAN is practicing archery and getting frustrated, under the eyes of JON SNOW and ROBB STARK. JON pats BRAN'S shoulder.]",Winterfell,The North,Stark,1,Male,0,0,0,0,0,0,0,0,0,0,0
+26,Season 1,S01E01,Winter is Coming,2,26,JON SNOW, Go on. Father's watching.,Winterfell,The North,Stark,1,Male,0,0,0,0,0,0,0,0,0,1,0
+27,Season 1,S01E01,Winter is Coming,2,27,NED STARK,[We see NED and CATELYN STARK watching from above.],Winterfell,The North,Stark,1,Male,0,0,0,0,0,0,0,0,0,0,0
+28,Season 1,S01E01,Winter is Coming,2,28,CATELYN STARK,[We see NED and CATELYN STARK watching from above.],Winterfell,The North,Stark,1,Female,0,0,0,0,0,0,0,0,0,0,0
+29,Season 1,S01E01,Winter is Coming,2,29,JON SNOW, And your mother.,Winterfell,The North,Stark,1,Male,0,0,0,0,0,0,0,0,0,1,0
+32,Season 1,S01E01,Winter is Coming,3,32,SANSA STARK, Thank you.,Winterfell,The North,Stark,1,Female,0,0,0,0,0,0,0,0,0,0,0
+34,Season 1,S01E01,Winter is Coming,3,34,SANSA STARK,"[As she murmurs to SANSA about the embroidery, ARYA struggles with her needlework and listens to the arrows hitting and the male laughter outside.]",Winterfell,The North,Stark,1,Female,0,1,0,0,0,0,0,0,0,0,0
+35,Season 1,S01E01,Winter is Coming,3,35,ARYA STARK,"[As she murmurs to SANSA about the embroidery, ARYA struggles with her needlework and listens to the arrows hitting and the male laughter outside.]",Winterfell,The North,Stark,1,Female,0,1,0,0,0,0,0,0,0,0,0
+36,Season 1,S01E01,Winter is Coming,4,36,BRAN STARK,"[Outside, BRAN tries and misses again. Everyone laughs.]",Winterfell,The North,Stark,1,Male,0,0,0,0,0,0,0,0,0,0,0
+37,Season 1,S01E01,Winter is Coming,4,37,NED STARK," And which one of you was a marksman at ten? Keep practicing, Bran. Go on.",Winterfell,The North,Stark,1,Male,0,0,0,0,0,0,0,0,0,0,0
+38,Season 1,S01E01,Winter is Coming,4,38,JON SNOW," Don't think too much, Bran.",Winterfell,The North,Stark,1,Male,0,0,0,0,0,0,0,0,0,0,0
+39,Season 1,S01E01,Winter is Coming,4,39,ROBB STARK, Relax your bow arm.,Winterfell,The North,Stark,1,Male,0,0,0,0,0,0,0,0,0,0,0
+40,Season 1,S01E01,Winter is Coming,4,40,BRAN STARK,"[BRAN pulls the arrow back. An arrow hits the bullseye. BRAN (still with his arrow), JON, and ROBB turn in surprise to see ARYA, who curtsies after her perfect shot. ROBB and JON laugh as Bran takes out after ARYA.]",Winterfell,The North,Stark,1,Male,0,1,0,0,0,0,0,0,0,0,0
+41,Season 1,S01E01,Winter is Coming,4,41,JON SNOW,"[BRAN pulls the arrow back. An arrow hits the bullseye. BRAN (still with his arrow), JON, and ROBB turn in surprise to see ARYA, who curtsies after her perfect shot. ROBB and JON laugh as Bran takes out after ARYA.]",Winterfell,The North,Stark,1,Male,0,1,0,0,0,0,0,0,0,0,0
+42,Season 1,S01E01,Winter is Coming,4,42,ROBB STARK,"[BRAN pulls the arrow back. An arrow hits the bullseye. BRAN (still with his arrow), JON, and ROBB turn in surprise to see ARYA, who curtsies after her perfect shot. ROBB and JON laugh as Bran takes out after ARYA.]",Winterfell,The North,Stark,1,Male,0,1,0,0,0,0,0,0,0,0,0
+43,Season 1,S01E01,Winter is Coming,4,43,ARYA STARK,"[BRAN pulls the arrow back. An arrow hits the bullseye. BRAN (still with his arrow), JON, and ROBB turn in surprise to see ARYA, who curtsies after her perfect shot. ROBB and JON laugh as Bran takes out after ARYA.]",Winterfell,The North,Stark,1,Female,0,1,0,0,0,0,0,0,0,0,0
+45,Season 1,S01E01,Winter is Coming,4,45,THEON GREYJOY,[RODRICK CASSEL and THEON GREYJOY approach NED and CATELYN on the balcony.],Winterfell,The North,Greyjoy,1,Male,0,0,0,0,0,0,0,0,0,0,0
+46,Season 1,S01E01,Winter is Coming,4,46,NED STARK,[RODRICK CASSEL and THEON GREYJOY approach NED and CATELYN on the balcony.],Winterfell,The North,Stark,1,Male,0,0,0,0,0,0,0,0,0,0,0
+47,Season 1,S01E01,Winter is Coming,4,47,CATELYN STARK,[RODRICK CASSEL and THEON GREYJOY approach NED and CATELYN on the balcony.],Winterfell,The North,Stark,1,Female,0,0,0,0,0,0,0,0,0,0,0
+49,Season 1,S01E01,Winter is Coming,4,49,NED STARK,[NED grimaces.],Winterfell,The North,Stark,1,Male,0,0,0,0,0,0,0,0,0,0,0
+50,Season 1,S01E01,Winter is Coming,4,50,NED STARK, Get the lads to saddle their horses.,Winterfell,The North,Stark,1,Male,0,0,0,0,0,0,0,0,0,0,0
+51,Season 1,S01E01,Winter is Coming,4,51,THEON GREYJOY,[THEON departs.],Winterfell,The North,Greyjoy,1,Male,0,0,0,0,0,0,0,0,0,0,0
+52,Season 1,S01E01,Winter is Coming,4,52,CATELYN STARK, Do you have to?,Winterfell,The North,Stark,1,Female,0,0,0,0,0,0,0,0,0,0,0
+53,Season 1,S01E01,Winter is Coming,4,53,NED STARK," He swore an oath, Cat.",Winterfell,The North,Stark,1,Male,0,0,0,0,0,0,0,0,1,0,0
+55,Season 1,S01E01,Winter is Coming,4,55,NED STARK," Tell Bran he's coming, too.",Winterfell,The North,Stark,1,Male,0,0,0,0,0,0,0,0,0,0,0
+57,Season 1,S01E01,Winter is Coming,4,57,CATELYN STARK, Ned. Ten is too young to see such things.,Winterfell,The North,Stark,1,Female,0,0,0,0,0,0,0,0,0,0,0
+58,Season 1,S01E01,Winter is Coming,4,58,NED STARK, He won't be a boy forever. And winter is coming.,Winterfell,The North,Stark,1,Male,0,0,0,0,0,0,0,0,0,0,0
+59,Season 1,S01E01,Winter is Coming,4,59,NED STARK,"[NED departs. In the courtyard, ROBB and JON gather the arrows. CATELYN turns and glares down on JON. He looks at her and walks away.]",Winterfell,The North,Stark,1,Male,0,0,0,0,0,0,0,0,0,0,0
+60,Season 1,S01E01,Winter is Coming,4,60,ROBB STARK,"[NED departs. In the courtyard, ROBB and JON gather the arrows. CATELYN turns and glares down on JON. He looks at her and walks away.]",Winterfell,The North,Stark,1,Male,0,0,0,0,0,0,0,0,0,0,0
+61,Season 1,S01E01,Winter is Coming,4,61,JON SNOW,"[NED departs. In the courtyard, ROBB and JON gather the arrows. CATELYN turns and glares down on JON. He looks at her and walks away.]",Winterfell,The North,Stark,1,Male,0,0,0,0,0,0,0,0,0,0,0
+62,Season 1,S01E01,Winter is Coming,4,62,CATELYN STARK,"[NED departs. In the courtyard, ROBB and JON gather the arrows. CATELYN turns and glares down on JON. He looks at her and walks away.]",Winterfell,The North,Stark,1,Female,0,0,0,0,0,0,0,0,0,0,0
+63,Season 1,S01E01,Winter is Coming,4,63,ROBB STARK," Lad, go run back and get the rest.",Winterfell,The North,Stark,1,Male,0,0,0,0,0,0,0,0,0,0,0
+66,Season 1,S01E01,Winter is Coming,5,66,NED STARK,[He and NED face each other.],Winterfell,The North,Stark,1,Male,0,0,0,0,0,0,0,0,0,0,0
+68,Season 1,S01E01,Winter is Coming,5,68,NED STARK,"NED nods yes, and WILL is positioned on the tree limb that serves as a block. [NED draws Ice from a scabbard held by Theon.]",Winterfell,The North,Stark,1,Male,0,0,0,0,0,0,0,0,1,0,0
+69,Season 1,S01E01,Winter is Coming,5,69,THEON GREYJOY,"NED nods yes, and WILL is positioned on the tree limb that serves as a block. [NED draws Ice from a scabbard held by Theon.]",Winterfell,The North,Greyjoy,1,Male,0,0,0,0,0,0,0,0,1,0,0
+71,Season 1,S01E01,Winter is Coming,5,71,NED STARK,[NED bows his head over ICE.],Winterfell,The North,Stark,1,Male,0,0,0,0,0,0,0,0,0,0,0
+72,Season 1,S01E01,Winter is Coming,5,72,NED STARK," In the name of Robert of the House Baratheon, first of his name ",Winterfell,The North,Stark,1,Male,0,0,0,0,0,0,0,0,0,1,0
+73,Season 1,S01E01,Winter is Coming,5,73,JON SNOW, Don't look away.,Winterfell,The North,Stark,1,Male,0,0,0,0,0,0,0,0,0,0,0
+74,Season 1,S01E01,Winter is Coming,5,74,NED STARK, King of the Andals and the First Men ,Winterfell,The North,Stark,1,Male,0,0,0,0,0,0,0,0,0,0,0
+75,Season 1,S01E01,Winter is Coming,5,75,JON SNOW, Father will know if you do.,Winterfell,The North,Stark,1,Male,0,0,0,0,0,0,0,0,0,1,0
+76,Season 1,S01E01,Winter is Coming,5,76,NED STARK," Lord of the Seven Kingdoms and protector of the realm, I, Eddard of the House Stark, Lord of Winterfell and Warden of the North, sentence you to die.",Winterfell,The North,Stark,1,Male,0,1,0,0,0,0,0,0,0,1,1
+77,Season 1,S01E01,Winter is Coming,5,77,NED STARK,[NED swings ICE and beheads WILL. BRAN does not look away.],Winterfell,The North,Stark,1,Male,0,1,0,0,0,0,0,0,0,0,0
+78,Season 1,S01E01,Winter is Coming,5,78,BRAN STARK,[NED swings ICE and beheads WILL. BRAN does not look away.],Winterfell,The North,Stark,1,Male,0,1,0,0,0,0,0,0,0,0,0
+79,Season 1,S01E01,Winter is Coming,5,79,JON SNOW, You did well.,Winterfell,The North,Stark,1,Male,0,0,0,0,0,0,0,0,0,0,0
+80,Season 1,S01E01,Winter is Coming,5,80,ROBB STARK,[He walks away. ROBB turns and puts his arm around BRAN and they go to their horses together. NED approaches BRAN.],Winterfell,The North,Stark,1,Male,0,0,0,0,0,0,0,0,0,0,0
+81,Season 1,S01E01,Winter is Coming,5,81,BRAN STARK,[He walks away. ROBB turns and puts his arm around BRAN and they go to their horses together. NED approaches BRAN.],Winterfell,The North,Stark,1,Male,0,0,0,0,0,0,0,0,0,0,0
+82,Season 1,S01E01,Winter is Coming,5,82,NED STARK,[He walks away. ROBB turns and puts his arm around BRAN and they go to their horses together. NED approaches BRAN.],Winterfell,The North,Stark,1,Male,0,0,0,0,0,0,0,0,0,0,0
+83,Season 1,S01E01,Winter is Coming,5,83,NED STARK, You understand why I did it?,Winterfell,The North,Stark,1,Male,0,0,0,0,0,0,0,0,0,0,0
+84,Season 1,S01E01,Winter is Coming,5,84,BRAN STARK, Jon said he was a deserter.,Winterfell,The North,Stark,1,Male,0,0,0,0,0,0,0,0,0,0,0
+85,Season 1,S01E01,Winter is Coming,5,85,NED STARK, But do you understand why I had to kill him?,Winterfell,The North,Stark,1,Male,0,1,0,0,0,0,0,0,0,0,1
+86,Season 1,S01E01,Winter is Coming,5,86,BRAN STARK, Our way is the old way?,Winterfell,The North,Stark,1,Male,0,0,0,0,0,0,0,0,0,0,0
+87,Season 1,S01E01,Winter is Coming,5,87,NED STARK, The man who passes the sentence should swing the sword.,Winterfell,The North,Stark,1,Male,0,0,0,0,0,0,0,0,0,0,0
+88,Season 1,S01E01,Winter is Coming,5,88,BRAN STARK, Is it true he saw the White Walkers?,Winterfell,The North,Stark,1,Male,0,0,0,1,0,0,0,0,0,0,0
+89,Season 1,S01E01,Winter is Coming,5,89,NED STARK, The White Walkers have been gone for thousands of years.,Winterfell,The North,Stark,1,Male,0,0,0,1,0,0,0,0,0,0,0
+90,Season 1,S01E01,Winter is Coming,5,90,BRAN STARK, So he was lying?,Winterfell,The North,Stark,1,Male,0,0,0,0,0,0,0,0,0,0,0
+91,Season 1,S01E01,Winter is Coming,5,91,NED STARK, A madman sees what he sees.,Winterfell,The North,Stark,1,Male,0,0,0,0,0,0,0,0,0,0,0
+93,Season 1,S01E01,Winter is Coming,6,93,JON SNOW, What is it?,Winterfell,The North,Stark,1,Male,0,0,0,0,0,0,0,0,0,0,0
+94,Season 1,S01E01,Winter is Coming,6,94,THEON GREYJOY, Mountain lion?,Winterfell,The North,Greyjoy,1,Male,0,0,0,0,0,0,0,0,0,0,0
+95,Season 1,S01E01,Winter is Coming,6,95,NED STARK, There are no mountain lions in these woods.,Winterfell,The North,Stark,1,Male,0,0,0,0,0,0,0,0,0,0,0
+96,Season 1,S01E01,Winter is Coming,6,96,NED STARK,"[With swords out, they begin to search. NED finds a dead direwolf with antlers through her throat. Her pups are whimpering around her.]",Winterfell,The North,Stark,1,Male,0,1,0,1,0,0,0,0,0,0,1
+97,Season 1,S01E01,Winter is Coming,6,97,THEON GREYJOY, It's a freak.,Winterfell,The North,Greyjoy,1,Male,0,0,0,0,0,0,0,0,0,0,0
+98,Season 1,S01E01,Winter is Coming,6,98,NED STARK, It's a direwolf.,Winterfell,The North,Stark,1,Male,0,0,0,1,0,0,0,0,0,0,0
+99,Season 1,S01E01,Winter is Coming,6,99,NED STARK,[NED and CASSEL glance at each other.],Winterfell,The North,Stark,1,Male,0,0,0,0,0,0,0,0,0,0,0
+100,Season 1,S01E01,Winter is Coming,6,100,NED STARK, Tough old beast.,Winterfell,The North,Stark,1,Male,0,0,0,0,0,0,0,0,0,0,0
+102,Season 1,S01E01,Winter is Coming,6,102,ROBB STARK, There are no direwolves south of the Wall.,Winterfell,The North,Stark,1,Male,0,0,0,1,0,0,0,0,0,0,0
+103,Season 1,S01E01,Winter is Coming,6,103,JON SNOW, Now there are five.,Winterfell,The North,Stark,1,Male,0,0,0,0,0,0,0,0,0,0,0
+104,Season 1,S01E01,Winter is Coming,6,104,JON SNOW,[Jon picks up a pup and offers it to BRAN.],Winterfell,The North,Stark,1,Male,0,0,0,0,0,0,0,0,0,0,0
+105,Season 1,S01E01,Winter is Coming,6,105,BRAN STARK,[Jon picks up a pup and offers it to BRAN.],Winterfell,The North,Stark,1,Male,0,0,0,0,0,0,0,0,0,0,0
+106,Season 1,S01E01,Winter is Coming,6,106,JON SNOW, You want to hold it?,Winterfell,The North,Stark,1,Male,0,0,0,0,0,0,0,0,0,0,0
+107,Season 1,S01E01,Winter is Coming,6,107,BRAN STARK, Where will they go? Their mother's dead.,Winterfell,The North,Stark,1,Male,0,1,0,0,0,0,0,0,0,1,1
+109,Season 1,S01E01,Winter is Coming,6,109,NED STARK, Better a quick death. They won't last without their mother.,Winterfell,The North,Stark,1,Male,0,1,0,0,0,0,0,0,0,1,1
+110,Season 1,S01E01,Winter is Coming,6,110,THEON GREYJOY, Right. Give it here.,Winterfell,The North,Greyjoy,1,Male,0,0,0,0,0,0,0,0,0,0,0
+111,Season 1,S01E01,Winter is Coming,6,111,BRAN STARK, NO!,Winterfell,The North,Stark,1,Male,0,0,0,0,0,0,0,0,0,0,0
+112,Season 1,S01E01,Winter is Coming,6,112,ROBB STARK, Put away your blade.,Winterfell,The North,Stark,1,Male,0,0,0,0,0,0,0,0,0,0,0
+113,Season 1,S01E01,Winter is Coming,6,113,THEON GREYJOY," I take orders from your father, not you.",Winterfell,The North,Greyjoy,1,Male,0,0,0,0,0,0,0,0,0,1,0
+114,Season 1,S01E01,Winter is Coming,6,114,BRAN STARK," Please, father!",Winterfell,The North,Stark,1,Male,0,0,0,0,0,0,0,0,0,1,0
+115,Season 1,S01E01,Winter is Coming,6,115,NED STARK," I'm sorry, Bran.",Winterfell,The North,Stark,1,Male,0,0,0,0,0,0,0,0,0,0,0
+116,Season 1,S01E01,Winter is Coming,6,116,JON SNOW, Lord Stark? There are five pups. One for each of the Stark children. The direwolf is the sigil of your House. They were meant to have them.,Winterfell,The North,Stark,1,Male,0,0,0,1,0,0,0,0,0,1,0
+117,Season 1,S01E01,Winter is Coming,6,117,NED STARK,"[Everyone looks at NED, BRAN with great hope.]",Winterfell,The North,Stark,1,Male,0,0,0,0,0,0,0,0,0,0,0
+118,Season 1,S01E01,Winter is Coming,6,118,BRAN STARK,"[Everyone looks at NED, BRAN with great hope.]",Winterfell,The North,Stark,1,Male,0,0,0,0,0,0,0,0,0,0,0
+119,Season 1,S01E01,Winter is Coming,6,119,NED STARK," You will train them yourselves. You will feed them yourselves. And if they die, you will bury them yourselves.",Winterfell,The North,Stark,1,Male,0,1,0,0,0,0,0,0,0,0,1
+120,Season 1,S01E01,Winter is Coming,6,120,BRAN STARK,[BRAN cradles his pup as JON hands more pups to ROBB.],Winterfell,The North,Stark,1,Male,0,0,0,0,0,0,0,0,0,0,0
+121,Season 1,S01E01,Winter is Coming,6,121,JON SNOW,[BRAN cradles his pup as JON hands more pups to ROBB.],Winterfell,The North,Stark,1,Male,0,0,0,0,0,0,0,0,0,0,0
+122,Season 1,S01E01,Winter is Coming,6,122,ROBB STARK,[BRAN cradles his pup as JON hands more pups to ROBB.],Winterfell,The North,Stark,1,Male,0,0,0,0,0,0,0,0,0,0,0
+123,Season 1,S01E01,Winter is Coming,6,123,BRAN STARK, What about you?,Winterfell,The North,Stark,1,Male,0,0,0,0,0,0,0,0,0,0,0
+124,Season 1,S01E01,Winter is Coming,6,124,JON SNOW, I'm not a Stark. Get on.,Winterfell,The North,Stark,1,Male,0,0,0,0,0,0,0,0,0,1,0
+125,Season 1,S01E01,Winter is Coming,6,125,JON SNOW,"[JON walks away, pauses, and hears another whimper.]",Winterfell,The North,Stark,1,Male,0,0,0,0,0,0,0,0,0,0,0
+126,Season 1,S01E01,Winter is Coming,6,126,ROBB STARK, What is it?,Winterfell,The North,Stark,1,Male,0,0,0,0,0,0,0,0,0,0,0
+127,Season 1,S01E01,Winter is Coming,6,127,JON SNOW,[JON pulls up a white wolf pup.],Winterfell,The North,Stark,1,Male,0,0,0,0,0,0,0,0,0,0,0
+128,Season 1,S01E01,Winter is Coming,6,128,THEON GREYJOY," The runt of the litter. That one's yours, Snow.",Winterfell,The North,Greyjoy,1,Male,0,0,0,0,0,0,0,0,0,0,0
+129,Season 1,S01E01,Winter is Coming,7,129,CERSEI LANNISTER,"[Scene shifts to bells ringing at Kings Landing. In front of the Iron Throne, surrounded by druidical looking celebrants, lies the body of JON ARRYN. Up in the balcony, CERSEI watches the scene below as JAIME approaches.]",King's Landing,The Crownlands,Lannister,1,Female,0,0,0,0,0,0,0,0,0,0,0
+130,Season 1,S01E01,Winter is Coming,7,130,JAIME LANNISTER,"[Scene shifts to bells ringing at Kings Landing. In front of the Iron Throne, surrounded by druidical looking celebrants, lies the body of JON ARRYN. Up in the balcony, CERSEI watches the scene below as JAIME approaches.]",King's Landing,The Crownlands,Lannister,1,Male,0,0,0,0,0,0,0,0,0,0,0
+131,Season 1,S01E01,Winter is Coming,7,131,JAIME LANNISTER," As your brother, I feel it's my duty to warn you: You worry too much. It's starting to show.",King's Landing,The Crownlands,Lannister,1,Male,0,0,0,0,0,0,0,0,1,1,0
+132,Season 1,S01E01,Winter is Coming,7,132,CERSEI LANNISTER," And you never worry about anything. When we were seven, you jumped off the cliffs as Casterly Rock. One hundred foot drop into the water. And you were never afraid.",King's Landing,The Crownlands,Lannister,1,Female,0,0,0,0,0,0,0,0,0,0,0
+133,Season 1,S01E01,Winter is Coming,7,133,JAIME LANNISTER," There was nothing to be afraid of until you told father. [In a whisper, mimicking] We're Lannisters. Lannisters don't act like fools.",King's Landing,The Crownlands,Lannister,1,Male,0,0,0,0,0,0,0,0,0,1,0
+134,Season 1,S01E01,Winter is Coming,7,134,CERSEI LANNISTER, What if Jon Arryn told someone?,King's Landing,The Crownlands,Lannister,1,Female,0,0,0,0,0,0,0,0,0,0,0
+135,Season 1,S01E01,Winter is Coming,7,135,JAIME LANNISTER, But who would he tell?,King's Landing,The Crownlands,Lannister,1,Male,0,0,0,0,0,0,0,0,0,0,0
+136,Season 1,S01E01,Winter is Coming,7,136,CERSEI LANNISTER, My husband.,King's Landing,The Crownlands,Lannister,1,Female,0,0,0,0,0,0,0,0,0,1,0
+137,Season 1,S01E01,Winter is Coming,7,137,JAIME LANNISTER," If he told the king, both our heads would be skewered on the city gates by now. Whatever Jon Arryn knew or didn't know, it died with him. And Robert will choose a new Hand of the king, someone to do his job while he's off fucking boars and hunting whores. Or is it the other way around? And life will go on.",King's Landing,The Crownlands,Lannister,1,Male,1,1,0,0,0,0,0,0,0,0,1
+138,Season 1,S01E01,Winter is Coming,7,138,CERSEI LANNISTER, You should be the Hand of the king.,King's Landing,The Crownlands,Lannister,1,Female,0,0,0,0,0,0,0,0,0,0,0
+139,Season 1,S01E01,Winter is Coming,7,139,JAIME LANNISTER," That's an honor I can do without. Their days are too long, their lives are too short.",Winterfell,The North,Lannister,1,Male,0,0,0,0,0,0,0,0,1,0,0
+140,Season 1,S01E01,Winter is Coming,8,140,CATELYN STARK,Scene shifts to a raven approaching Winterfell. [CATELYN crosses a busy courtyard and finds NED in the godswood.],Winterfell,The North,Stark,1,Female,0,0,1,0,0,0,1,0,0,0,0
+141,Season 1,S01E01,Winter is Coming,8,141,NED STARK,Scene shifts to a raven approaching Winterfell. [CATELYN crosses a busy courtyard and finds NED in the godswood.],Winterfell,The North,Stark,1,Male,0,0,1,0,0,0,1,0,0,0,0
+142,Season 1,S01E01,Winter is Coming,8,142,CATELYN STARK, All these years and I still feel like an outsider when I come here.,Winterfell,The North,Stark,1,Female,0,0,0,0,0,0,0,0,0,0,0
+143,Season 1,S01E01,Winter is Coming,8,143,NED STARK, You have five northern children. You're not an outsider.,Winterfell,The North,Stark,1,Male,0,0,0,0,0,0,0,0,0,1,0
+144,Season 1,S01E01,Winter is Coming,8,144,CATELYN STARK, I wonder if the old gods agree.,Winterfell,The North,Stark,1,Female,0,0,1,0,0,0,0,0,0,0,0
+145,Season 1,S01E01,Winter is Coming,8,145,NED STARK, It's your gods with all the rules.,Winterfell,The North,Stark,1,Male,0,0,1,0,0,0,0,0,0,0,0
+146,Season 1,S01E01,Winter is Coming,8,146,CATELYN STARK," I am so sorry, my love.",Winterfell,The North,Stark,1,Female,0,0,0,0,0,1,0,0,0,0,0
+147,Season 1,S01E01,Winter is Coming,8,147,NED STARK, Tell me.,Winterfell,The North,Stark,1,Male,0,0,0,0,0,0,0,0,0,0,0
+148,Season 1,S01E01,Winter is Coming,8,148,CATELYN STARK, There was a raven from Kings Landing. Jon Arryn is dead. A fever took him. I know he was like a father to you.,Winterfell,The North,Stark,1,Female,0,1,0,0,0,0,1,0,0,1,1
+149,Season 1,S01E01,Winter is Coming,8,149,NED STARK, Your sister. The boy ,Winterfell,The North,Stark,1,Male,0,0,0,0,0,0,0,0,0,1,0
+150,Season 1,S01E01,Winter is Coming,8,150,CATELYN STARK, They both have their health. Gods be good. [pause] The raven brought more news. The king rides for Winterfell. With the queen and all the rest of them.,Winterfell,The North,Stark,1,Female,0,0,1,0,0,0,1,0,0,0,0
+151,Season 1,S01E01,Winter is Coming,8,151,NED STARK," He's coming this far North, there's only one thing he's after.",Winterfell,The North,Stark,1,Male,0,0,0,0,0,0,0,0,0,0,0
+152,Season 1,S01E01,Winter is Coming,8,152,CATELYN STARK," You can always say no, Ned.",Winterfell,The North,Stark,1,Female,0,0,0,0,0,0,0,0,0,0,0
+154,Season 1,S01E01,Winter is Coming,9,154,CATELYN STARK, We need plenty of candles for Lord Tyrion's chamber. I'm told he reads all night.,Winterfell,The North,Stark,1,Female,0,0,0,0,0,0,0,0,0,0,0
+156,Season 1,S01E01,Winter is Coming,9,156,CATELYN STARK, How much could he possibly drink? A man of his stature.,Winterfell,The North,Stark,1,Female,0,0,0,0,0,0,0,1,0,0,0
+158,Season 1,S01E01,Winter is Coming,9,158,CATELYN STARK," In any case, candles.",Winterfell,The North,Stark,1,Female,0,0,0,0,0,0,0,0,0,0,0
+159,Season 1,S01E01,Winter is Coming,10,159,ROBB STARK,"[Scene shifts to Robb, Theon, and Jon getting barbered.]",Winterfell,The North,Stark,1,Male,0,0,0,0,0,0,0,0,0,0,0
+160,Season 1,S01E01,Winter is Coming,10,160,THEON GREYJOY,"[Scene shifts to Robb, Theon, and Jon getting barbered.]",Winterfell,The North,Greyjoy,1,Male,0,0,0,0,0,0,0,0,0,0,0
+161,Season 1,S01E01,Winter is Coming,10,161,JON SNOW,"[Scene shifts to Robb, Theon, and Jon getting barbered.]",Winterfell,The North,Stark,1,Male,0,0,0,0,0,0,0,0,0,0,0
+162,Season 1,S01E01,Winter is Coming,10,162,JON SNOW, Why's your mother so dead-set on us getting pretty for the king?,Winterfell,The North,Stark,1,Male,0,1,0,0,0,0,0,0,0,1,1
+163,Season 1,S01E01,Winter is Coming,10,163,THEON GREYJOY," It's for the queen, I bet. I hear she's [sleek as a mink?]",Winterfell,The North,Greyjoy,1,Male,0,0,0,0,0,0,0,0,0,0,0
+164,Season 1,S01E01,Winter is Coming,10,164,ROBB STARK, I hear the prince is a right royal prick.,Winterfell,The North,Stark,1,Male,0,0,0,0,0,0,0,0,0,0,0
+165,Season 1,S01E01,Winter is Coming,10,165,THEON GREYJOY, Think of all those southern girls he gets to stab with his right royal prick.,Winterfell,The North,Greyjoy,1,Male,0,1,0,0,0,0,0,0,0,0,0
+166,Season 1,S01E01,Winter is Coming,10,166,ROBB STARK," Go on, Tommy, shave him good. He's never met a girl he likes better than his own hair.",Winterfell,The North,Stark,1,Male,0,0,0,0,0,0,0,0,0,0,0
+167,Season 1,S01E01,Winter is Coming,11,167,BRAN STARK,"[Scene shifts to the royal procession approaching Winterfell. Bran sees them from his perch high atop a castle wall and clambers nimbly down to tell everyone. CATELYN and LUWIN walk to the courtyard, passing BRAN's wolf pup.]",Winterfell,The North,Stark,1,Male,0,0,0,0,0,0,0,0,0,0,0
+168,Season 1,S01E01,Winter is Coming,11,168,CATELYN STARK,"[Scene shifts to the royal procession approaching Winterfell. Bran sees them from his perch high atop a castle wall and clambers nimbly down to tell everyone. CATELYN and LUWIN walk to the courtyard, passing BRAN's wolf pup.]",Winterfell,The North,Stark,1,Female,0,0,0,0,0,0,0,0,0,0,0
+169,Season 1,S01E01,Winter is Coming,11,169,CATELYN STARK," Gods, but they grow fast. [Seeing BRAN on the wall] Brandon!",Winterfell,The North,Stark,1,Female,0,0,1,0,0,0,0,0,0,0,0
+170,Season 1,S01E01,Winter is Coming,11,170,BRAN STARK, I saw the king! He's got hundreds of people!,Winterfell,The North,Stark,1,Male,0,0,0,0,0,0,0,0,0,0,0
+171,Season 1,S01E01,Winter is Coming,11,171,CATELYN STARK, How many times have I told you: No climbing!,Winterfell,The North,Stark,1,Female,0,0,0,0,0,0,0,0,0,0,0
+172,Season 1,S01E01,Winter is Coming,11,172,BRAN STARK, But he's coming right now! Down our road!,Winterfell,The North,Stark,1,Male,0,0,0,0,0,0,0,0,0,0,0
+173,Season 1,S01E01,Winter is Coming,11,173,CATELYN STARK, I want you to promise me: No more climbing.,Winterfell,The North,Stark,1,Female,0,0,0,0,0,0,0,0,1,0,0
+174,Season 1,S01E01,Winter is Coming,11,174,BRAN STARK, I promise.,Winterfell,The North,Stark,1,Male,0,0,0,0,0,0,0,0,1,0,0
+175,Season 1,S01E01,Winter is Coming,11,175,CATELYN STARK, D'you know what?,Winterfell,The North,Stark,1,Female,0,0,0,0,0,0,0,0,0,0,0
+176,Season 1,S01E01,Winter is Coming,11,176,BRAN STARK, What?,Winterfell,The North,Stark,1,Male,0,0,0,0,0,0,0,0,0,0,0
+177,Season 1,S01E01,Winter is Coming,11,177,CATELYN STARK, You always look at your feet before you lie. Run and find your father. Tell him the king is close.,Winterfell,The North,Stark,1,Female,0,0,0,0,0,0,0,0,0,1,0
+178,Season 1,S01E01,Winter is Coming,11,178,BRAN STARK,"[BRAN runs off, followed by his wolf pup.]",Winterfell,The North,Stark,1,Male,0,0,0,1,1,0,0,0,0,0,0
+179,Season 1,S01E01,Winter is Coming,12,179,ARYA STARK,"[Scene shifts to grand entry of the king's horses and men. ARYA, wearing a helm and cloak, pushes her way into a tall wagon for a better look. In rides JOFFREY, followed by the HOUND. The other Starks wait in a greeting line.]",Winterfell,The North,Stark,1,Female,0,0,0,0,1,0,0,0,0,0,0
+180,Season 1,S01E01,Winter is Coming,12,180,JOFFREY BARATHEON,"[Scene shifts to grand entry of the king's horses and men. ARYA, wearing a helm and cloak, pushes her way into a tall wagon for a better look. In rides JOFFREY, followed by the HOUND. The other Starks wait in a greeting line.]",Winterfell,The North,Lannister,1,Male,0,0,0,0,1,0,0,0,0,0,0
+181,Season 1,S01E01,Winter is Coming,12,181,SANDOR CLEGANE,"[Scene shifts to grand entry of the king's horses and men. ARYA, wearing a helm and cloak, pushes her way into a tall wagon for a better look. In rides JOFFREY, followed by the HOUND. The other Starks wait in a greeting line.]",Winterfell,The North,Other,1,Male,0,0,0,0,1,0,0,0,0,0,0
+182,Season 1,S01E01,Winter is Coming,12,182,CATELYN STARK," Where's Arya? Sansa, where's your sister?",Winterfell,The North,Stark,1,Female,0,0,0,0,0,0,0,0,0,1,0
+183,Season 1,S01E01,Winter is Coming,12,183,ARYA STARK,[More riders with banners. ARYA scoots past her parents to get in the receiving line.],Winterfell,The North,Stark,1,Female,0,0,0,0,0,0,0,0,0,0,0
+184,Season 1,S01E01,Winter is Coming,12,184,NED STARK," Hey,, hey, hey, hey. What are you doing with that on? [Pulls off ARYA's helm]",Winterfell,The North,Stark,1,Male,0,0,0,0,0,0,0,0,0,0,0
+185,Season 1,S01E01,Winter is Coming,12,185,ARYA STARK, Move!,Winterfell,The North,Stark,1,Female,0,0,0,0,0,0,0,0,0,0,0
+186,Season 1,S01E01,Winter is Coming,12,186,JOFFREY BARATHEON,"[JOFFREY rides up, SANSA smiles at him, ROBB glares at JOFFREY. The HOUND pulls up his helm. The coach carrying CERSEI lumbers in, followed by KING ROBERT. All kneel. ROBERT heaves himself off his horse. NED looks shocked at the sight of his old friend, now fat and red-faced. ROBERT signals for all to rise and looks at NED.]",Winterfell,The North,Lannister,1,Male,0,0,0,0,1,0,0,0,0,0,0
+187,Season 1,S01E01,Winter is Coming,12,187,SANSA STARK,"[JOFFREY rides up, SANSA smiles at him, ROBB glares at JOFFREY. The HOUND pulls up his helm. The coach carrying CERSEI lumbers in, followed by KING ROBERT. All kneel. ROBERT heaves himself off his horse. NED looks shocked at the sight of his old friend, now fat and red-faced. ROBERT signals for all to rise and looks at NED.]",Winterfell,The North,Stark,1,Female,0,0,0,0,1,0,0,0,0,0,0
+188,Season 1,S01E01,Winter is Coming,12,188,ROBB STARK,"[JOFFREY rides up, SANSA smiles at him, ROBB glares at JOFFREY. The HOUND pulls up his helm. The coach carrying CERSEI lumbers in, followed by KING ROBERT. All kneel. ROBERT heaves himself off his horse. NED looks shocked at the sight of his old friend, now fat and red-faced. ROBERT signals for all to rise and looks at NED.]",Winterfell,The North,Stark,1,Male,0,0,0,0,1,0,0,0,0,0,0
+189,Season 1,S01E01,Winter is Coming,12,189,SANDOR CLEGANE,"[JOFFREY rides up, SANSA smiles at him, ROBB glares at JOFFREY. The HOUND pulls up his helm. The coach carrying CERSEI lumbers in, followed by KING ROBERT. All kneel. ROBERT heaves himself off his horse. NED looks shocked at the sight of his old friend, now fat and red-faced. ROBERT signals for all to rise and looks at NED.]",Winterfell,The North,Other,1,Male,0,0,0,0,1,0,0,0,0,0,0
+190,Season 1,S01E01,Winter is Coming,12,190,CERSEI LANNISTER,"[JOFFREY rides up, SANSA smiles at him, ROBB glares at JOFFREY. The HOUND pulls up his helm. The coach carrying CERSEI lumbers in, followed by KING ROBERT. All kneel. ROBERT heaves himself off his horse. NED looks shocked at the sight of his old friend, now fat and red-faced. ROBERT signals for all to rise and looks at NED.]",Winterfell,The North,Lannister,1,Female,0,0,0,0,1,0,0,0,0,0,0
+191,Season 1,S01E01,Winter is Coming,12,191,ROBERT BARATHEON,"[JOFFREY rides up, SANSA smiles at him, ROBB glares at JOFFREY. The HOUND pulls up his helm. The coach carrying CERSEI lumbers in, followed by KING ROBERT. All kneel. ROBERT heaves himself off his horse. NED looks shocked at the sight of his old friend, now fat and red-faced. ROBERT signals for all to rise and looks at NED.]",Winterfell,The North,Baratheon,1,Male,0,0,0,0,1,0,0,0,0,0,0
+192,Season 1,S01E01,Winter is Coming,12,192,NED STARK,"[JOFFREY rides up, SANSA smiles at him, ROBB glares at JOFFREY. The HOUND pulls up his helm. The coach carrying CERSEI lumbers in, followed by KING ROBERT. All kneel. ROBERT heaves himself off his horse. NED looks shocked at the sight of his old friend, now fat and red-faced. ROBERT signals for all to rise and looks at NED.]",Winterfell,The North,Stark,1,Male,0,0,0,0,1,0,0,0,0,0,0
+193,Season 1,S01E01,Winter is Coming,12,193,NED STARK, Your Grace.,Winterfell,The North,Stark,1,Male,0,0,0,0,0,0,0,0,0,0,0
+194,Season 1,S01E01,Winter is Coming,12,194,ROBERT BARATHEON, You've got fat.,Winterfell,The North,Baratheon,1,Male,0,0,0,0,0,0,0,0,0,0,0
+195,Season 1,S01E01,Winter is Coming,12,195,NED STARK,[NED gives ROBERT a What about you? look. They start laughing.],Winterfell,The North,Stark,1,Male,0,0,0,0,0,0,0,0,0,0,0
+196,Season 1,S01E01,Winter is Coming,12,196,ROBERT BARATHEON,[NED gives ROBERT a What about you? look. They start laughing.],Winterfell,The North,Baratheon,1,Male,0,0,0,0,0,0,0,0,0,0,0
+197,Season 1,S01E01,Winter is Coming,12,197,ROBERT BARATHEON, Cat!,Winterfell,The North,Baratheon,1,Male,0,0,0,0,0,0,0,0,0,0,0
+198,Season 1,S01E01,Winter is Coming,12,198,CATELYN STARK, Your Grace.,Winterfell,The North,Stark,1,Female,0,0,0,0,0,0,0,0,0,0,0
+199,Season 1,S01E01,Winter is Coming,12,199,ROBERT BARATHEON, Nine years. Why haven't I seen you? Where the hell have you been?,Winterfell,The North,Baratheon,1,Male,0,0,0,0,0,0,0,0,0,0,0
+200,Season 1,S01E01,Winter is Coming,12,200,NED STARK," Guarding the North for you, Your Grace. Winterfell is yours.",Winterfell,The North,Stark,1,Male,0,0,0,0,0,0,0,0,0,0,0
+201,Season 1,S01E01,Winter is Coming,12,201,CERSEI LANNISTER,[CERSEI and her other children descend from the coach.],Winterfell,The North,Lannister,1,Female,0,0,0,0,0,0,0,0,0,1,0
+202,Season 1,S01E01,Winter is Coming,12,202,ARYA STARK, Where's the Imp?,Winterfell,The North,Stark,1,Female,0,0,0,0,0,0,0,0,0,0,0
+203,Season 1,S01E01,Winter is Coming,12,203,SANSA STARK, Will you shut up?,Winterfell,The North,Stark,1,Female,0,0,0,0,0,0,0,0,0,0,0
+204,Season 1,S01E01,Winter is Coming,12,204,ROBERT BARATHEON," Who have we here? You must be Robb. (To Sansa) My, you're a pretty one. (To Arya) Your name is?",Winterfell,The North,Baratheon,1,Male,0,0,0,0,0,0,0,0,0,0,0
+205,Season 1,S01E01,Winter is Coming,12,205,ARYA STARK, Arya.,Winterfell,The North,Stark,1,Female,0,0,0,0,0,0,0,0,0,0,0
+206,Season 1,S01E01,Winter is Coming,12,206,ROBERT BARATHEON,ROBERT (to BRAN) Ooh. Show us your muscles. You'll be a soldier.,Winterfell,The North,Baratheon,1,Male,0,1,0,0,0,0,0,0,0,0,1
+207,Season 1,S01E01,Winter is Coming,12,207,JAIME LANNISTER,[JAIME removes his helm.],Winterfell,The North,Lannister,1,Male,0,0,0,0,0,0,0,0,0,0,0
+208,Season 1,S01E01,Winter is Coming,12,208,ARYA STARK, That's Jaime Lannister. The queen's twin brother.,Winterfell,The North,Stark,1,Female,0,0,0,0,0,0,0,0,0,1,0
+209,Season 1,S01E01,Winter is Coming,12,209,SANSA STARK, Would you please shut up.,Winterfell,The North,Stark,1,Female,0,0,0,0,0,0,0,0,0,0,0
+210,Season 1,S01E01,Winter is Coming,12,210,CERSEI LANNISTER,[CERSEI approaches.],Winterfell,The North,Lannister,1,Female,0,0,0,0,0,0,0,0,0,0,0
+211,Season 1,S01E01,Winter is Coming,12,211,NED STARK, My queen.,Winterfell,The North,Stark,1,Male,0,0,0,0,0,0,0,0,0,0,0
+212,Season 1,S01E01,Winter is Coming,12,212,CATELYN STARK, My queen.,Winterfell,The North,Stark,1,Female,0,0,0,0,0,0,0,0,0,0,0
+213,Season 1,S01E01,Winter is Coming,12,213,ROBERT BARATHEON, Take me to your crypt. I want to pay my respects.,Winterfell,The North,Baratheon,1,Male,0,0,0,0,1,0,0,0,0,0,0
+214,Season 1,S01E01,Winter is Coming,12,214,CERSEI LANNISTER," We've been riding for a month, my love. Surely the dead can wait.",Winterfell,The North,Lannister,1,Female,0,1,0,0,0,1,0,0,0,0,1
+215,Season 1,S01E01,Winter is Coming,12,215,ROBERT BARATHEON, Ned.,Winterfell,The North,Baratheon,1,Male,0,0,0,0,0,0,0,0,0,0,0
+216,Season 1,S01E01,Winter is Coming,12,216,ARYA STARK, Where's the Imp?,Winterfell,The North,Stark,1,Female,0,0,0,0,0,0,0,0,0,0,0
+217,Season 1,S01E01,Winter is Coming,12,217,CERSEI LANNISTER,"[CERSEI, humiliated in front of all, walks back to JAIME.]",Winterfell,The North,Lannister,1,Female,0,0,0,0,0,0,0,0,0,0,0
+218,Season 1,S01E01,Winter is Coming,12,218,JAIME LANNISTER,"[CERSEI, humiliated in front of all, walks back to JAIME.]",Winterfell,The North,Lannister,1,Male,0,0,0,0,0,0,0,0,0,0,0
+219,Season 1,S01E01,Winter is Coming,12,219,CERSEI LANNISTER, Where is our brother? Go find the little beast.,Winterfell,The North,Lannister,1,Female,0,0,0,0,0,0,0,0,0,1,0
+221,Season 1,S01E01,Winter is Coming,13,221,NED STARK, Tell me about Jon Arryn.,Winterfell,The North,Stark,1,Male,0,0,0,0,0,0,0,0,0,0,0
+222,Season 1,S01E01,Winter is Coming,13,222,ROBERT BARATHEON," One minute he was fine, and then Burned right through him, whatever it was. I loved that man.",Winterfell,The North,Baratheon,1,Male,0,0,0,0,0,0,0,0,0,0,0
+223,Season 1,S01E01,Winter is Coming,13,223,NED STARK, We both did.,Winterfell,The North,Stark,1,Male,0,0,0,0,0,0,0,0,0,0,0
+224,Season 1,S01E01,Winter is Coming,13,224,ROBERT BARATHEON," He never had to teach you much, but me You remember me at 16? All I wanted to do was crack skulls and fuck girls. He showed me what was what.",Winterfell,The North,Baratheon,1,Male,0,0,0,0,1,0,0,0,0,0,0
+225,Season 1,S01E01,Winter is Coming,13,225,NED STARK, Aye.,Winterfell,The North,Stark,1,Male,0,0,0,0,0,0,0,0,0,0,0
+226,Season 1,S01E01,Winter is Coming,13,226,ROBERT BARATHEON," Don't look at me like that. Not his fault I didn't listen. (They laugh. ROBERT sighs.) I need you, Ned. Down at Kings Landing. Not up here, where you're no damn use to anybody. Lord Eddard Stark, I would name you the Hand of the king.",Winterfell,The North,Baratheon,1,Male,0,0,0,0,0,0,0,0,0,0,0
+227,Season 1,S01E01,Winter is Coming,13,227,NED STARK,[NED kneels.],Winterfell,The North,Stark,1,Male,0,0,0,0,0,0,0,0,0,0,0
+228,Season 1,S01E01,Winter is Coming,13,228,NED STARK, I'm not worthy of the honor.,Winterfell,The North,Stark,1,Male,0,0,0,0,0,0,0,0,1,0,0
+229,Season 1,S01E01,Winter is Coming,13,229,ROBERT BARATHEON," I'm not trying to honor you. I'm trying to get you to run my kingdom while I eat, drink, and whore my way to an early grave. Damn it, Ned, stand up. You helped me win the Iron Throne, now help me keep the damn thing. We were meant to rule together. If your sister had lived, we would have been bound by blood. Well, it's not too late. I have a son, you have a daughter. We'll join our Houses.",Winterfell,The North,Baratheon,1,Male,1,1,0,0,0,0,0,1,1,1,0
+230,Season 1,S01E01,Winter is Coming,14,230,JAIME LANNISTER,"[Scene changes to JAIME in the Winterfell settlement. We see Tyrion inside a whorehouse, swilling liquor and laughing as a woman pops into view after servicing him.]",Winterfell,The North,Lannister,1,Male,1,0,0,0,0,0,0,1,0,0,0
+231,Season 1,S01E01,Winter is Coming,14,231,TYRION LANNISTER,"[Scene changes to JAIME in the Winterfell settlement. We see Tyrion inside a whorehouse, swilling liquor and laughing as a woman pops into view after servicing him.]",Winterfell,The North,Lannister,1,Male,1,0,0,0,0,0,0,1,0,0,0
+232,Season 1,S01E01,Winter is Coming,14,232,TYRION LANNISTER, Mmh. It is true what they say about the Northern girls.,Winterfell,The North,Lannister,1,Male,0,0,0,0,0,0,0,0,0,0,0
+234,Season 1,S01E01,Winter is Coming,14,234,TYRION LANNISTER, I did hear something about that.,Winterfell,The North,Lannister,1,Male,0,0,0,0,0,0,0,0,0,0,0
+236,Season 1,S01E01,Winter is Coming,14,236,TYRION LANNISTER, And the other brother?,Winterfell,The North,Lannister,1,Male,0,0,0,0,0,0,0,0,0,1,0
+238,Season 1,S01E01,Winter is Coming,14,238,TYRION LANNISTER, There's the pretty one. And there's the clever one.,Winterfell,The North,Lannister,1,Male,0,0,0,0,0,0,0,0,0,0,0
+240,Season 1,S01E01,Winter is Coming,14,240,TYRION LANNISTER, I hear he hates that nickname.,Winterfell,The North,Lannister,1,Male,0,0,0,0,0,0,0,0,0,0,0
+242,Season 1,S01E01,Winter is Coming,14,242,TYRION LANNISTER, Clever girl.,Winterfell,The North,Lannister,1,Male,0,0,0,0,0,0,0,0,0,0,0
+244,Season 1,S01E01,Winter is Coming,14,244,TYRION LANNISTER, Have you?,Winterfell,The North,Lannister,1,Male,0,0,0,0,0,0,0,0,0,0,0
+245,Season 1,S01E01,Winter is Coming,14,245,TYRION LANNISTER, The gods gave me one blessing.,Winterfell,The North,Lannister,1,Male,0,0,1,0,0,0,0,0,0,0,0
+246,Season 1,S01E01,Winter is Coming,14,246,TYRION LANNISTER,[She climbs on TYRION. JAIME walks in without knocking.],Winterfell,The North,Lannister,1,Male,0,1,0,0,0,0,0,0,0,0,0
+247,Season 1,S01E01,Winter is Coming,14,247,JAIME LANNISTER,[She climbs on TYRION. JAIME walks in without knocking.],Winterfell,The North,Lannister,1,Male,0,1,0,0,0,0,0,0,0,0,0
+248,Season 1,S01E01,Winter is Coming,14,248,JAIME LANNISTER, Don't get up.,Winterfell,The North,Lannister,1,Male,0,0,0,0,0,0,0,0,0,0,0
+250,Season 1,S01E01,Winter is Coming,14,250,TYRION LANNISTER," Should I explain to you the meaning of a closed door in a whorehouse, brother?",Winterfell,The North,Lannister,1,Male,1,0,0,0,0,0,0,0,0,1,0
+251,Season 1,S01E01,Winter is Coming,14,251,JAIME LANNISTER," You've much to teach me, no doubt. But our sister craves your attention.",Winterfell,The North,Lannister,1,Male,0,0,0,0,0,0,0,0,0,1,0
+252,Season 1,S01E01,Winter is Coming,14,252,TYRION LANNISTER," She has odd cravings, our sister.",Winterfell,The North,Lannister,1,Male,0,0,0,0,0,0,0,0,0,1,0
+253,Season 1,S01E01,Winter is Coming,14,253,JAIME LANNISTER," A family trait. Now, the Starks are feasting us at sundown. Don't leave me alone with these people.",Winterfell,The North,Lannister,1,Male,0,0,0,0,0,0,0,0,0,1,0
+254,Season 1,S01E01,Winter is Coming,14,254,TYRION LANNISTER," I'm sorry, I've begun the feast a bit early. And this is the first of many courses.",Winterfell,The North,Lannister,1,Male,0,0,0,0,0,0,0,0,0,0,0
+255,Season 1,S01E01,Winter is Coming,14,255,JAIME LANNISTER," I thought you might say that. But since we're short on time, (he opens the door; a bevy of whores enter and descend on TYRION) Come on, girls. See you at sundown.",Winterfell,The North,Lannister,1,Male,1,0,0,0,0,0,0,0,0,0,0
+256,Season 1,S01E01,Winter is Coming,14,256,JAIME LANNISTER,[JAIME leaves.],Winterfell,The North,Lannister,1,Male,0,0,0,0,0,0,0,0,0,0,0
+257,Season 1,S01E01,Winter is Coming,14,257,TYRION LANNISTER, Close the door!,Winterfell,The North,Lannister,1,Male,0,0,0,0,0,0,0,0,0,0,0
+258,Season 1,S01E01,Winter is Coming,15,258,ROBERT BARATHEON,"[Scene changes to the Winterfell crypt, at Lyanna's tomb. Robert places a feather in the hand of her statue.]",Winterfell,The North,Baratheon,1,Male,0,0,0,0,0,0,0,0,0,0,0
+259,Season 1,S01E01,Winter is Coming,15,259,ROBERT BARATHEON, Did you have to bury her in a place like this? She should be on a hill somewhere with the sun and the clouds above her.,Winterfell,The North,Baratheon,1,Male,0,0,0,0,0,0,0,0,0,0,0
+260,Season 1,S01E01,Winter is Coming,15,260,NED STARK, She was my sister. This is where she belongs.,Winterfell,The North,Stark,1,Male,0,0,0,0,0,0,0,0,0,1,0
+261,Season 1,S01E01,Winter is Coming,15,261,ROBERT BARATHEON, She belonged with me.,Winterfell,The North,Baratheon,1,Male,0,0,0,0,0,0,0,0,0,0,0
+263,Season 1,S01E01,Winter is Coming,15,263,ROBERT BARATHEON," In my dreams, I kill him every night.",Winterfell,The North,Baratheon,1,Male,0,1,0,0,0,0,0,0,0,0,1
+264,Season 1,S01E01,Winter is Coming,15,264,NED STARK," It's done, Your Grace. The Targaryens are gone.",Winterfell,The North,Stark,1,Male,0,0,0,0,0,0,0,0,0,1,0
+265,Season 1,S01E01,Winter is Coming,15,265,ROBERT BARATHEON, Not all of them.,Winterfell,The North,Baratheon,1,Male,0,0,0,0,0,0,0,0,0,0,0
+266,Season 1,S01E01,Winter is Coming,16,266,DAENERYS TARGARYEN,"[Scene shifts to Daenerys on a balcony in Pentos, across the Narrow Sea.]",Pentos,Essos,Other,1,Female,0,0,0,0,0,0,0,0,0,0,0
+270,Season 1,S01E01,Winter is Coming,17,270,DAENERYS TARGARYEN, We've been his guests for over a year and he's never asked us for anything.,Pentos,Essos,Other,1,Female,0,0,0,0,0,0,0,0,0,0,0
+272,Season 1,S01E01,Winter is Coming,17,272,DAENERYS TARGARYEN, No.,Pentos,Essos,Other,1,Female,0,0,0,0,0,0,0,0,0,0,0
+275,Season 1,S01E01,Winter is Coming,17,275,DAENERYS TARGARYEN,[Daenerys turns and steps into a steaming hot bath with a despairing look on her face.],Pentos,Essos,Other,1,Female,0,0,0,0,0,0,0,0,0,0,0
+277,Season 1,S01E01,Winter is Coming,17,277,DAENERYS TARGARYEN,"[But DAENERYS keeps stepping deeper. The scene shifts to ILLYRIOS, DAENERYS, AND VISERYS outside the mansion, awaiting Khal Drogo.]",Pentos,Essos,Other,1,Female,0,0,0,0,0,0,0,0,0,0,0
+279,Season 1,S01E01,Winter is Coming,17,279,KHAL DROGO,"[But DAENERYS keeps stepping deeper. The scene shifts to ILLYRIOS, DAENERYS, AND VISERYS outside the mansion, awaiting Khal Drogo.]",Pentos,Essos,Other,1,Male,0,0,0,0,0,0,0,0,0,0,0
+282,Season 1,S01E01,Winter is Coming,17,282,KHAL DROGO,[A host of Dothraki come riding up. Khal Drogo wheels his stallion into the front.],Pentos,Essos,Other,1,Male,0,0,0,0,0,0,0,0,0,0,0
+285,Season 1,S01E01,Winter is Coming,17,285,KHAL DROGO,"VISERYS (to DAENERYS) Do you see how long his hair is? When Dothraki are defeated in combat, they cut off their braid so the whole world can see their shame. Khal Drogo has never been defeated. He's a savage, of course, but he's one of the finest killers alive. And you will be his queen.",Pentos,Essos,Other,1,Male,0,1,0,0,0,0,0,0,0,0,1
+287,Season 1,S01E01,Winter is Coming,17,287,KHAL DROGO,"[KHAL DROGO watches as DAENERYS walks toward him. She does not hesitate and looks straight at him, although there is fear on her face. KHAL DROGO gazes at her and then leads his horsemen on a charge away.]",Pentos,Essos,Other,1,Male,0,0,0,0,0,0,0,0,0,0,0
+288,Season 1,S01E01,Winter is Coming,17,288,DAENERYS TARGARYEN,"[KHAL DROGO watches as DAENERYS walks toward him. She does not hesitate and looks straight at him, although there is fear on her face. KHAL DROGO gazes at her and then leads his horsemen on a charge away.]",Pentos,Essos,Other,1,Female,0,0,0,0,0,0,0,0,0,0,0
+294,Season 1,S01E01,Winter is Coming,17,294,DAENERYS TARGARYEN,"[The scene shifts to ILLYRIO, VISERYS, AND DAENERYS ON A GARDEN BALCONY OVERLOOKING THE SEA.]",Pentos,Essos,Other,1,Female,0,0,0,0,0,0,0,0,0,0,0
+303,Season 1,S01E01,Winter is Coming,17,303,DAENERYS TARGARYEN,DAENERYS (pleadingly) I don't want to be his queen. I want to go home.,Pentos,Essos,Other,1,Female,0,0,0,0,0,0,0,0,0,0,0
+305,Season 1,S01E01,Winter is Coming,17,305,DAENERYS TARGARYEN, I don't know.,Pentos,Essos,Other,1,Female,0,0,0,0,0,0,0,0,0,0,0
+307,Season 1,S01E01,Winter is Coming,17,307,DAENERYS TARGARYEN,"[He gives DAENERYS a brotherly kiss on the forehead and walks away. The scene shifts to a bedroom in Winterfell, where CATELYN is fixing SANSA'S hair.]",Pentos,Essos,Other,1,Female,0,0,0,0,0,1,0,0,0,1,0
+308,Season 1,S01E01,Winter is Coming,18,308,CATELYN STARK,"[He gives DAENERYS a brotherly kiss on the forehead and walks away. The scene shifts to a bedroom in Winterfell, where CATELYN is fixing SANSA'S hair.]",Winterfell,The North,Stark,1,Female,0,0,0,0,0,1,0,0,0,1,0
+309,Season 1,S01E01,Winter is Coming,18,309,SANSA STARK, Do you think Joffrey will like me? What if he thinks I'm ugly?,Winterfell,The North,Stark,1,Female,0,0,0,0,0,0,0,0,0,0,0
+310,Season 1,S01E01,Winter is Coming,18,310,CATELYN STARK, Then he is the stupidest prince that ever lived.,Winterfell,The North,Stark,1,Female,0,0,0,0,0,0,0,0,0,0,0
+311,Season 1,S01E01,Winter is Coming,18,311,SANSA STARK, He's so handsome.,Winterfell,The North,Stark,1,Female,0,0,0,0,0,0,0,0,0,0,0
+312,Season 1,S01E01,Winter is Coming,18,312,CATELYN STARK,[CATELYN rolls her eyes.],Winterfell,The North,Stark,1,Female,0,0,0,0,0,0,0,0,0,0,0
+313,Season 1,S01E01,Winter is Coming,18,313,SANSA STARK, When would we be married? Soon or do we have to wait?,Winterfell,The North,Stark,1,Female,0,0,0,0,0,0,0,0,0,0,0
+314,Season 1,S01E01,Winter is Coming,18,314,CATELYN STARK, Hush now. Your father hasn't even said yes.,Winterfell,The North,Stark,1,Female,0,0,0,0,0,0,0,0,0,1,0
+315,Season 1,S01E01,Winter is Coming,18,315,SANSA STARK, Why would he say no? He'd be the second most powerful man in the kingdoms.,Winterfell,The North,Stark,1,Female,0,0,0,0,1,0,0,0,0,0,0
+316,Season 1,S01E01,Winter is Coming,18,316,CATELYN STARK, He'd have to leave home. He'd have to leave me. And so would you.,Winterfell,The North,Stark,1,Female,0,0,0,0,0,0,0,0,0,0,0
+317,Season 1,S01E01,Winter is Coming,18,317,SANSA STARK, You left your home to come here. And I'd be queen someday. Please make father say yes.,Winterfell,The North,Stark,1,Female,0,0,0,0,0,0,0,0,0,1,0
+318,Season 1,S01E01,Winter is Coming,18,318,CATELYN STARK, Sansa,Winterfell,The North,Stark,1,Female,0,0,0,0,0,0,0,0,0,0,0
+319,Season 1,S01E01,Winter is Coming,18,319,SANSA STARK," Please, please. It's the only thing I ever wanted.",Winterfell,The North,Stark,1,Female,0,0,0,0,0,0,0,0,0,0,0
+320,Season 1,S01E01,Winter is Coming,18,320,ROBERT BARATHEON,"[Scene shifts to the Winterfell banquet. Laughter, music, KING ROBERT getting bawdy with a wench. CATELYN and CERSEI watch, CATELYN embarrassed for CERSEI, who looks disgusted. Out in the courtyard, JON takes out his frustration on a fencing dummy. His uncle BENJEN rides up.]",Winterfell,The North,Baratheon,1,Male,0,0,0,0,0,0,0,0,0,1,0
+321,Season 1,S01E01,Winter is Coming,18,321,CATELYN STARK,"[Scene shifts to the Winterfell banquet. Laughter, music, KING ROBERT getting bawdy with a wench. CATELYN and CERSEI watch, CATELYN embarrassed for CERSEI, who looks disgusted. Out in the courtyard, JON takes out his frustration on a fencing dummy. His uncle BENJEN rides up.]",Winterfell,The North,Stark,1,Female,0,0,0,0,0,0,0,0,0,1,0
+322,Season 1,S01E01,Winter is Coming,18,322,CERSEI LANNISTER,"[Scene shifts to the Winterfell banquet. Laughter, music, KING ROBERT getting bawdy with a wench. CATELYN and CERSEI watch, CATELYN embarrassed for CERSEI, who looks disgusted. Out in the courtyard, JON takes out his frustration on a fencing dummy. His uncle BENJEN rides up.]",Winterfell,The North,Lannister,1,Female,0,0,0,0,0,0,0,0,0,1,0
+323,Season 1,S01E01,Winter is Coming,19,323,JON SNOW,"[Scene shifts to the Winterfell banquet. Laughter, music, KING ROBERT getting bawdy with a wench. CATELYN and CERSEI watch, CATELYN embarrassed for CERSEI, who looks disgusted. Out in the courtyard, JON takes out his frustration on a fencing dummy. His uncle BENJEN rides up.]",Winterfell,The North,Stark,1,Male,0,0,0,0,0,0,0,0,0,1,0
+325,Season 1,S01E01,Winter is Coming,19,325,JON SNOW, Uncle Benjen!,Winterfell,The North,Stark,1,Male,0,0,0,0,0,0,0,0,0,1,0
+328,Season 1,S01E01,Winter is Coming,19,328,JON SNOW, Lady Stark thought it might insult the royal family to seat a bastard in their midst.,Winterfell,The North,Stark,1,Male,0,0,0,0,0,0,0,0,0,1,0
+330,Season 1,S01E01,Winter is Coming,19,330,JON SNOW, So take me with you when you go back.,Winterfell,The North,Stark,1,Male,0,0,0,0,0,0,0,0,0,0,0
+332,Season 1,S01E01,Winter is Coming,19,332,JON SNOW," Father will let me if you ask him, I know he will.",Winterfell,The North,Stark,1,Male,0,0,0,0,0,0,0,0,0,1,0
+334,Season 1,S01E01,Winter is Coming,19,334,JON SNOW, I'm ready to swear your oath.,Winterfell,The North,Stark,1,Male,0,0,0,0,0,0,0,0,1,0,0
+336,Season 1,S01E01,Winter is Coming,19,336,JON SNOW, I don't care about that.,Winterfell,The North,Stark,1,Male,0,0,0,0,0,0,0,0,0,0,0
+339,Season 1,S01E01,Winter is Coming,19,339,TYRION LANNISTER, Your uncle's in the Night's Watch.,Winterfell,The North,Lannister,1,Male,0,0,0,0,0,0,0,0,0,1,0
+340,Season 1,S01E01,Winter is Coming,19,340,JON SNOW, What're you doing back there?,Winterfell,The North,Stark,1,Male,0,0,0,0,0,0,0,0,0,0,0
+341,Season 1,S01E01,Winter is Coming,19,341,TYRION LANNISTER, Preparing for a night with your family. I've always wanted to see the Wall.,Winterfell,The North,Lannister,1,Male,0,0,0,0,0,0,0,0,0,1,0
+342,Season 1,S01E01,Winter is Coming,19,342,JON SNOW, You're Tyrion Lannister. The queen's brother?,Winterfell,The North,Stark,1,Male,0,0,0,0,0,0,0,0,0,1,0
+343,Season 1,S01E01,Winter is Coming,19,343,TYRION LANNISTER," My greatest accomplishment. You – you're Ned Stark's bastard, aren't you?",Winterfell,The North,Lannister,1,Male,0,0,0,0,0,0,0,0,0,1,0
+344,Season 1,S01E01,Winter is Coming,19,344,JON SNOW,[JON looks angry and turns away.],Winterfell,The North,Stark,1,Male,0,0,0,0,0,0,0,0,0,0,0
+345,Season 1,S01E01,Winter is Coming,19,345,TYRION LANNISTER," Did I offend you? Sorry. You are the bastard, though.",Winterfell,The North,Lannister,1,Male,0,0,0,0,0,0,0,0,0,1,0
+346,Season 1,S01E01,Winter is Coming,19,346,JON SNOW, Lord Eddard Stark is my father.,Winterfell,The North,Stark,1,Male,0,0,0,0,0,0,0,0,0,1,0
+347,Season 1,S01E01,Winter is Coming,19,347,TYRION LANNISTER," And Lady Stark is not your mother. Making you a bastard. Let me give you some advice, bastard. Never forget what you are. The rest of the world will not. Wear it like armor. Then it can never be used to hurt you.",Winterfell,The North,Lannister,1,Male,0,0,0,0,0,0,0,0,0,1,0
+348,Season 1,S01E01,Winter is Coming,19,348,JON SNOW, What the hell do you know about being a bastard?,Winterfell,The North,Stark,1,Male,0,0,0,0,0,0,0,0,0,1,0
+349,Season 1,S01E01,Winter is Coming,19,349,TYRION LANNISTER, All dwarves are bastards in their fathers' eyes.,Winterfell,The North,Lannister,1,Male,0,0,0,0,0,0,0,0,0,1,0
+350,Season 1,S01E01,Winter is Coming,19,350,TYRION LANNISTER,[TYRION departs. JON picks up his sword and attacks the dummy with new ferocity.],Winterfell,The North,Lannister,1,Male,0,1,0,0,0,0,0,0,0,0,0
+351,Season 1,S01E01,Winter is Coming,19,351,JON SNOW,[TYRION departs. JON picks up his sword and attacks the dummy with new ferocity.],Winterfell,The North,Stark,1,Male,0,1,0,0,0,0,0,0,0,0,0
+352,Season 1,S01E01,Winter is Coming,20,352,NED STARK,"[The scene shifts back to the banquet, in full raucous swing. NED is off to himself; BENJEN comes up to him.]",Winterfell,The North,Stark,1,Male,0,0,0,0,0,0,0,0,0,0,0
+354,Season 1,S01E01,Winter is Coming,20,354,NED STARK, The boy I beheaded. Did you know him?,Winterfell,The North,Stark,1,Male,0,1,0,0,0,0,0,0,0,0,0
+356,Season 1,S01E01,Winter is Coming,20,356,NED STARK, He was talking madness. Said the Walkers slaughtered his friends.,Winterfell,The North,Stark,1,Male,0,1,0,1,0,0,0,0,0,0,1
+358,Season 1,S01E01,Winter is Coming,20,358,NED STARK, A wildling ambush.,Winterfell,The North,Stark,1,Male,0,0,0,0,0,0,0,0,0,0,0
+360,Season 1,S01E01,Winter is Coming,20,360,NED STARK, Winter is coming.,Winterfell,The North,Stark,1,Male,0,0,0,0,0,0,0,0,0,0,0
+361,Season 1,S01E01,Winter is Coming,20,361,ROBB STARK,[ROBB approaches.],Winterfell,The North,Stark,1,Male,0,0,0,0,0,0,0,0,0,0,0
+362,Season 1,S01E01,Winter is Coming,20,362,ROBB STARK, Uncle Benjen.,Winterfell,The North,Stark,1,Male,0,0,0,0,0,0,0,0,0,1,0
+364,Season 1,S01E01,Winter is Coming,20,364,ROBB STARK, I'm good.,Winterfell,The North,Stark,1,Male,0,0,0,0,0,0,0,0,0,0,0
+365,Season 1,S01E01,Winter is Coming,20,365,ROBERT BARATHEON,[KING ROBERT gets even more bawdy with a wench.],Winterfell,The North,Baratheon,1,Male,0,0,0,0,0,0,0,0,0,0,0
+366,Season 1,S01E01,Winter is Coming,20,366,CATELYN STARK,"CATELYN (in desperation) Is this your first time in the North, Your Grace?",Winterfell,The North,Stark,1,Female,0,0,0,0,0,0,0,0,0,0,0
+367,Season 1,S01E01,Winter is Coming,20,367,CERSEI LANNISTER, Yes. Lovely country.,Winterfell,The North,Lannister,1,Female,0,0,0,0,0,0,0,0,0,0,0
+368,Season 1,S01E01,Winter is Coming,20,368,SANSA STARK,[They observe SANSA.],Winterfell,The North,Stark,1,Female,0,0,0,0,0,0,0,0,1,0,0
+369,Season 1,S01E01,Winter is Coming,20,369,CATELYN STARK," I'm sure it's very grim, after Kings Landing. I remember how scared I was when Ned brought me up here for the first time.",Winterfell,The North,Stark,1,Female,0,0,0,0,0,0,0,0,0,0,0
+370,Season 1,S01E01,Winter is Coming,20,370,SANSA STARK,[SANSA approaches and smiles shyly at CERSEI.],Winterfell,The North,Stark,1,Female,0,0,0,0,0,0,0,0,0,0,0
+371,Season 1,S01E01,Winter is Coming,20,371,CERSEI LANNISTER,[SANSA approaches and smiles shyly at CERSEI.],Winterfell,The North,Lannister,1,Female,0,0,0,0,0,0,0,0,0,0,0
+372,Season 1,S01E01,Winter is Coming,20,372,CERSEI LANNISTER," Hello, little dove. But you are a beauty. How old are you?",Winterfell,The North,Lannister,1,Female,0,0,0,0,0,0,0,0,0,0,0
+373,Season 1,S01E01,Winter is Coming,20,373,SANSA STARK," Thirteen, Your Grace.",Winterfell,The North,Stark,1,Female,0,0,0,0,0,0,0,0,0,0,0
+374,Season 1,S01E01,Winter is Coming,20,374,CERSEI LANNISTER, You're tall. Still growing?,Winterfell,The North,Lannister,1,Female,0,0,0,0,0,0,0,0,0,0,0
+375,Season 1,S01E01,Winter is Coming,20,375,SANSA STARK," I think so, Your Grace.",Winterfell,The North,Stark,1,Female,0,0,0,0,0,0,0,0,0,0,0
+376,Season 1,S01E01,Winter is Coming,20,376,CERSEI LANNISTER, And have you bled yet?,Winterfell,The North,Lannister,1,Female,0,0,0,0,0,0,0,0,0,0,0
+377,Season 1,S01E01,Winter is Coming,20,377,SANSA STARK," No, Your Grace.",Winterfell,The North,Stark,1,Female,0,0,0,0,0,0,0,0,0,0,0
+378,Season 1,S01E01,Winter is Coming,20,378,CERSEI LANNISTER, And your dress. Did you make it?,Winterfell,The North,Lannister,1,Female,0,0,0,0,0,0,0,0,0,0,0
+379,Season 1,S01E01,Winter is Coming,20,379,SANSA STARK,[SANSA nods yes.],Winterfell,The North,Stark,1,Female,0,0,0,0,0,0,0,0,0,0,0
+380,Season 1,S01E01,Winter is Coming,20,380,CERSEI LANNISTER, Such talent. You must make something for me.,Winterfell,The North,Lannister,1,Female,0,0,0,0,0,0,0,0,0,0,0
+381,Season 1,S01E01,Winter is Coming,20,381,SANSA STARK,[SANSA departs.],Winterfell,The North,Stark,1,Female,0,0,0,0,0,0,0,0,0,0,0
+382,Season 1,S01E01,Winter is Coming,20,382,CERSEI LANNISTER, I hear we might share a grandchild someday.,Winterfell,The North,Lannister,1,Female,0,0,0,0,0,0,0,0,0,0,0
+383,Season 1,S01E01,Winter is Coming,20,383,CATELYN STARK, I hear the same.,Winterfell,The North,Stark,1,Female,0,0,0,0,0,0,0,0,0,0,0
+384,Season 1,S01E01,Winter is Coming,20,384,CERSEI LANNISTER, Your daughter will do well in the capital. Such a beauty shouldn't stay hidden up here forever.,Winterfell,The North,Lannister,1,Female,0,0,0,0,0,0,0,0,0,1,0
+385,Season 1,S01E01,Winter is Coming,20,385,SANSA STARK,[SANSA and JOFFREY catch each other's eye. JOFFREY smiles at her and she turns to her friend.],Winterfell,The North,Stark,1,Female,0,0,0,0,0,0,0,0,0,0,0
+386,Season 1,S01E01,Winter is Coming,20,386,JOFFREY BARATHEON,[SANSA and JOFFREY catch each other's eye. JOFFREY smiles at her and she turns to her friend.],Winterfell,The North,Lannister,1,Male,0,0,0,0,0,0,0,0,0,0,0
+387,Season 1,S01E01,Winter is Coming,20,387,JAIME LANNISTER,[JAIME and NED meet up. JAIME blocks their path.],Winterfell,The North,Lannister,1,Male,0,0,0,0,0,0,0,0,0,0,0
+388,Season 1,S01E01,Winter is Coming,20,388,NED STARK,[JAIME and NED meet up. JAIME blocks their path.],Winterfell,The North,Stark,1,Male,0,0,0,0,0,0,0,0,0,0,0
+389,Season 1,S01E01,Winter is Coming,20,389,NED STARK, Your pardon.,Winterfell,The North,Stark,1,Male,0,0,0,0,0,0,0,0,0,0,0
+390,Season 1,S01E01,Winter is Coming,20,390,JAIME LANNISTER, I hear we might be neighbors soon. I hope it's true.,Winterfell,The North,Lannister,1,Male,0,0,0,0,0,0,0,0,0,0,0
+391,Season 1,S01E01,Winter is Coming,20,391,NED STARK," Yes, the king has honored me with his offer.",Winterfell,The North,Stark,1,Male,0,0,0,0,0,0,0,0,1,0,0
+392,Season 1,S01E01,Winter is Coming,20,392,JAIME LANNISTER," I'm sure we'll have a tournament to celebrate the new title, if you accept. It would be good to have you in the field. The competition has become a bit stale.",Winterfell,The North,Lannister,1,Male,0,0,0,0,0,0,0,0,0,0,0
+393,Season 1,S01E01,Winter is Coming,20,393,NED STARK, I don't fight in tournaments.,Winterfell,The North,Stark,1,Male,0,1,0,0,0,0,0,0,0,0,0
+394,Season 1,S01E01,Winter is Coming,20,394,JAIME LANNISTER, No? Getting a little old for it?,Winterfell,The North,Lannister,1,Male,0,0,0,0,0,0,0,0,0,0,0
+395,Season 1,S01E01,Winter is Coming,20,395,NED STARK," I don't fight in tournaments because when I fight a man for real, I don't want him to know what I can do.",Winterfell,The North,Stark,1,Male,0,1,0,0,0,0,0,0,0,0,0
+396,Season 1,S01E01,Winter is Coming,20,396,JAIME LANNISTER, Well said.,Winterfell,The North,Lannister,1,Male,0,0,0,0,0,0,0,0,0,0,0
+397,Season 1,S01E01,Winter is Coming,20,397,ARYA STARK,[ARYA flips food onto SANSA's face.],Winterfell,The North,Stark,1,Female,0,0,0,0,0,0,0,0,0,0,0
+398,Season 1,S01E01,Winter is Coming,20,398,SANSA STARK, Arya!,Winterfell,The North,Stark,1,Female,0,0,0,0,0,0,0,0,0,0,0
+399,Season 1,S01E01,Winter is Coming,20,399,CATELYN STARK,[CATELYN signals a laughing ROBB to deal with the girls. He hoists up ARYA.],Winterfell,The North,Stark,1,Female,0,0,0,0,0,0,0,0,0,0,0
+400,Season 1,S01E01,Winter is Coming,20,400,ROBB STARK,[CATELYN signals a laughing ROBB to deal with the girls. He hoists up ARYA.],Winterfell,The North,Stark,1,Male,0,0,0,0,0,0,0,0,0,0,0
+401,Season 1,S01E01,Winter is Coming,20,401,ARYA STARK,[CATELYN signals a laughing ROBB to deal with the girls. He hoists up ARYA.],Winterfell,The North,Stark,1,Female,0,0,0,0,0,0,0,0,0,0,0
+402,Season 1,S01E01,Winter is Coming,20,402,ROBB STARK, Time for bed.,Winterfell,The North,Stark,1,Male,0,0,0,0,0,0,0,0,0,0,0
+403,Season 1,S01E01,Winter is Coming,21,403,NED STARK,[The scene shifts to after the banquet. NED and CATELYN are in their bed.],Winterfell,The North,Stark,1,Male,0,0,0,0,0,0,0,0,0,0,0
+404,Season 1,S01E01,Winter is Coming,21,404,CATELYN STARK,[The scene shifts to after the banquet. NED and CATELYN are in their bed.],Winterfell,The North,Stark,1,Female,0,0,0,0,0,0,0,0,0,0,0
+405,Season 1,S01E01,Winter is Coming,21,405,NED STARK," I'm a Northman. I belong here with you, not down south in that rat's nest they call a capital.",Winterfell,The North,Stark,1,Male,0,0,0,0,0,0,0,0,0,0,0
+406,Season 1,S01E01,Winter is Coming,21,406,CATELYN STARK, I won't let him take you.,Winterfell,The North,Stark,1,Female,0,0,0,0,0,0,0,0,0,0,0
+407,Season 1,S01E01,Winter is Coming,21,407,NED STARK, The king takes what he wants. That's why he's king.,Winterfell,The North,Stark,1,Male,0,0,0,0,0,0,0,0,0,0,0
+408,Season 1,S01E01,Winter is Coming,21,408,CATELYN STARK," I'll say, 'Listen, fat man, you are not taking my husband anywhere. He belongs to me now.'",Winterfell,The North,Stark,1,Female,0,0,0,0,0,0,0,0,0,1,0
+409,Season 1,S01E01,Winter is Coming,21,409,NED STARK, How did he get so fat?,Winterfell,The North,Stark,1,Male,0,0,0,0,0,0,0,0,0,0,0
+410,Season 1,S01E01,Winter is Coming,21,410,CATELYN STARK, He only stops eating when it's time for a drink.,Winterfell,The North,Stark,1,Female,0,0,0,0,0,0,0,1,0,0,0
+413,Season 1,S01E01,Winter is Coming,21,413,NED STARK, Send him in.,Winterfell,The North,Stark,1,Male,0,0,0,0,0,0,0,0,0,0,0
+415,Season 1,S01E01,Winter is Coming,21,415,CATELYN STARK,[He hands CATELYN a sealed note.],Winterfell,The North,Stark,1,Female,0,0,0,0,0,0,0,0,0,0,0
+416,Season 1,S01E01,Winter is Coming,21,416,NED STARK, Stay.,Winterfell,The North,Stark,1,Male,0,0,0,0,0,0,0,0,0,0,0
+417,Season 1,S01E01,Winter is Coming,21,417,CATELYN STARK, This was sent from the Eyrie. What's she doing at the Eyrie? She hasn't been back there since her wedding.,Winterfell,The North,Stark,1,Female,0,0,0,0,0,0,0,0,0,0,0
+418,Season 1,S01E01,Winter is Coming,21,418,CATELYN STARK,"[CATELYN reads the note, looks up in alarm, and then burns it.]",Winterfell,The North,Stark,1,Female,0,0,0,0,0,0,0,0,0,0,0
+419,Season 1,S01E01,Winter is Coming,21,419,NED STARK, What news?,Winterfell,The North,Stark,1,Male,0,0,0,0,0,0,0,0,0,0,0
+420,Season 1,S01E01,Winter is Coming,21,420,CATELYN STARK, She's fled the capital. She says Jon Arryn was murdered. By the Lannisters. She says the king is in danger.,Winterfell,The North,Stark,1,Female,0,1,0,0,0,0,0,0,0,1,1
+421,Season 1,S01E01,Winter is Coming,21,421,NED STARK," She's fresh widowed, Cat. She doesn't know what she's saying.",Winterfell,The North,Stark,1,Male,0,0,0,0,1,0,0,0,0,0,0
+422,Season 1,S01E01,Winter is Coming,21,422,CATELYN STARK," Lysa's head would be on a spike right now if the wrong people had found that letter. Do you think she would risk her life, her son's life, if she wasn't certain her husband was murdered?",Winterfell,The North,Stark,1,Female,0,1,0,0,0,0,0,0,0,1,1
+424,Season 1,S01E01,Winter is Coming,21,424,CATELYN STARK, They murdered the last Hand. Now you want Ned to take the job.,Winterfell,The North,Stark,1,Female,0,1,0,0,0,0,0,0,0,0,1
+426,Season 1,S01E01,Winter is Coming,21,426,CATELYN STARK, He spent half his life fighting Robert's wars. He owes him nothing. (To NED) Your father and brother rode south once on a king's demand.,Winterfell,The North,Stark,1,Female,0,1,0,0,1,0,0,0,0,1,0
+428,Season 1,S01E01,Winter is Coming,22,428,KHAL DROGO,[The scene shifts to the wild wedding celebration of KHAL DROGO and DAENERYS. Fighting and fornication. DAENERYS looks stricken at everything around her.],Pentos,Essos,Other,1,Male,0,1,0,0,0,0,0,0,0,0,0
+429,Season 1,S01E01,Winter is Coming,22,429,DAENERYS TARGARYEN,[The scene shifts to the wild wedding celebration of KHAL DROGO and DAENERYS. Fighting and fornication. DAENERYS looks stricken at everything around her.],Pentos,Essos,Other,1,Female,0,1,0,0,0,0,0,0,0,0,0
+435,Season 1,S01E01,Winter is Coming,22,435,KHAL DROGO,[The sex and violence intensify. Two men fight to the death over a woman each is trying to rape. KHAL DROGO watches avidly.],Pentos,Essos,Other,1,Male,1,1,0,0,0,0,0,0,0,0,1
+437,Season 1,S01E01,Winter is Coming,22,437,KHAL DROGO,"[A knight in Westerosi garb appears. KHAL DROGO greets him in Dothraki. It is JORAH MORMONT, bearing books.]",Pentos,Essos,Other,1,Male,0,0,0,0,0,0,0,0,0,0,0
+439,Season 1,S01E01,Winter is Coming,22,439,JORAH MORMONT, A small gift for the new Khaleesi. Songs and histories from the Seven Kingdoms.,Pentos,Essos,Other,1,Male,0,0,0,0,0,0,0,0,0,0,0
+440,Season 1,S01E01,Winter is Coming,22,440,DAENERYS TARGARYEN," Thank you, ser. Are you from my country?",Pentos,Essos,Other,1,Female,0,0,0,0,0,0,0,0,0,0,0
+441,Season 1,S01E01,Winter is Coming,22,441,JORAH MORMONT," Ser Jorah Mormont of Bear Island. I served your father for many years. Gods be good, I hope to always serve the rightful king.",Pentos,Essos,Other,1,Male,0,0,1,0,0,0,0,0,1,1,0
+444,Season 1,S01E01,Winter is Coming,22,444,DAENERYS TARGARYEN," Thank you, Magister.",Pentos,Essos,Other,1,Female,0,0,0,0,0,0,0,0,0,0,0
+445,Season 1,S01E01,Winter is Coming,22,445,KHAL DROGO,"[KHAL DROGO rises and strides forward. DAENERYS follows him, looking sick with fear. The Dothraki crowd behind her as she goes. The KHAL leads her to a white mare.]",Pentos,Essos,Other,1,Male,0,0,0,0,0,0,0,0,0,0,0
+446,Season 1,S01E01,Winter is Coming,22,446,DAENERYS TARGARYEN,"[KHAL DROGO rises and strides forward. DAENERYS follows him, looking sick with fear. The Dothraki crowd behind her as she goes. The KHAL leads her to a white mare.]",Pentos,Essos,Other,1,Female,0,0,0,0,0,0,0,0,0,0,0
+447,Season 1,S01E01,Winter is Coming,22,447,DAENERYS TARGARYEN," She's beautiful. Ser Jorah, I don't know how to say 'thank you' in Dothraki.",Pentos,Essos,Other,1,Female,0,0,0,0,0,0,0,0,0,0,0
+448,Season 1,S01E01,Winter is Coming,22,448,JORAH MORMONT, There is no word for 'thank you' in Dothraki.,Pentos,Essos,Other,1,Male,0,0,0,0,0,0,0,0,0,0,0
+452,Season 1,S01E01,Winter is Coming,22,452,KHAL DROGO, No.,Pentos,Essos,Other,1,Male,0,0,0,0,0,0,0,0,0,0,0
+453,Season 1,S01E01,Winter is Coming,22,453,DAENERYS TARGARYEN, Do you know the Common Tongue?,Pentos,Essos,Other,1,Female,0,0,0,0,0,0,0,0,0,0,0
+454,Season 1,S01E01,Winter is Coming,22,454,KHAL DROGO, No.,Pentos,Essos,Other,1,Male,0,0,0,0,0,0,0,0,0,0,0
+455,Season 1,S01E01,Winter is Coming,22,455,DAENERYS TARGARYEN, Is 'no' the only word that you know?,Pentos,Essos,Other,1,Female,0,0,0,0,0,0,0,0,0,0,0
+456,Season 1,S01E01,Winter is Coming,22,456,KHAL DROGO, No.,Pentos,Essos,Other,1,Male,0,0,0,0,0,0,0,0,0,0,0
+458,Season 1,S01E01,Winter is Coming,23,458,TYRION LANNISTER,[The scene shifts to Winterfell. Tyrion and the Hound are seated outside the day after the banquet.],Winterfell,The North,Lannister,1,Male,0,0,0,0,0,0,0,0,0,0,0
+459,Season 1,S01E01,Winter is Coming,23,459,SANDOR CLEGANE,[The scene shifts to Winterfell. Tyrion and the Hound are seated outside the day after the banquet.],Winterfell,The North,Other,1,Male,0,0,0,0,0,0,0,0,0,0,0
+460,Season 1,S01E01,Winter is Coming,23,460,SANDOR CLEGANE," Rough night, Imp?",Winterfell,The North,Other,1,Male,0,0,0,0,0,0,0,0,0,0,0
+461,Season 1,S01E01,Winter is Coming,23,461,TYRION LANNISTER," If I get through this without squirting from one end or the other, it will be a miracle.",Winterfell,The North,Lannister,1,Male,0,0,0,0,0,0,0,0,0,0,0
+462,Season 1,S01E01,Winter is Coming,23,462,SANDOR CLEGANE, I didn't pick you for a hunter.,Winterfell,The North,Other,1,Male,0,0,0,0,0,0,0,0,0,0,0
+463,Season 1,S01E01,Winter is Coming,23,463,TYRION LANNISTER, The greatest in the land. My spear never misses.,Winterfell,The North,Lannister,1,Male,0,0,0,0,0,0,0,0,0,0,0
+464,Season 1,S01E01,Winter is Coming,23,464,SANDOR CLEGANE, It's not hunting if you pay for it.,Winterfell,The North,Other,1,Male,0,0,0,0,1,0,0,0,0,0,0
+465,Season 1,S01E01,Winter is Coming,23,465,NED STARK,[The king and Ned come into view.],Winterfell,The North,Stark,1,Male,0,0,0,0,0,0,0,0,0,0,0
+466,Season 1,S01E01,Winter is Coming,23,466,ROBERT BARATHEON, Are you as good with a spear as you used to be?,Winterfell,The North,Baratheon,1,Male,0,0,0,0,0,0,0,0,0,0,0
+467,Season 1,S01E01,Winter is Coming,23,467,NED STARK," No, but I'm still better than you.",Winterfell,The North,Stark,1,Male,0,0,0,0,0,0,0,0,0,0,0
+468,Season 1,S01E01,Winter is Coming,23,468,ROBERT BARATHEON, I know what I'm putting you through. Thank you for saying yes. I only ask you because I need you. You're a loyal friend. You hear me? A loyal friend. The last one I've got.,Winterfell,The North,Baratheon,1,Male,0,0,0,0,0,0,0,0,1,0,0
+469,Season 1,S01E01,Winter is Coming,23,469,NED STARK, I hope I'll serve you well.,Winterfell,The North,Stark,1,Male,0,0,0,0,0,0,0,0,1,0,0
+470,Season 1,S01E01,Winter is Coming,23,470,ROBERT BARATHEON," You will. And I'll make sure you don't look so fucking grim all the time. Come on, boys, let's go kill some boar!",Winterfell,The North,Baratheon,1,Male,0,1,0,0,0,0,0,0,0,0,1
+471,Season 1,S01E01,Winter is Coming,23,471,NED STARK,"[The king's party rides off, NED nodding goodbye to BRAN, whose wolf pup begins sniffing at his feet.]",Winterfell,The North,Stark,1,Male,0,0,0,0,0,0,0,0,0,0,0
+472,Season 1,S01E01,Winter is Coming,24,472,BRAN STARK,"[The king's party rides off, NED nodding goodbye to BRAN, whose wolf pup begins sniffing at his feet.]",Winterfell,The North,Stark,1,Male,0,0,0,0,0,0,0,0,0,0,0
+473,Season 1,S01E01,Winter is Coming,24,473,BRAN STARK," Come on, you.",Winterfell,The North,Stark,1,Male,0,0,0,0,0,0,0,0,0,0,0
+474,Season 1,S01E01,Winter is Coming,24,474,BRAN STARK,"[BRAN begins climbing, his wolf pup crying at the bottom of the castle wall. As he nears the top, he hears a woman and man moaning. Peering in the window, he sees CERSEI and JAIME having sex. CERSEI sees BRAN.]",Winterfell,The North,Stark,1,Male,1,0,0,1,0,0,0,0,0,0,0
+475,Season 1,S01E01,Winter is Coming,24,475,CERSEI LANNISTER,"[BRAN begins climbing, his wolf pup crying at the bottom of the castle wall. As he nears the top, he hears a woman and man moaning. Peering in the window, he sees CERSEI and JAIME having sex. CERSEI sees BRAN.]",Winterfell,The North,Lannister,1,Female,1,0,0,1,0,0,0,0,0,0,0
+476,Season 1,S01E01,Winter is Coming,24,476,JAIME LANNISTER,"[BRAN begins climbing, his wolf pup crying at the bottom of the castle wall. As he nears the top, he hears a woman and man moaning. Peering in the window, he sees CERSEI and JAIME having sex. CERSEI sees BRAN.]",Winterfell,The North,Lannister,1,Male,1,0,0,1,0,0,0,0,0,0,0
+477,Season 1,S01E01,Winter is Coming,24,477,CERSEI LANNISTER, Stop. STOP.,Winterfell,The North,Lannister,1,Female,0,0,0,0,0,0,0,0,0,0,0
+478,Season 1,S01E01,Winter is Coming,24,478,JAIME LANNISTER,[JAIME runs and grabs BRAN at the window.],Winterfell,The North,Lannister,1,Male,0,1,0,0,0,0,0,0,0,0,0
+479,Season 1,S01E01,Winter is Coming,24,479,BRAN STARK,[JAIME runs and grabs BRAN at the window.],Winterfell,The North,Stark,1,Male,0,1,0,0,0,0,0,0,0,0,0
+480,Season 1,S01E01,Winter is Coming,24,480,JAIME LANNISTER, Are you completely mad?,Winterfell,The North,Lannister,1,Male,0,0,0,0,0,0,0,0,0,0,0
+481,Season 1,S01E01,Winter is Coming,24,481,CERSEI LANNISTER, He saw us.,Winterfell,The North,Lannister,1,Female,0,0,0,0,0,0,0,0,0,0,0
+482,Season 1,S01E01,Winter is Coming,24,482,JAIME LANNISTER, It's all right. It's all right.,Winterfell,The North,Lannister,1,Male,0,0,0,0,0,0,0,0,0,0,0
+483,Season 1,S01E01,Winter is Coming,24,483,CERSEI LANNISTER, He saw us!,Winterfell,The North,Lannister,1,Female,0,0,0,0,0,0,0,0,0,0,0
+484,Season 1,S01E01,Winter is Coming,24,484,JAIME LANNISTER," I heard you the first time. (To BRAN) Quite the little climber, aren't you? How old are you, boy?",Winterfell,The North,Lannister,1,Male,0,0,0,0,0,0,0,0,0,0,0
+485,Season 1,S01E01,Winter is Coming,24,485,BRAN STARK, Ten,Winterfell,The North,Stark,1,Male,0,0,0,0,0,0,0,0,0,0,0
+486,Season 1,S01E01,Winter is Coming,24,486,JAIME LANNISTER, Ten.,Winterfell,The North,Lannister,1,Male,0,0,0,0,0,0,0,0,0,0,0
+487,Season 1,S01E01,Winter is Coming,24,487,JAIME LANNISTER,"[JAIME looks at CERSEI, who gazes back imploringly.]",Winterfell,The North,Lannister,1,Male,0,0,0,0,0,0,0,0,0,0,0
+488,Season 1,S01E01,Winter is Coming,24,488,CERSEI LANNISTER,"[JAIME looks at CERSEI, who gazes back imploringly.]",Winterfell,The North,Lannister,1,Female,0,0,0,0,0,0,0,0,0,0,0
+489,Season 1,S01E01,Winter is Coming,24,489,JAIME LANNISTER, The things I do for love.,Winterfell,The North,Lannister,1,Male,0,0,0,0,0,1,0,0,0,0,0
+490,Season 1,S01E01,Winter is Coming,24,490,BRAN STARK,[He shoves BRAN out the window.],Winterfell,The North,Stark,1,Male,0,1,0,0,0,0,0,0,0,0,0
+492,Season 1,S01E02,The Kingsroad,1,492,DAENERYS TARGARYEN,Daenerys on horseback looking at Drogo and his people.,Dothraki Sea,Essos,Other,1,Female,0,0,0,0,0,0,0,0,0,0,0
+493,Season 1,S01E02,The Kingsroad,1,493,KHAL DROGO,Daenerys on horseback looking at Drogo and his people.,Dothraki Sea,Essos,Other,1,Male,0,0,0,0,0,0,0,0,0,0,0
+494,Season 1,S01E02,The Kingsroad,1,494,JORAH MORMONT," You need to drink, child... And eat.",Dothraki Sea,Essos,Other,1,Male,0,0,0,0,0,0,0,1,0,0,0
+495,Season 1,S01E02,The Kingsroad,1,495,DAENERYS TARGARYEN, Isn't there anything else?,Dothraki Sea,Essos,Other,1,Female,0,0,0,0,0,0,0,0,0,0,0
+496,Season 1,S01E02,The Kingsroad,1,496,JORAH MORMONT," The Dothraki have two things in abundance: grass and horses. People can't live on grass... In the Shadow Lands beyond Asshai, they say there are fields of ghost grass with stalks as pale as milk that glow in the night. It murders all other grass. The Dothraki believe that one day it will cover everything. That's the way the world will endIt'll get easier.",Dothraki Sea,Essos,Other,1,Male,0,1,0,0,0,0,0,0,0,0,1
+497,Season 1,S01E02,The Kingsroad,1,497,DAENERYS TARGARYEN,"Arriving at camp, Daenerys looks exhausted from riding.",Dothraki Sea,Essos,Other,1,Female,0,0,0,0,0,0,0,0,0,0,0
+500,Season 1,S01E02,The Kingsroad,1,500,DAENERYS TARGARYEN,"After Daenerys is escorted away, Jorah and Viserys are alone.",Dothraki Sea,Essos,Other,1,Female,0,0,0,0,0,0,0,0,0,0,0
+501,Season 1,S01E02,The Kingsroad,1,501,JORAH MORMONT,"After Daenerys is escorted away, Jorah and Viserys are alone.",Dothraki Sea,Essos,Other,1,Male,0,0,0,0,0,0,0,0,0,0,0
+503,Season 1,S01E02,The Kingsroad,1,503,JORAH MORMONT," We're still not far from Pentos, your Grace. Magister Illyrio has extended his hospitality. You'd be more comfortable there.",Dothraki Sea,Essos,Other,1,Male,0,0,0,0,0,0,0,0,0,0,0
+505,Season 1,S01E02,The Kingsroad,1,505,JORAH MORMONT," As you wish, your Grace.",Dothraki Sea,Essos,Other,1,Male,0,0,0,0,0,0,0,0,0,0,0
+507,Season 1,S01E02,The Kingsroad,1,507,JORAH MORMONT, Selling to one... Some poachers I caught on my land.,Dothraki Sea,Essos,Other,1,Male,0,0,0,0,0,0,0,0,0,0,0
+510,Season 1,S01E02,The Kingsroad,2,510,JOFFREY BARATHEON,Joffrey finding Tyrion asleep in the dog's pen of Winterfell.,Winterfell,The North,Lannister,1,Male,0,0,0,0,0,0,0,0,0,0,0
+511,Season 1,S01E02,The Kingsroad,2,511,TYRION LANNISTER,Joffrey finding Tyrion asleep in the dog's pen of Winterfell.,Winterfell,The North,Lannister,1,Male,0,0,0,0,0,0,0,0,0,0,0
+512,Season 1,S01E02,The Kingsroad,2,512,JOFFREY BARATHEON," Better-looking bitches than you're used to, Uncle. My mother's been looking for you. We ride for King's Landing today.",Winterfell,The North,Lannister,1,Male,0,0,0,0,0,0,0,0,0,1,0
+513,Season 1,S01E02,The Kingsroad,2,513,TYRION LANNISTER," Before you go, you will call on Lord and Lady Stark and offer your sympathies.",Winterfell,The North,Lannister,1,Male,0,0,0,0,0,0,0,0,0,0,0
+514,Season 1,S01E02,The Kingsroad,2,514,JOFFREY BARATHEON, What good will my sympathies do them?,Winterfell,The North,Lannister,1,Male,0,0,0,0,0,0,0,0,0,0,0
+515,Season 1,S01E02,The Kingsroad,2,515,TYRION LANNISTER, None. But it is expected of you. Your absence has already been noted.,Winterfell,The North,Lannister,1,Male,0,0,0,0,0,0,0,0,0,0,0
+516,Season 1,S01E02,The Kingsroad,2,516,JOFFREY BARATHEON, The boy means nothing to me. And I can't stand the wailing of women.,Winterfell,The North,Lannister,1,Male,0,0,0,0,0,0,0,0,0,0,0
+517,Season 1,S01E02,The Kingsroad,2,517,TYRION LANNISTER, One word and I'll hit you again.,Winterfell,The North,Lannister,1,Male,0,0,0,0,0,0,0,0,0,0,0
+518,Season 1,S01E02,The Kingsroad,2,518,JOFFREY BARATHEON, I'm telling mother!,Winterfell,The North,Lannister,1,Male,0,0,0,0,0,0,0,0,0,1,0
+519,Season 1,S01E02,The Kingsroad,2,519,TYRION LANNISTER," Go! Tell her. But first you will get to Lord and Lady Stark and you will fall on your knees in front of them and tell them how very sorry you are, that you are at their service, and that all your prayers are with them. Do you understand?",Winterfell,The North,Lannister,1,Male,0,1,1,0,0,0,0,0,0,0,0
+520,Season 1,S01E02,The Kingsroad,2,520,JOFFREY BARATHEON, You can't...,Winterfell,The North,Lannister,1,Male,0,0,0,0,0,0,0,0,0,0,0
+521,Season 1,S01E02,The Kingsroad,2,521,TYRION LANNISTER, Do you understand?,Winterfell,The North,Lannister,1,Male,0,0,0,0,0,0,0,0,0,0,0
+522,Season 1,S01E02,The Kingsroad,2,522,SANDOR CLEGANE," The Prince will remember that, little lord.",Winterfell,The North,Other,1,Male,0,0,0,0,0,0,0,0,0,0,0
+523,Season 1,S01E02,The Kingsroad,2,523,TYRION LANNISTER," I hope so. If he forgets, be a good dog and remind him. Time for breakfast...",Winterfell,The North,Lannister,1,Male,0,1,0,0,0,0,0,0,0,0,0
+524,Season 1,S01E02,The Kingsroad,2,524,TYRION LANNISTER,Tyrion walks from the courtyard to the dining hall where his family is eating breakfast.,Winterfell,The North,Lannister,1,Male,0,1,0,0,0,0,0,0,0,1,0
+525,Season 1,S01E02,The Kingsroad,2,525,TYRION LANNISTER," Bread. And two of those little fish. And a mug of dark beer to wash it down. And bacon, burnt black.",Winterfell,The North,Lannister,1,Male,0,1,0,0,0,0,0,1,0,0,0
+526,Season 1,S01E02,The Kingsroad,2,526,JAIME LANNISTER, Little brother.,Winterfell,The North,Lannister,1,Male,0,0,0,0,0,0,0,0,0,1,0
+527,Season 1,S01E02,The Kingsroad,2,527,TYRION LANNISTER, Beloved siblings.,Winterfell,The North,Lannister,1,Male,0,0,0,0,0,0,0,0,0,0,0
+529,Season 1,S01E02,The Kingsroad,2,529,TYRION LANNISTER, Apparently not.,Winterfell,The North,Lannister,1,Male,0,0,0,0,0,0,0,0,0,0,0
+530,Season 1,S01E02,The Kingsroad,2,530,CERSEI LANNISTER, What do you mean?,Winterfell,The North,Lannister,1,Female,0,0,0,0,0,0,0,0,0,0,0
+531,Season 1,S01E02,The Kingsroad,2,531,TYRION LANNISTER, The Maester says the boy may live.,Winterfell,The North,Lannister,1,Male,0,0,0,0,0,0,0,0,0,0,0
+532,Season 1,S01E02,The Kingsroad,2,532,CERSEI LANNISTER," It's no mercy, letting a child linger in such pain.",Winterfell,The North,Lannister,1,Female,0,0,0,0,0,0,0,0,0,0,0
+533,Season 1,S01E02,The Kingsroad,2,533,TYRION LANNISTER, Only the gods know for certain. All the rest of us can do is pray. The charms of the north seem entirely lost on you.,Winterfell,The North,Lannister,1,Male,0,0,1,0,0,0,0,0,0,0,0
+534,Season 1,S01E02,The Kingsroad,2,534,CERSEI LANNISTER, I still can't believe you're going. It's ridiculous even for you.,Winterfell,The North,Lannister,1,Female,0,0,0,0,0,0,0,0,0,0,0
+535,Season 1,S01E02,The Kingsroad,2,535,TYRION LANNISTER," Where's your sense of wonder? The greatest structure ever built, the intrepid men of the Night's Watch, the wintry abode of the White Walkers.",Winterfell,The North,Lannister,1,Male,0,0,0,1,0,0,0,0,0,0,0
+536,Season 1,S01E02,The Kingsroad,2,536,JAIME LANNISTER, Tell me you're not thinking of taking the black.,Winterfell,The North,Lannister,1,Male,0,0,0,0,0,0,0,0,0,0,0
+537,Season 1,S01E02,The Kingsroad,2,537,TYRION LANNISTER, And go celibate? The whores would go begging from Dorne to Casterly Rock. I just want to stand on top of the Wall and piss off the edge of the world.,Winterfell,The North,Lannister,1,Male,1,0,0,0,0,0,0,0,0,0,0
+538,Season 1,S01E02,The Kingsroad,2,538,CERSEI LANNISTER, The children don't need to hear your filth. Come.,Winterfell,The North,Lannister,1,Female,0,0,0,0,0,0,0,0,0,1,0
+539,Season 1,S01E02,The Kingsroad,2,539,JAIME LANNISTER," Even if the boy lives, he'll be a cripple, a grotesque. Give me a good clean death any day.",Winterfell,The North,Lannister,1,Male,0,1,0,0,0,0,0,0,0,0,1
+540,Season 1,S01E02,The Kingsroad,2,540,TYRION LANNISTER," Speaking for the grotesques, I'd have to disagree. Death is so final, whereas life... Life is full of possibilities. I hope the boy does wake. I'd be very interested to hear what he has to say.",Winterfell,The North,Lannister,1,Male,0,1,0,0,0,0,0,0,0,0,1
+541,Season 1,S01E02,The Kingsroad,2,541,JAIME LANNISTER," My dear brother, there are times you make me wonder whose side you're on.",Winterfell,The North,Lannister,1,Male,0,0,0,0,0,0,0,0,0,1,0
+542,Season 1,S01E02,The Kingsroad,2,542,TYRION LANNISTER," My dear brother, you wound me. You know how much I love my family.",Winterfell,The North,Lannister,1,Male,0,0,0,0,0,1,0,0,0,1,0
+544,Season 1,S01E02,The Kingsroad,3,544,CATELYN STARK,"In Bran's room with Catelyn at his bedside, Cersei coming to console.",Winterfell,The North,Stark,1,Female,0,0,0,0,0,0,0,0,0,0,0
+545,Season 1,S01E02,The Kingsroad,3,545,CERSEI LANNISTER,"In Bran's room with Catelyn at his bedside, Cersei coming to console.",Winterfell,The North,Lannister,1,Female,0,0,0,0,0,0,0,0,0,0,0
+546,Season 1,S01E02,The Kingsroad,3,546,CERSEI LANNISTER, Please.,Winterfell,The North,Lannister,1,Female,0,0,0,0,0,0,0,0,0,0,0
+547,Season 1,S01E02,The Kingsroad,3,547,CATELYN STARK,"  I would have dressed, your Grace.",Winterfell,The North,Stark,1,Female,0,0,0,0,0,0,0,0,0,0,0
+548,Season 1,S01E02,The Kingsroad,3,548,CERSEI LANNISTER," This is your home. I'm your guest. Handsome one, isn't he? I lost my first boy, a little black-haired beauty. He was a fighter too... Tried to beat the fever that took him. Forgive me. It's the last thing you need to hear right now.",Winterfell,The North,Lannister,1,Female,0,1,0,0,0,0,0,0,0,0,0
+549,Season 1,S01E02,The Kingsroad,3,549,CATELYN STARK, I never knew.,Winterfell,The North,Stark,1,Female,0,0,0,0,0,0,0,0,0,0,0
+550,Season 1,S01E02,The Kingsroad,3,550,CERSEI LANNISTER,"  It was years ago. Robert was crazed, beat his hands bloody on the wall, all the things men do to show you how much they care... The boy looked just like him. Such a little thing... A bird without feathers. They came to take his body away and Robert held me. I screamed and I battled, but he held me. That little bundle. They took him away and I never saw him again. Never have visited the crypt, never. I pray to the Mother every morning and night that she return your child to you.",Winterfell,The North,Lannister,1,Female,0,1,1,0,0,0,0,0,0,0,0
+551,Season 1,S01E02,The Kingsroad,3,551,CATELYN STARK,  I am grateful..,Winterfell,The North,Stark,1,Female,0,0,0,0,0,0,0,0,0,0,0
+552,Season 1,S01E02,The Kingsroad,3,552,CERSEI LANNISTER, Perhaps this time she'll listen.,Winterfell,The North,Lannister,1,Female,0,0,0,0,0,0,0,0,0,0,0
+555,Season 1,S01E02,The Kingsroad,4,555,JAIME LANNISTER, A sword for the wall?,Winterfell,The North,Lannister,1,Male,0,0,0,0,0,0,0,0,0,0,0
+556,Season 1,S01E02,The Kingsroad,4,556,JON SNOW, I already have one.,Winterfell,The North,Stark,1,Male,0,0,0,0,0,0,0,0,0,0,0
+557,Season 1,S01E02,The Kingsroad,4,557,JAIME LANNISTER, Good man. Have you swung it yet?,Winterfell,The North,Lannister,1,Male,0,0,0,0,0,0,0,0,0,0,0
+558,Season 1,S01E02,The Kingsroad,4,558,JON SNOW, Of course I have.,Winterfell,The North,Stark,1,Male,0,0,0,0,0,0,0,0,0,0,0
+559,Season 1,S01E02,The Kingsroad,4,559,JAIME LANNISTER,"  At someone, I mean. It's a strange thing, the first time you cut a man. You realize we're nothing but sacks of meat and blood and some bone to keep it all standing. Let me thank you ahead of time for guarding us all from the perils beyond the Wall... Wildlings and White Walkers and whatnot. We're grateful to have good, strong men like you protecting us.",Winterfell,The North,Lannister,1,Male,0,0,0,1,0,0,0,0,0,0,0
+560,Season 1,S01E02,The Kingsroad,4,560,JON SNOW, We've guarded the Kingdoms for 8 000 years.,Winterfell,The North,Stark,1,Male,0,0,0,0,0,0,0,0,0,0,0
+561,Season 1,S01E02,The Kingsroad,4,561,JAIME LANNISTER," Is it ""we"" already? Have you taken your vows then?",Winterfell,The North,Lannister,1,Male,0,0,0,0,0,0,0,0,1,0,0
+562,Season 1,S01E02,The Kingsroad,4,562,JON SNOW, Soon enough.,Winterfell,The North,Stark,1,Male,0,0,0,0,0,0,0,0,0,0,0
+563,Season 1,S01E02,The Kingsroad,4,563,JAIME LANNISTER," Give my regards to the Night's Watch. I'm sure it will be thrilling to serve in such an elite force. And if not, It's only for life.",Winterfell,The North,Lannister,1,Male,0,0,0,0,0,0,0,0,1,0,0
+565,Season 1,S01E02,The Kingsroad,5,565,JON SNOW,"Arya's room, packing things for her trip to King's Landing, having her direwolf assist her. Jon comes in to say goodbye before he leaves for the Night's Watch.",Winterfell,The North,Stark,1,Male,0,0,0,1,0,0,0,0,0,0,0
+566,Season 1,S01E02,The Kingsroad,5,566,ARYA STARK," Thank you, Nymeria. Septa Mordane says I have to do it again. ""My things weren't properly folded"", she says. Who cares how they're folded?! They're going to get all messed up anyway.",Winterfell,The North,Stark,1,Female,0,0,0,0,0,0,0,0,0,0,0
+567,Season 1,S01E02,The Kingsroad,5,567,JON SNOW, It's good you've got help.,Winterfell,The North,Stark,1,Male,0,0,0,0,0,0,0,0,0,0,0
+568,Season 1,S01E02,The Kingsroad,5,568,ARYA STARK," Watch. Nymeria, gloves.",Winterfell,The North,Stark,1,Female,0,0,0,0,0,0,0,0,0,0,0
+569,Season 1,S01E02,The Kingsroad,5,569,JON SNOW,  Impressive.,Winterfell,The North,Stark,1,Male,0,0,0,0,0,0,0,0,0,0,0
+570,Season 1,S01E02,The Kingsroad,5,570,ARYA STARK,"  Shut up. Nymeria, gloves!",Winterfell,The North,Stark,1,Female,0,0,0,0,0,0,0,0,0,0,0
+571,Season 1,S01E02,The Kingsroad,5,571,JON SNOW,  I have something for you. And it has to be packed very carefully.,Winterfell,The North,Stark,1,Male,0,0,0,0,0,0,0,0,0,0,0
+572,Season 1,S01E02,The Kingsroad,5,572,ARYA STARK,  A present?,Winterfell,The North,Stark,1,Female,0,0,0,0,0,0,0,0,0,0,0
+573,Season 1,S01E02,The Kingsroad,5,573,JON SNOW,  Close the door. This is no toy. Be careful you don't cut yourself.,Winterfell,The North,Stark,1,Male,0,0,0,0,0,0,0,0,0,0,0
+574,Season 1,S01E02,The Kingsroad,5,574,ARYA STARK,  It's so skinny.,Winterfell,The North,Stark,1,Female,0,0,0,0,0,0,0,0,0,0,0
+575,Season 1,S01E02,The Kingsroad,5,575,JON SNOW," So are you. I had the blacksmith make it for you special. It won't hack a man's head off, but it can poke him full of holes if you're quick enough.",Winterfell,The North,Stark,1,Male,0,0,0,0,0,0,0,0,0,0,0
+576,Season 1,S01E02,The Kingsroad,5,576,ARYA STARK, I can be quick.,Winterfell,The North,Stark,1,Female,0,0,0,0,0,0,0,0,0,0,0
+577,Season 1,S01E02,The Kingsroad,5,577,JON SNOW,  You'll have to work at it every day. How does it feel? Do you like the balance?,Winterfell,The North,Stark,1,Male,0,0,0,0,0,0,0,0,0,0,0
+578,Season 1,S01E02,The Kingsroad,5,578,ARYA STARK, I think so.,Winterfell,The North,Stark,1,Female,0,0,0,0,0,0,0,0,0,0,0
+579,Season 1,S01E02,The Kingsroad,5,579,JON SNOW, First lesson: Stick them with the pointy end.,Winterfell,The North,Stark,1,Male,0,0,0,0,0,0,0,0,0,0,0
+580,Season 1,S01E02,The Kingsroad,5,580,ARYA STARK,  I know which end to use.,Winterfell,The North,Stark,1,Female,0,0,0,0,0,0,0,0,0,0,0
+581,Season 1,S01E02,The Kingsroad,5,581,JON SNOW,"  I'm going to miss you... Careful... All the best swords have names, you know.",Winterfell,The North,Stark,1,Male,0,0,0,0,0,0,0,0,0,0,0
+582,Season 1,S01E02,The Kingsroad,5,582,ARYA STARK,  Sansa can keep her sewing needles. I've got a needle of my own.,Winterfell,The North,Stark,1,Female,0,0,0,0,0,0,0,0,0,0,0
+584,Season 1,S01E02,The Kingsroad,6,584,JON SNOW,"Jon walks into Bran's room, where Catelyn is still at his bedside.",Winterfell,The North,Stark,1,Male,0,0,0,0,0,0,0,0,0,0,0
+585,Season 1,S01E02,The Kingsroad,6,585,CATELYN STARK,"Jon walks into Bran's room, where Catelyn is still at his bedside.",Winterfell,The North,Stark,1,Female,0,0,0,0,0,0,0,0,0,0,0
+586,Season 1,S01E02,The Kingsroad,6,586,JON SNOW,  I came to say goodbye to Bran.,Winterfell,The North,Stark,1,Male,0,0,0,0,0,0,0,0,0,0,0
+587,Season 1,S01E02,The Kingsroad,6,587,CATELYN STARK,  You've said it.,Winterfell,The North,Stark,1,Female,0,0,0,0,0,0,0,0,0,0,0
+588,Season 1,S01E02,The Kingsroad,6,588,JON SNOW,"  I wish I could be here when you wake up. I'm going north with Uncle Benjen. I'm taking the black. I know we always talked about seeing the Wall together, but you'll be able to come visit me at Castle Black when you're better. I'll know my way around by then. I'll be a sworn brother of the Night's Watch. We can go out walking beyond the Wall, if you're not afraid.",Winterfell,The North,Stark,1,Male,0,0,0,0,0,0,0,0,0,1,0
+589,Season 1,S01E02,The Kingsroad,6,589,CATELYN STARK, I want you to leave.,Winterfell,The North,Stark,1,Female,0,0,0,0,0,0,0,0,0,0,0
+590,Season 1,S01E02,The Kingsroad,6,590,JON SNOW,"Eddard walks into the room, Jon kisses Brandon on the forehead and exits.",Winterfell,The North,Stark,1,Male,0,0,0,0,0,1,0,0,0,0,0
+591,Season 1,S01E02,The Kingsroad,6,591,CATELYN STARK, 17 years ago you rode off with Robert Baratheon. You came back a year later with another woman's son. And now you're leaving again.,Winterfell,The North,Stark,1,Female,0,0,0,0,0,0,0,0,0,1,0
+592,Season 1,S01E02,The Kingsroad,6,592,NED STARK,  I have no choice.,Winterfell,The North,Stark,1,Male,0,0,0,0,0,0,0,0,0,0,0
+593,Season 1,S01E02,The Kingsroad,6,593,CATELYN STARK," That's what men always say when honor calls. That's what you tell your families, tell yourselves. You do have a choice. And you've made it. I can't do it, Ned. I really can't.",Winterfell,The North,Stark,1,Female,0,0,0,0,0,0,0,0,1,0,0
+594,Season 1,S01E02,The Kingsroad,6,594,NED STARK,  You can. You must.,Winterfell,The North,Stark,1,Male,0,0,0,0,0,0,0,0,0,0,0
+596,Season 1,S01E02,The Kingsroad,7,596,JON SNOW,"In the courtyard, Jon prepping his horse to leave for the Wall.",Winterfell,The North,Stark,1,Male,0,0,0,0,0,0,0,0,0,0,0
+597,Season 1,S01E02,The Kingsroad,7,597,ROBB STARK, You've said goodbye to Bran? He's not going to die. I know it.,Winterfell,The North,Stark,1,Male,0,1,0,0,0,0,0,0,0,0,1
+598,Season 1,S01E02,The Kingsroad,7,598,JON SNOW,  You Starks are hard to kill.,Winterfell,The North,Stark,1,Male,0,1,0,0,0,0,0,0,0,0,1
+599,Season 1,S01E02,The Kingsroad,7,599,ROBB STARK, My mother?,Winterfell,The North,Stark,1,Male,0,0,0,0,0,0,0,0,0,1,0
+600,Season 1,S01E02,The Kingsroad,7,600,JON SNOW,  She was very kind.,Winterfell,The North,Stark,1,Male,0,0,0,0,0,0,0,0,0,0,0
+601,Season 1,S01E02,The Kingsroad,7,601,ROBB STARK," Good. Next time I see you, you'll be all in black.",Winterfell,The North,Stark,1,Male,0,0,0,0,0,0,0,0,0,0,0
+602,Season 1,S01E02,The Kingsroad,7,602,JON SNOW,  It was always my color.,Winterfell,The North,Stark,1,Male,0,0,0,0,0,0,0,0,0,0,0
+603,Season 1,S01E02,The Kingsroad,7,603,ROBB STARK," Farewell, Snow.",Winterfell,The North,Stark,1,Male,0,0,0,0,0,0,0,0,0,0,0
+604,Season 1,S01E02,The Kingsroad,7,604,JON SNOW,"  And you, Stark.",Winterfell,The North,Stark,1,Male,0,0,0,0,0,0,0,0,0,0,0
+606,Season 1,S01E02,The Kingsroad,8,606,JON SNOW,At the split between the Kingsroad and the road that will take Benjen and Jon to the Wall.,Kingsroad,The North,Stark,1,Male,0,0,0,0,0,0,0,0,0,0,0
+607,Season 1,S01E02,The Kingsroad,8,607,NED STARK," There's great honor serving in the Night's Watch. The Starks have manned the Wall for thousands of years. And you are a Stark. You might not have my name, but you have my blood.",Kingsroad,The North,Stark,1,Male,0,0,0,0,0,0,0,0,1,1,0
+608,Season 1,S01E02,The Kingsroad,8,608,JON SNOW," Is my mother alive? Does she know about me? Where I am, where I'm going? Does she care?",Kingsroad,The North,Stark,1,Male,0,0,0,0,0,0,0,0,0,1,0
+609,Season 1,S01E02,The Kingsroad,8,609,NED STARK," The next time we see each other, we'll talk about your mother. I promise.",Kingsroad,The North,Stark,1,Male,0,0,0,0,0,0,0,0,1,1,0
+611,Season 1,S01E02,The Kingsroad,9,611,ROBERT BARATHEON,Stopping for rest along the Kingsroad. Robert has a mini table set up full of wine and food.,Kingsroad,The North,Baratheon,1,Male,0,0,0,0,0,0,0,1,0,0,0
+612,Season 1,S01E02,The Kingsroad,9,612,ROBERT BARATHEON," Gods, this is country! I've half a mind to leave them all behind and keep going.",Kingsroad,The North,Baratheon,1,Male,0,0,1,0,0,0,0,0,0,0,0
+613,Season 1,S01E02,The Kingsroad,9,613,NED STARK,  I've half a mind to go with you.,Kingsroad,The North,Stark,1,Male,0,0,0,0,0,0,0,0,0,0,0
+614,Season 1,S01E02,The Kingsroad,9,614,ROBERT BARATHEON," What do you say, just you and me on the Kingsroad, swords at our sides, a couple of tavern wenches to warm our beds tonight.",Kingsroad,The North,Baratheon,1,Male,0,0,0,0,0,0,0,0,0,0,0
+615,Season 1,S01E02,The Kingsroad,9,615,NED STARK, You should have asked me 20 years ago.,Kingsroad,The North,Stark,1,Male,0,0,0,0,0,0,0,0,0,0,0
+616,Season 1,S01E02,The Kingsroad,9,616,ROBERT BARATHEON," There were wars to fight, women to marry... We never had the chance to be young.",Kingsroad,The North,Baratheon,1,Male,0,1,0,0,0,0,0,0,0,0,0
+617,Season 1,S01E02,The Kingsroad,9,617,NED STARK,  I recall a few chances.,Kingsroad,The North,Stark,1,Male,0,0,0,0,0,0,0,0,0,0,0
+618,Season 1,S01E02,The Kingsroad,9,618,ROBERT BARATHEON," There was that one... Oh, what was her name? That common girl of yours? Becca? With the great big tits you could bury your face in.",Kingsroad,The North,Baratheon,1,Male,0,0,0,0,0,0,0,0,0,0,0
+619,Season 1,S01E02,The Kingsroad,9,619,NED STARK,  Bessie. She was one of yours.,Kingsroad,The North,Stark,1,Male,0,0,0,0,0,0,0,0,0,0,0
+620,Season 1,S01E02,The Kingsroad,9,620,ROBERT BARATHEON, Bessie! Thank the gods for Bessie and her tits. Yours was... Aleena? No. You told me once. Meryl? Your bastard's mother?,Kingsroad,The North,Baratheon,1,Male,0,0,1,0,0,0,0,0,0,1,0
+621,Season 1,S01E02,The Kingsroad,9,621,NED STARK,  Wylla.,Kingsroad,The North,Stark,1,Male,0,0,0,0,0,0,0,0,0,0,0
+622,Season 1,S01E02,The Kingsroad,9,622,ROBERT BARATHEON, That's it. She must have been a rare wench to make Lord Eddard Stark forget his honor. You never told me what she looked like.,Kingsroad,The North,Baratheon,1,Male,0,0,0,0,0,0,0,0,1,0,0
+623,Season 1,S01E02,The Kingsroad,9,623,NED STARK,  Nor will I.,Kingsroad,The North,Stark,1,Male,0,0,0,0,0,0,0,0,0,0,0
+624,Season 1,S01E02,The Kingsroad,9,624,ROBERT BARATHEON," We were at war. None of us knew if we were gonna go back home again. You're too hard on yourself. You always have been. I swear if I weren't your King, you'd have hit me already.",Kingsroad,The North,Baratheon,1,Male,0,1,0,0,0,0,0,0,1,0,0
+625,Season 1,S01E02,The Kingsroad,9,625,NED STARK, The worst thing about your coronation... I'll never get to hit you again.,Kingsroad,The North,Stark,1,Male,0,0,0,0,0,0,0,0,0,0,0
+626,Season 1,S01E02,The Kingsroad,9,626,ROBERT BARATHEON," Trust me, that's not the worst thing. There was a rider in the night.",Kingsroad,The North,Baratheon,1,Male,0,0,0,0,0,0,0,0,0,0,0
+627,Season 1,S01E02,The Kingsroad,9,627,NED STARK,  Daenerys Targaryen has wed some Dothraki horselord. What of it? Should we send her a wedding gift?,Kingsroad,The North,Stark,1,Male,0,0,0,0,0,0,0,0,0,0,0
+628,Season 1,S01E02,The Kingsroad,9,628,ROBERT BARATHEON," A knife perhaps, a good sharp one, and a bold man to wield it.",Kingsroad,The North,Baratheon,1,Male,0,0,0,0,0,0,0,0,0,0,0
+629,Season 1,S01E02,The Kingsroad,9,629,NED STARK, She's little more than a child.,Kingsroad,The North,Stark,1,Male,0,0,0,0,0,0,0,0,0,0,0
+630,Season 1,S01E02,The Kingsroad,9,630,ROBERT BARATHEON, Soon enough that child will spread her legs and start breeding.,Kingsroad,The North,Baratheon,1,Male,0,0,0,0,0,0,0,0,0,0,0
+631,Season 1,S01E02,The Kingsroad,9,631,NED STARK,  Tell me we're not speaking of this.,Kingsroad,The North,Stark,1,Male,0,0,0,0,0,0,0,0,0,0,0
+632,Season 1,S01E02,The Kingsroad,9,632,ROBERT BARATHEON," Oh, it's unspeakable to you? What her father did to your family... That was unspeakable. What Rhaegar Targaryen did to your sister... the woman I loved. I'll kill every Targaryen I get my hands on.",Kingsroad,The North,Baratheon,1,Male,0,1,0,0,0,0,0,0,0,1,1
+633,Season 1,S01E02,The Kingsroad,9,633,NED STARK,"  But you can't get your hands on this one, can you?",Kingsroad,The North,Stark,1,Male,0,0,0,0,0,0,0,0,0,0,0
+634,Season 1,S01E02,The Kingsroad,9,634,ROBERT BARATHEON,"  This Khal Drogo, it's said he has 100,000 men in his horde.",Kingsroad,The North,Baratheon,1,Male,0,0,0,0,0,0,0,0,0,0,0
+635,Season 1,S01E02,The Kingsroad,9,635,NED STARK," Even a million Dothraki are no threat to the realm, as long as they remain on the other side of the Narrow Sea. They have no ships, Robert.",Kingsroad,The North,Stark,1,Male,0,0,0,0,0,0,0,0,0,0,0
+636,Season 1,S01E02,The Kingsroad,9,636,ROBERT BARATHEON,"  There are still those in the Seven Kingdoms who call me Usurper. If the Targaryen boy crosses with a Dothraki horde at his back, the scum will join him.",Kingsroad,The North,Baratheon,1,Male,0,0,0,0,0,0,0,0,0,1,0
+637,Season 1,S01E02,The Kingsroad,9,637,NED STARK," He will not cross. And if by chance he does, we'll throw him back into the sea.",Kingsroad,The North,Stark,1,Male,0,1,0,0,0,0,0,0,0,0,0
+638,Season 1,S01E02,The Kingsroad,9,638,ROBERT BARATHEON," There's a war coming, Ned. I don't know when, I don't know who we'll be fighting, but it's coming.",Kingsroad,The North,Baratheon,1,Male,0,1,0,0,0,0,0,0,0,0,0
+640,Season 1,S01E02,The Kingsroad,10,640,KHAL DROGO,"Back across the sea, Drogo fornicates with Daenerys, she's clearly not enjoying it.",Dothraki Sea,Essos,Other,1,Male,0,0,0,0,0,0,0,0,0,0,0
+641,Season 1,S01E02,The Kingsroad,10,641,DAENERYS TARGARYEN,"Back across the sea, Drogo fornicates with Daenerys, she's clearly not enjoying it.",Dothraki Sea,Essos,Other,1,Female,0,0,0,0,0,0,0,0,0,0,0
+645,Season 1,S01E02,The Kingsroad,11,645,TYRION LANNISTER, Rapers. They were given a choice no doubt... Castration or the Wall. Most choose the knife. Not impressed by your new brothers? Lovely thing about the Watch... You discard your old family and get a whole new one.,South of Wall,The North,Lannister,1,Male,0,0,0,0,0,0,0,0,0,1,0
+646,Season 1,S01E02,The Kingsroad,11,646,JON SNOW, Why do you read so much?,South of Wall,The North,Stark,1,Male,0,0,0,0,0,0,0,0,0,0,0
+647,Season 1,S01E02,The Kingsroad,11,647,TYRION LANNISTER, Look at me and tell me what you see.,South of Wall,The North,Lannister,1,Male,0,0,0,0,0,0,0,0,0,0,0
+648,Season 1,S01E02,The Kingsroad,11,648,JON SNOW,  Is this a trick?,South of Wall,The North,Stark,1,Male,0,0,0,0,0,0,0,0,0,0,0
+649,Season 1,S01E02,The Kingsroad,11,649,TYRION LANNISTER,"  What you see is a dwarf. If I'd been born a peasant they might've left me out in the woods to die. Alas, I was born a Lannister of Casterly Rock. Things are expected of me. My father was the Hand of the King for 20 years.",South of Wall,The North,Lannister,1,Male,0,1,0,0,0,0,0,0,0,1,1
+650,Season 1,S01E02,The Kingsroad,11,650,JON SNOW, Until your brother killed that King.,South of Wall,The North,Stark,1,Male,0,1,0,0,0,0,0,0,0,1,1
+651,Season 1,S01E02,The Kingsroad,11,651,TYRION LANNISTER," Yes, until my brother killed him. Life is full of these little ironies. My sister married the new King and my repulsive nephew will be King after him. I must do my part for the honor of my house, wouldn't you agree? But how? Well, my brother has his sword and I have my mind. And a mind needs books like a sword needs a whetstone. That's why I read so much. And you? What's your story, bastard?",South of Wall,The North,Lannister,1,Male,0,1,0,0,0,0,0,0,1,1,1
+652,Season 1,S01E02,The Kingsroad,11,652,JON SNOW," Ask me nicely and maybe I'll tell you, dwarf.",South of Wall,The North,Stark,1,Male,0,0,0,0,0,0,0,0,0,0,0
+653,Season 1,S01E02,The Kingsroad,11,653,TYRION LANNISTER,"  A bastard boy with nothing to inherit, off to join the ancient order of the Night's Watch, alongside his valiant brothers-in-arms.",South of Wall,The North,Lannister,1,Male,0,0,0,0,0,0,0,0,0,1,0
+654,Season 1,S01E02,The Kingsroad,11,654,JON SNOW, The Night's Watch protects the realm from...,South of Wall,The North,Stark,1,Male,0,0,0,0,0,0,0,0,0,0,0
+655,Season 1,S01E02,The Kingsroad,11,655,TYRION LANNISTER," Yes yes, against grumpkins and snarks and all the other monsters your wet nurse warned you about. You're a smart boy. You don't believe that nonsense... Everything's better with some wine in the belly.",South of Wall,The North,Lannister,1,Male,0,0,0,0,0,0,0,1,0,0,0
+657,Season 1,S01E02,The Kingsroad,12,657,CATELYN STARK,"Bran's bedroom, Catelyn still at his bedside, Maester Luwin walks in.",Winterfell,The North,Stark,1,Female,0,0,0,0,0,0,0,0,0,0,0
+659,Season 1,S01E02,The Kingsroad,12,659,CATELYN STARK,  Talk to Poole about it.,Winterfell,The North,Stark,1,Female,0,0,0,0,0,0,0,0,0,0,0
+661,Season 1,S01E02,The Kingsroad,12,661,CATELYN STARK, I don't care about appointments!,Winterfell,The North,Stark,1,Female,0,0,0,0,0,0,0,0,0,0,0
+662,Season 1,S01E02,The Kingsroad,12,662,ROBB STARK,  I'll make the appointments. We'll talk about it first thing in the morning.,Winterfell,The North,Stark,1,Male,0,0,0,0,0,0,0,0,0,0,0
+664,Season 1,S01E02,The Kingsroad,12,664,ROBB STARK,  When was the last time you left this room?,Winterfell,The North,Stark,1,Male,0,0,0,0,0,0,0,0,0,0,0
+665,Season 1,S01E02,The Kingsroad,12,665,CATELYN STARK,  I have to take care of him.,Winterfell,The North,Stark,1,Female,0,0,0,0,0,0,0,0,0,0,0
+666,Season 1,S01E02,The Kingsroad,12,666,ROBB STARK," He's not going to die, mother. Maester Luwin says the most dangerous time has passed.",Winterfell,The North,Stark,1,Male,0,1,0,0,0,0,0,0,0,1,1
+667,Season 1,S01E02,The Kingsroad,12,667,CATELYN STARK, What if he's wrong? Bran needs me.,Winterfell,The North,Stark,1,Female,0,0,0,0,0,0,0,0,0,0,0
+668,Season 1,S01E02,The Kingsroad,12,668,ROBB STARK," Rickon needs you. He's six. He doesn't know what's happening. He follows me around all day, clutching my leg, crying...",Winterfell,The North,Stark,1,Male,0,0,0,0,0,0,0,0,0,0,0
+669,Season 1,S01E02,The Kingsroad,12,669,CATELYN STARK, Close the windows! I can't stand it! Please make them stop! (Wolf's howling repeatedly),Winterfell,The North,Stark,1,Female,0,0,0,0,0,0,0,0,0,0,0
+670,Season 1,S01E02,The Kingsroad,12,670,ROBB STARK,  Fire. You stay here. I'll come back.,Winterfell,The North,Stark,1,Male,0,0,0,0,0,0,0,0,0,0,0
+672,Season 1,S01E02,The Kingsroad,12,672,CATELYN STARK,  No!,Winterfell,The North,Stark,1,Female,0,0,0,0,0,0,0,0,0,0,0
+673,Season 1,S01E02,The Kingsroad,12,673,CATELYN STARK,"The man is an assassin, when he draws his blade, Catelyn begins to fend him off. In the process her hands are both sliced. The man walks within inches of Bran and his direwolf comes in and mauls the assassin.",Winterfell,The North,Stark,1,Female,0,1,0,1,0,0,0,0,0,0,0
+674,Season 1,S01E02,The Kingsroad,12,674,BRAN STARK,"The man is an assassin, when he draws his blade, Catelyn begins to fend him off. In the process her hands are both sliced. The man walks within inches of Bran and his direwolf comes in and mauls the assassin.",Winterfell,The North,Stark,1,Male,0,1,0,1,0,0,0,0,0,0,0
+677,Season 1,S01E02,The Kingsroad,13,677,DAENERYS TARGARYEN,  Have you ever seen a dragon?,Dothraki Sea,Essos,Other,1,Female,0,0,0,1,0,0,0,0,0,0,0
+679,Season 1,S01E02,The Kingsroad,13,679,DAENERYS TARGARYEN,  Everywhere? Even in the east?,Dothraki Sea,Essos,Other,1,Female,0,0,0,0,0,0,0,0,0,0,0
+683,Season 1,S01E02,The Kingsroad,13,683,DAENERYS TARGARYEN, The moon?,Dothraki Sea,Essos,Other,1,Female,0,0,0,0,0,0,0,0,0,0,0
+687,Season 1,S01E02,The Kingsroad,13,687,DAENERYS TARGARYEN, Leave me with her. Why did the trader from Garth tell you these stories?,Dothraki Sea,Essos,Other,1,Female,0,0,0,0,0,0,0,0,0,0,0
+690,Season 1,S01E02,The Kingsroad,13,690,DAENERYS TARGARYEN, How old were you?,Dothraki Sea,Essos,Other,1,Female,0,0,0,0,0,0,0,0,0,0,0
+692,Season 1,S01E02,The Kingsroad,13,692,DAENERYS TARGARYEN,  Nine?!,Dothraki Sea,Essos,Other,1,Female,0,0,0,0,0,0,0,0,0,0,0
+694,Season 1,S01E02,The Kingsroad,13,694,DAENERYS TARGARYEN,  Can you teach me how to make the Khal happy?,Dothraki Sea,Essos,Other,1,Female,0,0,0,0,0,0,0,0,0,0,0
+696,Season 1,S01E02,The Kingsroad,13,696,DAENERYS TARGARYEN, Will it take three years?,Dothraki Sea,Essos,Other,1,Female,0,0,0,0,0,0,0,0,0,0,0
+699,Season 1,S01E02,The Kingsroad,14,699,JON SNOW,"Jon, Tyrion, Benjen and company arrive at the wall and look at it from afar.",The Wall,The North,Stark,1,Male,0,0,0,0,0,0,0,0,0,0,0
+700,Season 1,S01E02,The Kingsroad,14,700,TYRION LANNISTER,"Jon, Tyrion, Benjen and company arrive at the wall and look at it from afar.",The Wall,The North,Lannister,1,Male,0,0,0,0,0,0,0,0,0,0,0
+703,Season 1,S01E02,The Kingsroad,15,703,CATELYN STARK,"Catelyn is on the ground where Bran's body was discovered, below the tower he fell from. She looks up and sees the window. She now is looking through that same window where Bran fell. She investigates the room, noticing a cleared patch on some flooring, finding a long blonde hair.",Winterfell,The North,Stark,1,Female,0,0,0,0,1,0,0,0,0,0,0
+704,Season 1,S01E02,The Kingsroad,15,704,BRAN STARK,"Catelyn is on the ground where Bran's body was discovered, below the tower he fell from. She looks up and sees the window. She now is looking through that same window where Bran fell. She investigates the room, noticing a cleared patch on some flooring, finding a long blonde hair.",Winterfell,The North,Stark,1,Male,0,0,0,0,1,0,0,0,0,0,0
+705,Season 1,S01E02,The Kingsroad,15,705,CATELYN STARK,"Catelyn holds council in the Godswood with Robb, Theon Greyjoy, Rodrick and Maester Luwin.",Winterfell,The North,Stark,1,Female,0,0,1,0,0,0,0,0,0,0,0
+706,Season 1,S01E02,The Kingsroad,15,706,ROBB STARK,"Catelyn holds council in the Godswood with Robb, Theon Greyjoy, Rodrick and Maester Luwin.",Winterfell,The North,Stark,1,Male,0,0,1,0,0,0,0,0,0,0,0
+707,Season 1,S01E02,The Kingsroad,15,707,THEON GREYJOY,"Catelyn holds council in the Godswood with Robb, Theon Greyjoy, Rodrick and Maester Luwin.",Winterfell,The North,Greyjoy,1,Male,0,0,1,0,0,0,0,0,0,0,0
+708,Season 1,S01E02,The Kingsroad,15,708,CATELYN STARK,  What I am about to tell you must remain between us. I don't think Bran fell from that tower. I think he was thrown.,Winterfell,The North,Stark,1,Female,0,1,0,0,1,0,0,0,0,0,0
+710,Season 1,S01E02,The Kingsroad,15,710,CATELYN STARK, Someone tried to kill him twice. Why? Why murder an innocent child? Unless he saw something he wasn't meant to see.,Winterfell,The North,Stark,1,Female,0,1,0,0,0,0,0,0,0,0,1
+711,Season 1,S01E02,The Kingsroad,15,711,THEON GREYJOY," Saw what, my lady?",Winterfell,The North,Greyjoy,1,Male,0,0,0,0,0,0,0,0,0,0,0
+712,Season 1,S01E02,The Kingsroad,15,712,CATELYN STARK, I don't know. But I would stake my life the Lannisters are involved. We already have reason to suspect their loyalty to the crown.,Winterfell,The North,Stark,1,Female,0,0,0,0,0,0,0,0,1,1,0
+714,Season 1,S01E02,The Kingsroad,15,714,ROBB STARK,  They come into our home and try to murder my brother? If it's war they want...,Winterfell,The North,Stark,1,Male,0,1,0,0,0,0,0,0,0,1,1
+715,Season 1,S01E02,The Kingsroad,15,715,THEON GREYJOY," If it comes to that, you know I'll stand behind you.",Winterfell,The North,Greyjoy,1,Male,0,0,0,0,0,0,0,0,0,0,0
+717,Season 1,S01E02,The Kingsroad,15,717,CATELYN STARK,  I don't trust a raven to carry these words.,Winterfell,The North,Stark,1,Female,0,0,0,0,0,0,1,0,0,0,0
+718,Season 1,S01E02,The Kingsroad,15,718,ROBB STARK,  I'll ride to King's Landing.,Winterfell,The North,Stark,1,Male,0,0,0,0,0,0,0,0,0,0,0
+719,Season 1,S01E02,The Kingsroad,15,719,CATELYN STARK,  No. There must always be a Stark in Winterfell. I will go myself.,Winterfell,The North,Stark,1,Female,0,0,0,0,0,0,0,0,0,1,0
+720,Season 1,S01E02,The Kingsroad,15,720,ROBB STARK,"  Mother, you can't.",Winterfell,The North,Stark,1,Male,0,0,0,0,0,0,0,0,0,1,0
+721,Season 1,S01E02,The Kingsroad,15,721,CATELYN STARK, I must.,Winterfell,The North,Stark,1,Female,0,0,0,0,0,0,0,0,0,0,0
+723,Season 1,S01E02,The Kingsroad,15,723,CATELYN STARK,  Too large a party attracts unwanted attention. I don't want the Lannisters to know I'm coming.,Winterfell,The North,Stark,1,Female,0,0,0,0,0,0,0,0,0,1,0
+725,Season 1,S01E02,The Kingsroad,15,725,ROBB STARK,  What about Bran?,Winterfell,The North,Stark,1,Male,0,0,0,0,0,0,0,0,0,0,0
+726,Season 1,S01E02,The Kingsroad,15,726,CATELYN STARK,  I have prayed to the Seven for more than a month. Bran's life is in their hands now.,Winterfell,The North,Stark,1,Female,0,0,1,0,0,0,0,0,0,0,0
+728,Season 1,S01E02,The Kingsroad,16,728,DAENERYS TARGARYEN,"Back at Daenerys' tent, Doreah is on top of her, teaching Daenerys how to please Khal Drogo.",Dothraki Sea,Essos,Other,1,Female,0,0,0,0,0,0,0,0,0,0,0
+729,Season 1,S01E02,The Kingsroad,16,729,KHAL DROGO,"Back at Daenerys' tent, Doreah is on top of her, teaching Daenerys how to please Khal Drogo.",Dothraki Sea,Essos,Other,1,Male,0,0,0,0,0,0,0,0,0,0,0
+731,Season 1,S01E02,The Kingsroad,16,731,DAENERYS TARGARYEN, Finish a man?,Dothraki Sea,Essos,Other,1,Female,0,0,0,0,0,0,0,0,0,0,0
+733,Season 1,S01E02,The Kingsroad,16,733,DAENERYS TARGARYEN,"  Well, she sounds like an interesting woman. I don't think that Drogo will like it with me on top.",Dothraki Sea,Essos,Other,1,Female,0,0,0,0,0,0,0,0,0,0,0
+735,Season 1,S01E02,The Kingsroad,16,735,DAENERYS TARGARYEN,  I don't think that this is the Dothraki way.,Dothraki Sea,Essos,Other,1,Female,0,0,0,0,0,0,0,0,0,0,0
+737,Season 1,S01E02,The Kingsroad,16,737,DAENERYS TARGARYEN,  No. No. Tonight I would look upon your face.,Dothraki Sea,Essos,Other,1,Female,0,0,0,0,0,0,0,0,0,0,0
+740,Season 1,S01E02,The Kingsroad,17,740,SANSA STARK,"  Pardon me, Ser.",Kingsroad,The North,Stark,1,Female,0,0,0,0,0,0,0,0,0,0,0
+741,Season 1,S01E02,The Kingsroad,17,741,SANDOR CLEGANE," Do I frighten you so much, girl? Or is it him there making you shake? He frightens me too. Look at that face.",Kingsroad,The North,Other,1,Male,0,0,0,0,0,0,0,0,0,0,0
+742,Season 1,S01E02,The Kingsroad,17,742,SANSA STARK,"  I'm sorry if I offended you, Ser. Why won't he speak to me?",Kingsroad,The North,Stark,1,Female,0,0,0,0,0,0,0,0,0,0,0
+743,Season 1,S01E02,The Kingsroad,17,743,SANDOR CLEGANE, He hasn't been very talkative these last 20 years. Since the mad King had his tongue ripped out with hot pincers.,Kingsroad,The North,Other,1,Male,0,0,0,0,0,0,0,0,0,0,0
+744,Season 1,S01E02,The Kingsroad,17,744,JOFFREY BARATHEON," He speaks damn well with his sword though. Ser Ilyn Payne, the King's justice. The royal executioner. What is it, sweet lady? Does the hound frighten you? Away with you, dog. You're scaring my lady. I don't like to see you upset. The sun is finally shining. Come walk with me.",Kingsroad,The North,Lannister,1,Male,0,0,0,0,1,0,0,0,0,0,0
+745,Season 1,S01E02,The Kingsroad,17,745,SANSA STARK," Stay, Lady. I probably shouldn't have any more. Father only lets us have one cup at feasts.",Kingsroad,The North,Stark,1,Female,0,0,0,0,0,0,0,0,0,1,0
+746,Season 1,S01E02,The Kingsroad,17,746,JOFFREY BARATHEON,  My princess can drink as much as she wants. Don't worry... You're safe with me.,Kingsroad,The North,Lannister,1,Male,0,0,0,0,0,0,0,1,0,0,0
+749,Season 1,S01E02,The Kingsroad,18,749,SANSA STARK,  Arya!,Kingsroad,The North,Stark,1,Female,0,0,0,0,0,0,0,0,0,0,0
+750,Season 1,S01E02,The Kingsroad,18,750,ARYA STARK, What are you doing here? Go away.,Kingsroad,The North,Stark,1,Female,0,0,0,0,0,0,0,0,0,0,0
+751,Season 1,S01E02,The Kingsroad,18,751,JOFFREY BARATHEON,"  Your sister? And who are you, boy?",Kingsroad,The North,Lannister,1,Male,0,0,0,0,0,0,0,0,0,1,0
+753,Season 1,S01E02,The Kingsroad,18,753,SANSA STARK, He the butcher's boy.,Kingsroad,The North,Stark,1,Female,0,0,0,0,0,0,0,0,0,0,0
+754,Season 1,S01E02,The Kingsroad,18,754,ARYA STARK, He's my friend.,Kingsroad,The North,Stark,1,Female,0,0,0,0,0,0,0,0,0,0,0
+755,Season 1,S01E02,The Kingsroad,18,755,JOFFREY BARATHEON,"  A butcher's boy who wants to be a Knight, eh? Pick up your sword, butcher's boy. Let's see how good you are.",Kingsroad,The North,Lannister,1,Male,0,0,0,0,0,0,0,0,0,0,0
+757,Season 1,S01E02,The Kingsroad,18,757,JOFFREY BARATHEON,"  I'm your prince, not your lord, and I said pick up your sword.",Kingsroad,The North,Lannister,1,Male,0,0,0,0,0,0,0,0,0,0,0
+759,Season 1,S01E02,The Kingsroad,18,759,JOFFREY BARATHEON," And you're not a Knight. Only a butcher's boy. That was my lady's sister you were hitting, do you know that?",Kingsroad,The North,Lannister,1,Male,0,0,0,0,0,0,0,0,0,1,0
+760,Season 1,S01E02,The Kingsroad,18,760,ARYA STARK, Stop it!,Kingsroad,The North,Stark,1,Female,0,0,0,0,0,0,0,0,0,0,0
+761,Season 1,S01E02,The Kingsroad,18,761,SANSA STARK,"  Arya, stay out of this.",Kingsroad,The North,Stark,1,Female,0,0,0,0,0,0,0,0,0,0,0
+762,Season 1,S01E02,The Kingsroad,18,762,JOFFREY BARATHEON,  I won't hurt him... Much. Filthy little bitch!,Kingsroad,The North,Lannister,1,Male,0,0,0,0,0,0,0,0,0,0,0
+763,Season 1,S01E02,The Kingsroad,18,763,SANSA STARK,"  No no, stop it, stop it, both of you. You're spoiling it. You're spoiling everything!",Kingsroad,The North,Stark,1,Female,0,0,0,0,0,0,0,0,0,0,0
+764,Season 1,S01E02,The Kingsroad,18,764,JOFFREY BARATHEON,"  I'll gut you, you little cunt!",Kingsroad,The North,Lannister,1,Male,0,0,0,0,0,0,0,0,0,0,0
+765,Season 1,S01E02,The Kingsroad,18,765,SANSA STARK, Arya!,Kingsroad,The North,Stark,1,Female,0,0,0,0,0,0,0,0,0,0,0
+766,Season 1,S01E02,The Kingsroad,18,766,ARYA STARK,"Arya then steps in and fights with Joffrey, disarming him and putting him on his back. Her direwolf sees this as a thread and runs in to defend.",Kingsroad,The North,Stark,1,Female,0,1,0,1,0,0,0,0,0,0,0
+767,Season 1,S01E02,The Kingsroad,18,767,JOFFREY BARATHEON,"Arya then steps in and fights with Joffrey, disarming him and putting him on his back. Her direwolf sees this as a thread and runs in to defend.",Kingsroad,The North,Lannister,1,Male,0,1,0,1,0,0,0,0,0,0,0
+768,Season 1,S01E02,The Kingsroad,18,768,ARYA STARK,  Nymeria!,Kingsroad,The North,Stark,1,Female,0,0,0,0,0,0,0,0,0,0,0
+769,Season 1,S01E02,The Kingsroad,18,769,JOFFREY BARATHEON,  Please don't.,Kingsroad,The North,Lannister,1,Male,0,0,0,0,0,0,0,0,0,0,0
+770,Season 1,S01E02,The Kingsroad,18,770,SANSA STARK,"  Arya, leave him alone. My prince, my poor prince, look what they did to you. Stay here, I'll go back to the inn and bring help.",Kingsroad,The North,Stark,1,Female,0,0,0,0,0,0,0,0,0,0,0
+771,Season 1,S01E02,The Kingsroad,18,771,JOFFREY BARATHEON, Then go! Don't touch me.,Kingsroad,The North,Lannister,1,Male,0,0,0,0,0,0,0,0,0,0,0
+773,Season 1,S01E02,The Kingsroad,19,773,JOFFREY BARATHEON,A hunt has begun for the direwolf that attacked Joffrey.,Kingsroad,The North,Lannister,1,Male,0,1,0,1,0,0,0,0,0,0,0
+775,Season 1,S01E02,The Kingsroad,19,775,ARYA STARK,Arya hidden from everyone telling her direwolf to leave.,Kingsroad,The North,Stark,1,Female,0,0,0,1,0,0,0,0,0,0,0
+776,Season 1,S01E02,The Kingsroad,19,776,ARYA STARK,  You've got to go. They'll kill you for what you did to Joffrey. Go on... run. Go! Leave now!,Kingsroad,The North,Stark,1,Female,0,1,0,0,0,0,0,0,0,0,1
+780,Season 1,S01E02,The Kingsroad,19,780,ARYA STARK,  Go!,Kingsroad,The North,Stark,1,Female,0,0,0,0,0,0,0,0,0,0,0
+781,Season 1,S01E02,The Kingsroad,19,781,NED STARK,Jory comes to tell Ned that his daughter has been found.,Kingsroad,The North,Stark,1,Male,0,0,0,0,0,0,0,0,0,1,0
+783,Season 1,S01E02,The Kingsroad,19,783,NED STARK, Where is she?,Kingsroad,The North,Stark,1,Male,0,0,0,0,0,0,0,0,0,0,0
+785,Season 1,S01E02,The Kingsroad,19,785,NED STARK, Who took her?,Kingsroad,The North,Stark,1,Male,0,0,0,0,0,0,0,0,0,0,0
+787,Season 1,S01E02,The Kingsroad,19,787,NED STARK," Right, get back.",Kingsroad,The North,Stark,1,Male,0,0,0,0,0,0,0,0,0,0,0
+789,Season 1,S01E02,The Kingsroad,19,789,NED STARK, Back! Back to the inn. All back!,Kingsroad,The North,Stark,1,Male,0,0,0,0,0,0,0,0,0,0,0
+792,Season 1,S01E02,The Kingsroad,20,792,ARYA STARK,  I'm sorry.,Kingsroad,The North,Stark,1,Female,0,0,0,0,0,0,0,0,0,0,0
+793,Season 1,S01E02,The Kingsroad,20,793,NED STARK, Are you hurt?,Kingsroad,The North,Stark,1,Male,0,0,0,0,0,0,0,0,0,0,0
+794,Season 1,S01E02,The Kingsroad,20,794,ARYA STARK, No.,Kingsroad,The North,Stark,1,Female,0,0,0,0,0,0,0,0,0,0,0
+795,Season 1,S01E02,The Kingsroad,20,795,NED STARK, It's all right. What is the meaning of this? Why was my daughter not brought to me at once?,Kingsroad,The North,Stark,1,Male,0,0,0,0,0,0,0,0,0,1,0
+796,Season 1,S01E02,The Kingsroad,20,796,CERSEI LANNISTER,  How dare you speak to your King in that manner?,Kingsroad,The North,Lannister,1,Female,0,0,0,0,0,0,0,0,0,0,0
+797,Season 1,S01E02,The Kingsroad,20,797,ROBERT BARATHEON," Quiet, woman. Sorry, Ned. I never meant to frighten the girl. But we need to get this business done quickly.",Kingsroad,The North,Baratheon,1,Male,0,0,0,0,0,0,0,0,0,0,0
+798,Season 1,S01E02,The Kingsroad,20,798,CERSEI LANNISTER, Your girl and that butcher's boy attacked my son. That animal of hers nearly tore his arm off.,Kingsroad,The North,Lannister,1,Female,0,1,0,0,0,0,0,0,0,1,0
+799,Season 1,S01E02,The Kingsroad,20,799,ARYA STARK,  That's not true! She just... Bit him a little. He was hurting Mycah.,Kingsroad,The North,Stark,1,Female,0,0,0,0,0,0,0,0,0,0,0
+800,Season 1,S01E02,The Kingsroad,20,800,CERSEI LANNISTER, Joffrey told us what happened. You and that boy beat him with clubs while you set your wolf on him.,Kingsroad,The North,Lannister,1,Female,0,1,0,0,0,0,0,0,0,0,0
+801,Season 1,S01E02,The Kingsroad,20,801,ARYA STARK,  That's not what happened!,Kingsroad,The North,Stark,1,Female,0,0,0,0,0,0,0,0,0,0,0
+802,Season 1,S01E02,The Kingsroad,20,802,JOFFREY BARATHEON,  Yes it is! They all attacked me and she threw my sword in the river.,Kingsroad,The North,Lannister,1,Male,0,1,0,0,0,0,0,0,0,0,0
+803,Season 1,S01E02,The Kingsroad,20,803,ARYA STARK,  Liar!,Kingsroad,The North,Stark,1,Female,0,0,0,0,0,0,0,0,0,0,0
+804,Season 1,S01E02,The Kingsroad,20,804,JOFFREY BARATHEON,  Shut up!,Kingsroad,The North,Lannister,1,Male,0,0,0,0,0,0,0,0,0,0,0
+805,Season 1,S01E02,The Kingsroad,20,805,ROBERT BARATHEON," Enough! He tells me one thing, she tells me another. Seven hells! What am I to make of this? Where's your other daughter, Ned?",Kingsroad,The North,Baratheon,1,Male,0,0,1,0,0,0,0,0,0,1,0
+806,Season 1,S01E02,The Kingsroad,20,806,NED STARK, In bed asleep.,Kingsroad,The North,Stark,1,Male,0,0,0,0,0,0,0,0,0,0,0
+807,Season 1,S01E02,The Kingsroad,20,807,CERSEI LANNISTER," She's not. Sansa, come here, darling.",Kingsroad,The North,Lannister,1,Female,0,0,0,0,0,0,0,0,0,0,0
+808,Season 1,S01E02,The Kingsroad,20,808,ROBERT BARATHEON," Now, child... Tell me what happened. Tell it all and tell it true. It's a great crime to lie to a King.",Kingsroad,The North,Baratheon,1,Male,0,0,0,0,0,0,0,0,0,0,0
+809,Season 1,S01E02,The Kingsroad,20,809,SANSA STARK, I don't know. I don't remember. Everything happened so fast. I didn't see.,Kingsroad,The North,Stark,1,Female,0,0,0,0,0,0,0,0,0,0,0
+810,Season 1,S01E02,The Kingsroad,20,810,ARYA STARK, Liar! Liar liar liar!,Kingsroad,The North,Stark,1,Female,0,0,0,0,0,0,0,0,0,0,0
+811,Season 1,S01E02,The Kingsroad,20,811,SANSA STARK, Arya!,Kingsroad,The North,Stark,1,Female,0,0,0,0,0,0,0,0,0,0,0
+812,Season 1,S01E02,The Kingsroad,20,812,NED STARK, Stop it! That's enough of that.,Kingsroad,The North,Stark,1,Male,0,0,0,0,0,0,0,0,0,0,0
+813,Season 1,S01E02,The Kingsroad,20,813,ARYA STARK,  Liar liar liar!,Kingsroad,The North,Stark,1,Female,0,0,0,0,0,0,0,0,0,0,0
+814,Season 1,S01E02,The Kingsroad,20,814,NED STARK, Stop! Arya!,Kingsroad,The North,Stark,1,Male,0,0,0,0,0,0,0,0,0,0,0
+815,Season 1,S01E02,The Kingsroad,20,815,CERSEI LANNISTER,  She's as wild as that animal of hers. I want her punished.,Kingsroad,The North,Lannister,1,Female,0,0,0,0,0,0,0,0,0,0,0
+816,Season 1,S01E02,The Kingsroad,20,816,ROBERT BARATHEON," What would you have me do, whip her through the streets? Damn it, children fight. It's over.",Kingsroad,The North,Baratheon,1,Male,0,1,0,0,0,0,0,0,0,1,0
+817,Season 1,S01E02,The Kingsroad,20,817,CERSEI LANNISTER,  Joffrey will bear these scars for the rest of his life.,Kingsroad,The North,Lannister,1,Female,0,0,0,0,0,0,0,0,0,0,0
+818,Season 1,S01E02,The Kingsroad,20,818,ROBERT BARATHEON, You let that little girl disarm you? See to it that your daughter is disciplined. I'll do the same with my son.,Kingsroad,The North,Baratheon,1,Male,0,0,0,0,0,0,0,0,0,1,0
+819,Season 1,S01E02,The Kingsroad,20,819,NED STARK," Gladly, your Grace.",Kingsroad,The North,Stark,1,Male,0,0,0,0,0,0,0,0,0,0,0
+820,Season 1,S01E02,The Kingsroad,20,820,CERSEI LANNISTER,  And what of the direwolf? What of the beast that savaged your son?,Kingsroad,The North,Lannister,1,Female,0,0,0,1,0,0,0,0,0,1,0
+821,Season 1,S01E02,The Kingsroad,20,821,ROBERT BARATHEON, I'd forgot the damned wolf.,Kingsroad,The North,Baratheon,1,Male,0,0,0,0,0,0,0,0,0,0,0
+823,Season 1,S01E02,The Kingsroad,20,823,ROBERT BARATHEON, So be it.,Kingsroad,The North,Baratheon,1,Male,0,0,0,0,0,0,0,0,0,0,0
+824,Season 1,S01E02,The Kingsroad,20,824,CERSEI LANNISTER, We have another wolf.,Kingsroad,The North,Lannister,1,Female,0,0,0,0,0,0,0,0,0,0,0
+825,Season 1,S01E02,The Kingsroad,20,825,ROBERT BARATHEON,  As you will.,Kingsroad,The North,Baratheon,1,Male,0,0,0,0,0,0,0,0,0,0,0
+826,Season 1,S01E02,The Kingsroad,20,826,NED STARK, You can't mean it.,Kingsroad,The North,Stark,1,Male,0,0,0,0,0,0,0,0,0,0,0
+827,Season 1,S01E02,The Kingsroad,20,827,ROBERT BARATHEON, A direwolf's no pet. Get her a dog. She'll be happier for it.,Kingsroad,The North,Baratheon,1,Male,0,0,0,1,0,0,0,0,0,0,0
+828,Season 1,S01E02,The Kingsroad,20,828,SANSA STARK," He doesn't mean Lady, does he? No no, not Lady! Lady didn't bite anyone! She's good!",Kingsroad,The North,Stark,1,Female,0,0,0,0,0,0,0,0,0,0,0
+829,Season 1,S01E02,The Kingsroad,20,829,ARYA STARK, Lady wasn't there! You leave her alone!,Kingsroad,The North,Stark,1,Female,0,0,0,0,0,0,0,0,0,0,0
+830,Season 1,S01E02,The Kingsroad,20,830,SANSA STARK,  Stop them. Don't let them do it. Please! It wasn't Lady!,Kingsroad,The North,Stark,1,Female,0,0,0,0,0,0,0,0,0,0,0
+831,Season 1,S01E02,The Kingsroad,20,831,NED STARK, s this your command... your Grace?,Kingsroad,The North,Stark,1,Male,0,0,0,0,0,0,0,0,0,0,0
+832,Season 1,S01E02,The Kingsroad,20,832,CERSEI LANNISTER,  Where is the beast?,Kingsroad,The North,Lannister,1,Female,0,0,0,0,0,0,0,0,0,0,0
+834,Season 1,S01E02,The Kingsroad,20,834,CERSEI LANNISTER," Ser Ilyn, do me the honor.",Kingsroad,The North,Lannister,1,Female,0,0,0,0,0,0,0,0,1,0,0
+835,Season 1,S01E02,The Kingsroad,20,835,NED STARK," No. Jory... Take the girls to their rooms. If it must be done, then I'll do it myself.",Kingsroad,The North,Stark,1,Male,0,0,0,0,0,0,0,0,0,0,0
+836,Season 1,S01E02,The Kingsroad,20,836,CERSEI LANNISTER, Is this some trick?,Kingsroad,The North,Lannister,1,Female,0,0,0,0,0,0,0,0,0,0,0
+837,Season 1,S01E02,The Kingsroad,20,837,NED STARK,  The wolf is of the north. She deserves better than a butcher.,Kingsroad,The North,Stark,1,Male,0,0,0,0,0,0,0,0,1,0,0
+839,Season 1,S01E02,The Kingsroad,20,839,NED STARK, The butcher's boy... You rode him down?,Kingsroad,The North,Stark,1,Male,0,0,0,0,0,0,0,0,0,0,1
+840,Season 1,S01E02,The Kingsroad,20,840,SANDOR CLEGANE, He ran... Not very fast.,Kingsroad,The North,Other,1,Male,0,0,0,0,0,0,0,0,0,0,0
+844,Season 1,S01E03,Lord Snow,1,844,NED STARK," Get the girls settled in. I'll be back in time for supper. And, Jory, you go with them.",King's Landing,The Crownlands,Stark,1,Male,0,0,0,0,0,0,0,0,0,0,0
+847,Season 1,S01E03,Lord Snow,1,847,NED STARK,"Ned Stark gives the guard a blank stare before taking off his gloves, the guard realizes Ned's disinterest and the two begin walking to the council chamber. First they walk through the Great Hall, where the throne sits. Jaime Lannister is lingering in front of the throne.",King's Landing,The Crownlands,Stark,1,Male,0,0,0,0,0,0,0,0,0,0,0
+848,Season 1,S01E03,Lord Snow,1,848,JAIME LANNISTER,"Ned Stark gives the guard a blank stare before taking off his gloves, the guard realizes Ned's disinterest and the two begin walking to the council chamber. First they walk through the Great Hall, where the throne sits. Jaime Lannister is lingering in front of the throne.",King's Landing,The Crownlands,Lannister,1,Male,0,0,0,0,0,0,0,0,0,0,0
+849,Season 1,S01E03,Lord Snow,1,849,JAIME LANNISTER," Thank the gods you're here, Stark. About time we had some stern northern leadership.",King's Landing,The Crownlands,Lannister,1,Male,0,0,1,0,0,0,0,0,0,0,0
+850,Season 1,S01E03,Lord Snow,1,850,NED STARK, Glad to see you're protecting the throne.,King's Landing,The Crownlands,Stark,1,Male,0,0,0,0,0,0,0,0,0,0,0
+851,Season 1,S01E03,Lord Snow,1,851,JAIME LANNISTER," Sturdy old thing. How many kings' asses have polished it, I wonder? What's the line? The King shits and the Hand wipes.",King's Landing,The Crownlands,Lannister,1,Male,0,0,0,0,0,0,0,0,0,0,0
+852,Season 1,S01E03,Lord Snow,1,852,NED STARK,  Very handsome armor. Not a scratch on it.,King's Landing,The Crownlands,Stark,1,Male,0,0,0,0,0,0,0,0,0,0,0
+853,Season 1,S01E03,Lord Snow,1,853,JAIME LANNISTER," I know. People have been swinging at me for years, but they always seem to miss.",King's Landing,The Crownlands,Lannister,1,Male,0,0,0,0,0,0,0,0,0,0,0
+854,Season 1,S01E03,Lord Snow,1,854,NED STARK, You've chosen your opponents wisely then.,King's Landing,The Crownlands,Stark,1,Male,0,0,0,0,0,0,0,0,0,0,0
+855,Season 1,S01E03,Lord Snow,1,855,JAIME LANNISTER," I have a knack for it. It must be strange for you coming into this room. I was standing right here when it happened. He was very brave, your brother. Your father too. They didn't deserve to die like that. Nobody deserves to die like that.",King's Landing,The Crownlands,Lannister,1,Male,0,1,0,0,0,0,0,0,1,1,1
+856,Season 1,S01E03,Lord Snow,1,856,NED STARK,  But you just stood there and watched.,King's Landing,The Crownlands,Stark,1,Male,0,0,0,0,0,0,0,0,0,0,0
+857,Season 1,S01E03,Lord Snow,1,857,JAIME LANNISTER," 500 men just stood there and watched. All the great knights of the Seven Kingdoms. You think anyone said a word, lifted a finger? No, Lord Stark. 500 men and this room was silent as a crypt. Except for the screams, of course, and the Mad King laughing. And later... When I watched the Mad King die, I remembered him laughing as your father burned... It felt like justice.",King's Landing,The Crownlands,Lannister,1,Male,0,1,0,0,0,0,0,0,0,1,1
+858,Season 1,S01E03,Lord Snow,1,858,NED STARK, Is that what you tell yourself at night? You're a servant of justice? That you were avenging my father when you shoved your sword in Aerys Targaryen's back?,King's Landing,The Crownlands,Stark,1,Male,0,1,0,0,0,0,0,0,0,1,0
+859,Season 1,S01E03,Lord Snow,1,859,JAIME LANNISTER," Tell me... If I'd stabbed the Mad King in the belly instead of the back, would you admire me more?",King's Landing,The Crownlands,Lannister,1,Male,0,1,0,0,0,0,0,0,0,0,0
+860,Season 1,S01E03,Lord Snow,1,860,NED STARK,"  You served him well, when serving was safe.",King's Landing,The Crownlands,Stark,1,Male,0,0,0,0,0,0,0,0,1,0,0
+862,Season 1,S01E03,Lord Snow,2,862,NED STARK,Ned enters the small council's chamber where the others are already awaiting him.,King's Landing,The Crownlands,Stark,1,Male,0,0,0,0,0,0,0,0,0,0,0
+863,Season 1,S01E03,Lord Snow,2,863,VARYS, Lord Stark.,King's Landing,The Crownlands,Other,1,Male,0,0,0,0,0,0,0,0,0,0,0
+864,Season 1,S01E03,Lord Snow,2,864,NED STARK, Lord Varys.,King's Landing,The Crownlands,Stark,1,Male,0,0,0,0,0,0,0,0,0,0,0
+865,Season 1,S01E03,Lord Snow,2,865,VARYS, I was grievously sorry to hear of your troubles on the Kingsroad. We are all praying for Prince Joffrey's full recovery.,King's Landing,The Crownlands,Other,1,Male,0,0,1,0,0,0,0,0,0,0,0
+866,Season 1,S01E03,Lord Snow,2,866,NED STARK,  A shame you didn't say a prayer for the butcher's son. Renly! You're looking well.,King's Landing,The Crownlands,Stark,1,Male,0,0,1,0,0,0,0,0,0,1,0
+867,Season 1,S01E03,Lord Snow,2,867,RENLY BARATHEON," And you look tired from the road. I told them this meeting could wait another day, but...",King's Landing,The Crownlands,Baratheon,1,Male,0,0,0,0,0,0,0,0,0,0,0
+868,Season 1,S01E03,Lord Snow,2,868,PETYR BAELISH," But we have a Kingdom to look after. I've hoped to meet you for some time, Lord Stark. No doubt Lady Catelyn has mentioned me.",King's Landing,The Crownlands,Other,1,Male,0,0,0,0,0,0,0,0,0,0,0
+869,Season 1,S01E03,Lord Snow,2,869,NED STARK,"  She has, Lord Baelish. I understand you knew my brother Brandon as well.",King's Landing,The Crownlands,Stark,1,Male,0,0,0,0,0,0,0,0,0,1,0
+870,Season 1,S01E03,Lord Snow,2,870,PETYR BAELISH, All too well. I still carry a token of his esteem from navel to collarbone.,King's Landing,The Crownlands,Other,1,Male,0,0,0,0,0,0,0,0,0,0,0
+871,Season 1,S01E03,Lord Snow,2,871,NED STARK, Perhaps you chose the wrong man to duel with.,King's Landing,The Crownlands,Stark,1,Male,0,0,0,0,0,0,0,0,0,0,0
+872,Season 1,S01E03,Lord Snow,2,872,PETYR BAELISH," It wasn't the man that I chose, my Lord. It was Catelyn Tully. A woman worth fighting for, I'm sure you'll agree.",King's Landing,The Crownlands,Other,1,Male,0,1,0,0,0,0,0,0,0,0,0
+874,Season 1,S01E03,Lord Snow,2,874,NED STARK,  Grand Maester.,King's Landing,The Crownlands,Stark,1,Male,0,0,0,0,0,0,0,0,0,0,0
+876,Season 1,S01E03,Lord Snow,2,876,NED STARK, And you served another King.,King's Landing,The Crownlands,Stark,1,Male,0,0,0,0,0,0,0,0,1,0,0
+878,Season 1,S01E03,Lord Snow,2,878,NED STARK,  Without the King?,King's Landing,The Crownlands,Stark,1,Male,0,0,0,0,0,0,0,0,0,0,0
+879,Season 1,S01E03,Lord Snow,2,879,RENLY BARATHEON," Winter may be coming, but I'm afraid the same cannot be said for my brother.",King's Landing,The Crownlands,Baratheon,1,Male,0,0,0,0,0,0,0,0,0,1,0
+880,Season 1,S01E03,Lord Snow,2,880,VARYS, His Grace has many cares. He entrusts some small matters to us that we might lighten the load.,King's Landing,The Crownlands,Other,1,Male,0,0,0,0,0,0,0,0,0,0,0
+881,Season 1,S01E03,Lord Snow,2,881,PETYR BAELISH,  We are the lords of small matters here.,King's Landing,The Crownlands,Other,1,Male,0,0,0,0,0,0,0,0,0,0,0
+882,Season 1,S01E03,Lord Snow,2,882,RENLY BARATHEON, My brother instructs us to stage a tournament in honor of Lord Stark's appointment as Hand of the King.,King's Landing,The Crownlands,Baratheon,1,Male,0,0,0,0,0,0,0,0,1,1,0
+883,Season 1,S01E03,Lord Snow,2,883,PETYR BAELISH,"  Mmm, how much?",King's Landing,The Crownlands,Other,1,Male,0,0,0,0,0,0,0,0,0,0,0
+884,Season 1,S01E03,Lord Snow,2,884,NED STARK," 40,000 gold dragons to the champion, 20,000 to the runner-up, 20,000 to the winning archer.",King's Landing,The Crownlands,Stark,1,Male,0,0,0,0,1,0,0,0,0,0,0
+886,Season 1,S01E03,Lord Snow,2,886,PETYR BAELISH,"  I'll have to borrow it. The Lannisters will accommodate, I expect. We already owe Lord Tywin 3 million gold. What's another 80,000?",King's Landing,The Crownlands,Other,1,Male,0,0,0,0,1,0,0,0,0,1,0
+887,Season 1,S01E03,Lord Snow,2,887,NED STARK,  Are you telling me the Crown is three million in debt?,King's Landing,The Crownlands,Stark,1,Male,0,0,0,0,1,0,0,0,0,0,0
+888,Season 1,S01E03,Lord Snow,2,888,PETYR BAELISH, I'm telling you the Crown is six million in debt.,King's Landing,The Crownlands,Other,1,Male,0,0,0,0,1,0,0,0,0,0,0
+889,Season 1,S01E03,Lord Snow,2,889,NED STARK,  How could you let this happen?,King's Landing,The Crownlands,Stark,1,Male,0,0,0,0,0,0,0,0,0,0,0
+890,Season 1,S01E03,Lord Snow,2,890,PETYR BAELISH,  The Master of Coin finds the money. The King and the Hand spend it.,King's Landing,The Crownlands,Other,1,Male,0,0,0,0,1,0,0,0,0,0,0
+891,Season 1,S01E03,Lord Snow,2,891,NED STARK,  I will not believe Jon Arryn allowed Robert to bankrupt the realm.,King's Landing,The Crownlands,Stark,1,Male,0,0,0,0,1,0,0,0,0,0,0
+893,Season 1,S01E03,Lord Snow,2,893,RENLY BARATHEON," ""Counting coppers,"" he calls it.",King's Landing,The Crownlands,Baratheon,1,Male,0,0,0,0,0,0,0,0,0,0,0
+894,Season 1,S01E03,Lord Snow,2,894,NED STARK,  I'll speak to him tomorrow. This tournament is an extravagance we cannot afford.,King's Landing,The Crownlands,Stark,1,Male,0,0,0,0,0,0,0,0,0,0,0
+895,Season 1,S01E03,Lord Snow,2,895,PETYR BAELISH,"  As you will. But still, we'd best make our plans.",King's Landing,The Crownlands,Other,1,Male,0,0,0,0,0,0,0,0,0,0,0
+896,Season 1,S01E03,Lord Snow,2,896,NED STARK,"  There will be no plans until I speak to Robert. Forgive me, my Lords. I had a long ride.",King's Landing,The Crownlands,Stark,1,Male,0,0,0,0,0,0,0,0,0,0,0
+897,Season 1,S01E03,Lord Snow,2,897,VARYS," You are the King's Hand, Lord Stark, we serve at your pleasure.",King's Landing,The Crownlands,Other,1,Male,1,0,0,0,0,0,0,0,1,0,0
+899,Season 1,S01E03,Lord Snow,3,899,CERSEI LANNISTER,Cersei tending to Joffrey's wound.,King's Landing,The Crownlands,Lannister,1,Female,0,0,0,0,0,0,0,0,0,0,0
+900,Season 1,S01E03,Lord Snow,3,900,CERSEI LANNISTER," Please, it's nearly healed.",King's Landing,The Crownlands,Lannister,1,Female,0,0,0,0,0,0,0,0,0,0,0
+901,Season 1,S01E03,Lord Snow,3,901,JOFFREY BARATHEON,  It's ugly.,King's Landing,The Crownlands,Lannister,1,Male,0,0,0,0,0,0,0,0,0,0,0
+902,Season 1,S01E03,Lord Snow,3,902,CERSEI LANNISTER," A King should have scars, you fought off a direwolf. You're a warrior like your father.",King's Landing,The Crownlands,Lannister,1,Female,0,1,0,1,0,0,0,0,0,1,0
+903,Season 1,S01E03,Lord Snow,3,903,JOFFREY BARATHEON,"  I'm not like him. I didn't fight off anything. It bit me and all I did was scream. And the two Stark girls saw it, both of them.",King's Landing,The Crownlands,Lannister,1,Male,0,1,0,0,0,0,0,0,0,0,0
+904,Season 1,S01E03,Lord Snow,3,904,CERSEI LANNISTER," That's not true. You killed the beast. You only spared the girl because of the love your father bears her father. When Aerys Targaryen sat on the Iron Throne, your father was a rebel and a traitor. Someday you'll sit on the throne and the truth will be what you make it.",King's Landing,The Crownlands,Lannister,1,Female,0,1,0,0,0,1,0,0,0,1,1
+905,Season 1,S01E03,Lord Snow,3,905,JOFFREY BARATHEON, Do I have to marry her?,King's Landing,The Crownlands,Lannister,1,Male,0,0,0,0,0,0,0,0,0,0,0
+906,Season 1,S01E03,Lord Snow,3,906,CERSEI LANNISTER," Yes. She's very beautiful and young. If you don't like her, you only need to see her on formal occasions and when the time comes, to make little princes and princesses. And if you'd rather fuck painted whores, you'll fuck painted whores. And if you'd rather lie with noble virgins, so be it. You are my darling boy and the world will be exactly as you want it to be. Do something nice for the Stark girl.",King's Landing,The Crownlands,Lannister,1,Female,1,0,0,0,0,0,0,0,0,1,0
+907,Season 1,S01E03,Lord Snow,3,907,JOFFREY BARATHEON,  I don't want to.,King's Landing,The Crownlands,Lannister,1,Male,0,0,0,0,0,0,0,0,0,0,0
+908,Season 1,S01E03,Lord Snow,3,908,CERSEI LANNISTER," No, but you will. The occasional kindness will spare you all sorts of trouble down the road.",King's Landing,The Crownlands,Lannister,1,Female,0,0,0,0,0,0,0,0,0,0,0
+909,Season 1,S01E03,Lord Snow,3,909,JOFFREY BARATHEON, We allow the northerners too much power. They consider themselves our equals.,King's Landing,The Crownlands,Lannister,1,Male,0,0,0,0,1,0,0,0,0,0,0
+910,Season 1,S01E03,Lord Snow,3,910,CERSEI LANNISTER, How would you handle them?,King's Landing,The Crownlands,Lannister,1,Female,0,0,0,0,0,0,0,0,0,0,0
+911,Season 1,S01E03,Lord Snow,3,911,JOFFREY BARATHEON,"  I'd double their taxes and command them to supply 10,000 men to the royal army.",King's Landing,The Crownlands,Lannister,1,Male,0,0,0,0,0,0,0,0,0,0,0
+912,Season 1,S01E03,Lord Snow,3,912,CERSEI LANNISTER,  A royal army?,King's Landing,The Crownlands,Lannister,1,Female,0,0,0,0,0,0,0,0,0,0,0
+913,Season 1,S01E03,Lord Snow,3,913,JOFFREY BARATHEON,"  Why should every lord command his own men? It's primitive, no better than the hill tribes. We should have a standing army of men loyal to the Crown, trained by experienced soldiers... Instead of a mob of peasants who've never held pikes in their lives.",King's Landing,The Crownlands,Lannister,1,Male,0,1,0,0,0,0,0,0,1,0,1
+914,Season 1,S01E03,Lord Snow,3,914,CERSEI LANNISTER, And if the northerners rebel?,King's Landing,The Crownlands,Lannister,1,Female,0,0,0,0,0,0,0,0,0,0,0
+915,Season 1,S01E03,Lord Snow,3,915,JOFFREY BARATHEON," I'd crush them. Seize Winterfell and install someone loyal to the realm as Warden of the North. Uncle Kevan, maybe.",King's Landing,The Crownlands,Lannister,1,Male,0,0,0,0,0,0,0,0,1,1,0
+916,Season 1,S01E03,Lord Snow,3,916,CERSEI LANNISTER," And these 10,000 northern troops, would they fight for you or their lord?",King's Landing,The Crownlands,Lannister,1,Female,0,1,0,0,0,0,0,0,0,0,0
+917,Season 1,S01E03,Lord Snow,3,917,JOFFREY BARATHEON,  For me. I'm their King.,King's Landing,The Crownlands,Lannister,1,Male,0,0,0,0,0,0,0,0,0,0,0
+918,Season 1,S01E03,Lord Snow,3,918,CERSEI LANNISTER,"  But you've just invaded their homeland, asked them to kill their brothers.",King's Landing,The Crownlands,Lannister,1,Female,0,1,0,0,0,0,0,0,0,1,1
+919,Season 1,S01E03,Lord Snow,3,919,JOFFREY BARATHEON,  I'm not asking.,King's Landing,The Crownlands,Lannister,1,Male,0,0,0,0,0,0,0,0,0,0,0
+920,Season 1,S01E03,Lord Snow,3,920,CERSEI LANNISTER," The North cannot be held... not by an outsider. It's too big and too wild. When the winter comes, the Seven gods together couldn't save you and your royal army. A good King knows when to save his strength... And when to destroy his enemies.",King's Landing,The Crownlands,Lannister,1,Female,0,1,1,0,0,0,0,0,0,0,0
+921,Season 1,S01E03,Lord Snow,3,921,JOFFREY BARATHEON,  So you agree... The Starks are enemies?,King's Landing,The Crownlands,Lannister,1,Male,0,0,0,0,0,0,0,0,0,1,0
+922,Season 1,S01E03,Lord Snow,3,922,CERSEI LANNISTER,  Everyone who isn't us is an enemy.,King's Landing,The Crownlands,Lannister,1,Female,0,0,0,0,0,0,0,0,0,0,0
+924,Season 1,S01E03,Lord Snow,4,924,ARYA STARK,"Arya, Sansa and their Septa are all around a table eating. Arya is stabbing a knife into the table between her fingers.",King's Landing,The Crownlands,Stark,1,Female,0,0,0,0,0,0,0,0,0,0,0
+925,Season 1,S01E03,Lord Snow,4,925,SANSA STARK,"Arya, Sansa and their Septa are all around a table eating. Arya is stabbing a knife into the table between her fingers.",King's Landing,The Crownlands,Stark,1,Female,0,0,0,0,0,0,0,0,0,0,0
+927,Season 1,S01E03,Lord Snow,4,927,ARYA STARK,  I'm practicing.,King's Landing,The Crownlands,Stark,1,Female,0,0,0,0,0,0,0,0,0,0,0
+928,Season 1,S01E03,Lord Snow,4,928,SANSA STARK,  Practicing for what?,King's Landing,The Crownlands,Stark,1,Female,0,0,0,0,0,0,0,0,0,0,0
+929,Season 1,S01E03,Lord Snow,4,929,ARYA STARK, The Prince.,King's Landing,The Crownlands,Stark,1,Female,0,0,0,0,0,0,0,0,0,0,0
+931,Season 1,S01E03,Lord Snow,4,931,ARYA STARK, He's a liar and a coward and he killed my friend.,King's Landing,The Crownlands,Stark,1,Female,0,1,0,0,0,0,0,0,0,0,1
+932,Season 1,S01E03,Lord Snow,4,932,SANSA STARK, The Hound killed your friend.,King's Landing,The Crownlands,Stark,1,Female,0,1,0,0,0,0,0,0,0,0,1
+933,Season 1,S01E03,Lord Snow,4,933,ARYA STARK, The Hound does whatever the Prince tells him to do.,King's Landing,The Crownlands,Stark,1,Female,0,0,0,0,0,0,0,0,0,0,0
+934,Season 1,S01E03,Lord Snow,4,934,SANSA STARK, You're an idiot.,King's Landing,The Crownlands,Stark,1,Female,0,0,0,0,0,0,0,0,0,0,0
+935,Season 1,S01E03,Lord Snow,4,935,ARYA STARK," You're a liar. And if you told the truth, Mycah would be alive.",King's Landing,The Crownlands,Stark,1,Female,0,0,0,0,0,0,0,0,0,0,0
+937,Season 1,S01E03,Lord Snow,4,937,ARYA STARK,Septa Mordane begins escorting Arya away from the table as Ned walks in.,King's Landing,The Crownlands,Stark,1,Female,0,0,0,0,0,0,0,0,0,0,0
+938,Season 1,S01E03,Lord Snow,4,938,NED STARK,Septa Mordane begins escorting Arya away from the table as Ned walks in.,King's Landing,The Crownlands,Stark,1,Male,0,0,0,0,0,0,0,0,0,0,0
+939,Season 1,S01E03,Lord Snow,4,939,NED STARK,  What's happening here?,King's Landing,The Crownlands,Stark,1,Male,0,0,0,0,0,0,0,0,0,0,0
+941,Season 1,S01E03,Lord Snow,4,941,NED STARK,"  Go to your room. We'll speak later. That's for you, love",King's Landing,The Crownlands,Stark,1,Male,0,0,0,0,0,1,0,0,0,0,0
+942,Season 1,S01E03,Lord Snow,4,942,NED STARK,Ned places a wrapped package in front of Sansa on the table.,King's Landing,The Crownlands,Stark,1,Male,0,0,0,0,0,0,0,0,0,0,0
+943,Season 1,S01E03,Lord Snow,4,943,SANSA STARK,Ned places a wrapped package in front of Sansa on the table.,King's Landing,The Crownlands,Stark,1,Female,0,0,0,0,0,0,0,0,0,0,0
+944,Season 1,S01E03,Lord Snow,4,944,NED STARK,  The same dollmaker makes all of Princess Myrcella's toys. Don't you like it?,King's Landing,The Crownlands,Stark,1,Male,0,0,0,0,0,0,0,0,0,0,0
+945,Season 1,S01E03,Lord Snow,4,945,SANSA STARK, I haven't played with dolls since I was eight. May I be excused?,King's Landing,The Crownlands,Stark,1,Female,0,0,0,0,0,0,0,0,0,0,0
+947,Season 1,S01E03,Lord Snow,4,947,NED STARK,  It's all right. Go on.,King's Landing,The Crownlands,Stark,1,Male,0,0,0,0,0,0,0,0,0,0,0
+948,Season 1,S01E03,Lord Snow,4,948,SANSA STARK,"Sansa gets up from the table, leaving only Ned and Septa Mordane.",King's Landing,The Crownlands,Stark,1,Female,0,0,0,0,0,0,0,0,0,0,0
+949,Season 1,S01E03,Lord Snow,4,949,NED STARK,"Sansa gets up from the table, leaving only Ned and Septa Mordane.",King's Landing,The Crownlands,Stark,1,Male,0,0,0,0,0,0,0,0,0,0,0
+950,Season 1,S01E03,Lord Snow,4,950,NED STARK, War was easier than daughters.,King's Landing,The Crownlands,Stark,1,Male,0,1,0,0,0,0,0,0,0,1,0
+951,Season 1,S01E03,Lord Snow,5,951,ARYA STARK,Arya is unsheathing Needle privately in her room as Ned knocks on the door.,King's Landing,The Crownlands,Stark,1,Female,0,0,0,0,0,0,0,0,0,0,0
+952,Season 1,S01E03,Lord Snow,5,952,NED STARK,Arya is unsheathing Needle privately in her room as Ned knocks on the door.,King's Landing,The Crownlands,Stark,1,Male,0,0,0,0,0,0,0,0,0,0,0
+953,Season 1,S01E03,Lord Snow,5,953,ARYA STARK, Go away!,King's Landing,The Crownlands,Stark,1,Female,0,0,0,0,0,0,0,0,0,0,0
+954,Season 1,S01E03,Lord Snow,5,954,NED STARK," Arya, open the door. May I come in? Whose sword is that?",King's Landing,The Crownlands,Stark,1,Male,0,0,0,0,0,0,0,0,0,0,0
+955,Season 1,S01E03,Lord Snow,5,955,ARYA STARK,  Mine.,King's Landing,The Crownlands,Stark,1,Female,0,0,0,0,0,0,0,0,0,0,0
+956,Season 1,S01E03,Lord Snow,5,956,NED STARK,  Give it to me. I know this maker's mark. This is Mikken's work. Where did you get this? This is no toy. Little ladies shouldn't play with swords.,King's Landing,The Crownlands,Stark,1,Male,0,1,0,0,0,0,0,0,0,0,1
+957,Season 1,S01E03,Lord Snow,5,957,ARYA STARK, I wasn't playing. And I don't want to be a lady.,King's Landing,The Crownlands,Stark,1,Female,0,0,0,0,0,0,0,0,0,0,0
+958,Season 1,S01E03,Lord Snow,5,958,NED STARK,  Come here. Now what do you want with this?,King's Landing,The Crownlands,Stark,1,Male,0,0,0,0,0,0,0,0,0,0,0
+959,Season 1,S01E03,Lord Snow,5,959,ARYA STARK,  It's called Needle.,King's Landing,The Crownlands,Stark,1,Female,0,0,0,0,0,0,0,0,0,0,0
+960,Season 1,S01E03,Lord Snow,5,960,NED STARK,  A blade with a name. And who were you hoping to skewer with Needle? Your sister? Do you know the first thing about sword fighting?,King's Landing,The Crownlands,Stark,1,Male,0,1,0,0,0,0,0,0,0,1,0
+961,Season 1,S01E03,Lord Snow,5,961,ARYA STARK, Stick 'em with the pointy end.,King's Landing,The Crownlands,Stark,1,Female,0,0,0,0,0,0,0,0,0,0,0
+962,Season 1,S01E03,Lord Snow,5,962,NED STARK, [laughs] That's the essence of it.,King's Landing,The Crownlands,Stark,1,Male,0,0,0,0,0,0,0,0,0,0,0
+963,Season 1,S01E03,Lord Snow,5,963,ARYA STARK, I was trying to learn. I asked Mycah to practice with me. I asked him. It was my fault.,King's Landing,The Crownlands,Stark,1,Female,0,0,0,0,0,0,0,0,0,0,0
+964,Season 1,S01E03,Lord Snow,5,964,NED STARK,"  No, sweet girl. You didn't kill the butcher's boy.",King's Landing,The Crownlands,Stark,1,Male,0,1,0,0,0,0,0,0,0,0,1
+965,Season 1,S01E03,Lord Snow,5,965,ARYA STARK," I hate them! I hate all of them. The Hound, the Queen and the King and Joffrey and Sansa.",King's Landing,The Crownlands,Stark,1,Female,0,0,0,0,0,0,0,0,0,0,0
+966,Season 1,S01E03,Lord Snow,5,966,NED STARK,  Sansa was dragged before the King and Queen... And asked to call the Prince a liar.,King's Landing,The Crownlands,Stark,1,Male,0,0,0,0,0,0,0,0,0,0,0
+967,Season 1,S01E03,Lord Snow,5,967,ARYA STARK, So was I! He is a liar.,King's Landing,The Crownlands,Stark,1,Female,0,0,0,0,0,0,0,0,0,0,0
+968,Season 1,S01E03,Lord Snow,5,968,NED STARK," Darling, listen to me. Sansa will be married to Joffrey someday. She cannot betray him. She must take his side even when he's wrong.",King's Landing,The Crownlands,Stark,1,Male,0,0,0,0,0,0,0,0,0,0,0
+969,Season 1,S01E03,Lord Snow,5,969,ARYA STARK, But how you can let her marry someone like that?,King's Landing,The Crownlands,Stark,1,Female,0,0,0,0,0,0,0,0,0,0,0
+970,Season 1,S01E03,Lord Snow,5,970,NED STARK, WellLook at me. You're a Stark of Winterfell. You know our words.,King's Landing,The Crownlands,Stark,1,Male,0,0,0,0,0,0,0,0,0,1,0
+971,Season 1,S01E03,Lord Snow,5,971,ARYA STARK, Winter is coming.,King's Landing,The Crownlands,Stark,1,Female,0,0,0,0,0,0,0,0,0,0,0
+972,Season 1,S01E03,Lord Snow,5,972,NED STARK," You were born in the long summer. You've never known anything else. But now winter is truly coming. And in the winter, we must protect ourselves, look after one another. Sansa is your sister.",King's Landing,The Crownlands,Stark,1,Male,0,0,0,0,0,0,0,0,0,1,0
+973,Season 1,S01E03,Lord Snow,5,973,ARYA STARK, I don't hate her. Not really.,King's Landing,The Crownlands,Stark,1,Female,0,0,0,0,0,0,0,0,0,0,0
+974,Season 1,S01E03,Lord Snow,5,974,NED STARK," I don't want to frighten you, but I won't lie to you either. We've come to a dangerous place. We cannot fight a war amongst ourselves. All right? Go on. It's yours.",King's Landing,The Crownlands,Stark,1,Male,0,1,0,0,0,0,0,0,0,0,0
+975,Season 1,S01E03,Lord Snow,5,975,ARYA STARK, I can keep it?,King's Landing,The Crownlands,Stark,1,Female,0,0,0,0,0,0,0,0,0,0,0
+976,Season 1,S01E03,Lord Snow,5,976,NED STARK,"  Try not to stab your sister with it. If you're going to own a sword, you'd better know how to use it.",King's Landing,The Crownlands,Stark,1,Male,0,1,0,0,0,0,0,0,0,1,0
+980,Season 1,S01E03,Lord Snow,6,980,BRAN STARK,  I hate your stories.,King's Landing,The Crownlands,Stark,1,Male,0,0,0,0,0,0,0,0,0,0,0
+982,Season 1,S01E03,Lord Snow,6,982,BRAN STARK, Those weren't my favorites. My favorites were the scary ones.,King's Landing,The Crownlands,Stark,1,Male,0,0,0,0,0,0,0,0,0,0,0
+984,Season 1,S01E03,Lord Snow,6,984,ROBB STARK,"Robb walks into the room, interrupting Old Nan's story.",King's Landing,The Crownlands,Stark,1,Male,0,0,0,0,0,0,0,0,0,0,0
+985,Season 1,S01E03,Lord Snow,6,985,ROBB STARK,  What are you telling him now?,King's Landing,The Crownlands,Stark,1,Male,0,0,0,0,0,0,0,0,0,0,0
+987,Season 1,S01E03,Lord Snow,6,987,ROBB STARK,  Get your supper. I want some time with him. One time she told me the sky is blue because we live inside the eye of a blue-eyed giant named Macumber.,King's Landing,The Crownlands,Stark,1,Male,0,0,0,0,0,0,0,0,0,0,0
+988,Season 1,S01E03,Lord Snow,6,988,BRAN STARK,  Maybe we do.,King's Landing,The Crownlands,Stark,1,Male,0,0,0,0,0,0,0,0,0,0,0
+989,Season 1,S01E03,Lord Snow,6,989,ROBB STARK,"  How do you feel? You still don't remember anything? I've seen you climb a thousand times. In the wind, in the rain... A thousand times. You never fall.",King's Landing,The Crownlands,Stark,1,Male,0,1,0,0,0,0,0,0,0,0,0
+990,Season 1,S01E03,Lord Snow,6,990,BRAN STARK,"  I did though. It's true, isn't it... what Maester Luwin says about my legs? I'd rather be dead.",King's Landing,The Crownlands,Stark,1,Male,0,1,0,0,0,0,0,0,0,0,1
+991,Season 1,S01E03,Lord Snow,6,991,ROBB STARK, Don't ever say that.,King's Landing,The Crownlands,Stark,1,Male,0,0,0,0,0,0,0,0,0,0,0
+992,Season 1,S01E03,Lord Snow,6,992,BRAN STARK, I'd rather be dead.,King's Landing,The Crownlands,Stark,1,Male,0,1,0,0,0,0,0,0,0,0,1
+994,Season 1,S01E03,Lord Snow,7,994,CATELYN STARK,"Catelyn and Rodrick arrive at King's Landing, entering through a back entrance.",King's Landing,The Crownlands,Stark,1,Female,0,0,0,0,0,0,0,0,0,0,0
+996,Season 1,S01E03,Lord Snow,7,996,CATELYN STARK,  It's nine years since I've set foot in the capital. And no one knew who I was the last time I came either.,King's Landing,The Crownlands,Stark,1,Female,0,0,0,0,0,0,0,0,0,0,0
+1000,Season 1,S01E03,Lord Snow,7,1000,CATELYN STARK,  I would. We've done nothing wrong.,King's Landing,The Crownlands,Stark,1,Female,0,0,0,0,0,0,0,0,0,0,0
+1002,Season 1,S01E03,Lord Snow,7,1002,CATELYN STARK," Instructed? I don't know who's providing your instructions, but...",King's Landing,The Crownlands,Stark,1,Female,0,0,0,0,0,0,0,0,0,0,0
+1005,Season 1,S01E03,Lord Snow,7,1005,PETYR BAELISH,  Cat! Go on. Go upstairs. (to his whores),King's Landing,The Crownlands,Other,1,Male,1,0,0,0,0,0,0,0,0,0,0
+1006,Season 1,S01E03,Lord Snow,7,1006,CATELYN STARK,  You little worm! You take me for some back-alley Sally you can drag into a,King's Landing,The Crownlands,Stark,1,Female,0,0,0,0,0,0,0,0,0,0,0
+1007,Season 1,S01E03,Lord Snow,7,1007,PETYR BAELISH,"Two naked whores interrupt, Baelish snaps at them to leave.",King's Landing,The Crownlands,Other,1,Male,1,0,0,0,0,0,0,0,0,0,0
+1008,Season 1,S01E03,Lord Snow,7,1008,PETYR BAELISH, I meant no disrespect to you of all people.,King's Landing,The Crownlands,Other,1,Male,0,0,0,0,0,0,0,0,0,0,0
+1009,Season 1,S01E03,Lord Snow,7,1009,CATELYN STARK,  How dare you bring me here! Have you lost your mind?,King's Landing,The Crownlands,Stark,1,Female,0,0,0,0,0,0,0,0,0,0,0
+1010,Season 1,S01E03,Lord Snow,7,1010,PETYR BAELISH,  No one will come looking for you here. Isn't that what like you wanted? I'm truly sorry... about the locale.,King's Landing,The Crownlands,Other,1,Male,0,0,0,0,0,0,0,0,0,0,0
+1011,Season 1,S01E03,Lord Snow,7,1011,CATELYN STARK,  How did you know I was coming to King's Landing?,King's Landing,The Crownlands,Stark,1,Female,0,0,0,0,0,0,0,0,0,0,0
+1012,Season 1,S01E03,Lord Snow,7,1012,PETYR BAELISH, A dear friend told me.,King's Landing,The Crownlands,Other,1,Male,0,0,0,0,0,0,0,0,0,0,0
+1013,Season 1,S01E03,Lord Snow,7,1013,VARYS,  Lady Stark.,King's Landing,The Crownlands,Other,1,Male,0,0,0,0,0,0,0,0,0,0,0
+1014,Season 1,S01E03,Lord Snow,7,1014,CATELYN STARK,  Lord Varys.,King's Landing,The Crownlands,Stark,1,Female,0,0,0,0,0,0,0,0,0,0,0
+1015,Season 1,S01E03,Lord Snow,7,1015,VARYS,  To see you again after so many years is a blessing. Your poor hands.,King's Landing,The Crownlands,Other,1,Male,0,0,1,0,0,0,0,0,0,0,0
+1016,Season 1,S01E03,Lord Snow,7,1016,CATELYN STARK, How did you know I was coming?,King's Landing,The Crownlands,Stark,1,Female,0,0,0,0,0,0,0,0,0,0,0
+1017,Season 1,S01E03,Lord Snow,7,1017,VARYS,"  Knowledge is my trade, my Lady. Did you bring the dagger with you, by any chance? My little birds are everywhere. Even in the north. They whisper to me the strangest stories. Valyrian steel.",King's Landing,The Crownlands,Other,1,Male,0,0,0,0,0,0,0,0,0,0,0
+1018,Season 1,S01E03,Lord Snow,7,1018,CATELYN STARK,  Do you know whose dagger this is?,King's Landing,The Crownlands,Stark,1,Female,0,0,0,0,0,0,0,0,0,0,0
+1019,Season 1,S01E03,Lord Snow,7,1019,VARYS,  I must admit I do not.,King's Landing,The Crownlands,Other,1,Male,0,0,0,0,0,0,0,0,0,0,0
+1020,Season 1,S01E03,Lord Snow,7,1020,PETYR BAELISH,"  Well well, this is an historic day. Something you don't know that I do. There's only one dagger like this in all of the Seven Kingdoms. It's mine.",King's Landing,The Crownlands,Other,1,Male,0,0,0,0,0,0,0,0,0,0,0
+1021,Season 1,S01E03,Lord Snow,7,1021,CATELYN STARK,  Yours?,King's Landing,The Crownlands,Stark,1,Female,0,0,0,0,0,0,0,0,0,0,0
+1022,Season 1,S01E03,Lord Snow,7,1022,PETYR BAELISH," At least it was, until the tournament on Prince Joffrey's last nameday. I bet on Ser Jaime in the jousting, as any sane man would. When the Knight of the Flowers unseated him, I lost this dagger.",King's Landing,The Crownlands,Other,1,Male,0,0,0,0,1,0,0,0,0,0,0
+1023,Season 1,S01E03,Lord Snow,7,1023,CATELYN STARK, To whom?,King's Landing,The Crownlands,Stark,1,Female,0,0,0,0,0,0,0,0,0,0,0
+1024,Season 1,S01E03,Lord Snow,7,1024,PETYR BAELISH,  Tyrion Lannister. The Imp.,King's Landing,The Crownlands,Other,1,Male,0,0,0,0,0,0,0,0,0,0,0
+1026,Season 1,S01E03,Lord Snow,8,1026,JON SNOW,"At Castle Black, in a courtyard. Grenn and Jon are swordfighting, Jon getting the best of him and breaking his nose.",The Wall,The North,Stark,1,Male,0,1,0,0,0,0,0,0,0,0,0
+1028,Season 1,S01E03,Lord Snow,8,1028,JON SNOW,Pyp steps forward and with one move Jon has him on his back.,The Wall,The North,Stark,1,Male,0,0,0,0,0,0,0,0,0,0,0
+1030,Season 1,S01E03,Lord Snow,8,1030,JON SNOW,"Jon quickly dispatches of another newcomer, we see Lord Commander Jeor and Tyrion looking on from a balcony.",The Wall,The North,Stark,1,Male,0,0,0,0,0,0,0,0,0,0,0
+1031,Season 1,S01E03,Lord Snow,8,1031,TYRION LANNISTER,"Jon quickly dispatches of another newcomer, we see Lord Commander Jeor and Tyrion looking on from a balcony.",The Wall,The North,Lannister,1,Male,0,0,0,0,0,0,0,0,0,0,0
+1033,Season 1,S01E03,Lord Snow,8,1033,JON SNOW,"Another man starts againt Jon Snow, as another joins, Jon defeats the two of them almost instantly.",The Wall,The North,Stark,1,Male,0,0,0,0,0,0,0,0,0,0,0
+1035,Season 1,S01E03,Lord Snow,8,1035,TYRION LANNISTER,"Tyrion and Lord Commander talking, overlooking the courtyard.",The Wall,The North,Lannister,1,Male,0,0,0,0,0,0,0,0,0,0,0
+1036,Season 1,S01E03,Lord Snow,8,1036,TYRION LANNISTER, A charming man.,The Wall,The North,Lannister,1,Male,0,0,0,0,0,0,0,0,0,0,0
+1038,Season 1,S01E03,Lord Snow,8,1038,TYRION LANNISTER," And how's that going, Commander Mormont?",The Wall,The North,Lannister,1,Male,0,0,0,0,0,0,0,0,0,0,0
+1040,Season 1,S01E03,Lord Snow,8,1040,TYRION LANNISTER, Good news or bad?,The Wall,The North,Lannister,1,Male,0,0,0,0,0,0,0,0,0,0,0
+1045,Season 1,S01E03,Lord Snow,9,1045,PETYR BAELISH,  Good news? Perhaps you'd like to share it with your wife?, King's Landing,The Crownlands,Other,1,Male,0,0,0,0,0,0,0,0,0,1,0
+1046,Season 1,S01E03,Lord Snow,9,1046,NED STARK,  My wife is in Winterfell., King's Landing,The Crownlands,Stark,1,Male,0,0,0,0,0,0,0,0,0,1,0
+1047,Season 1,S01E03,Lord Snow,9,1047,PETYR BAELISH,  Is she?, King's Landing,The Crownlands,Other,1,Male,0,0,0,0,0,0,0,0,0,0,0
+1048,Season 1,S01E03,Lord Snow,9,1048,PETYR BAELISH,Baelish leads Ned to the entrance of his brothel. Ned is not so keen on the idea and begins choking Baelish., King's Landing,The Crownlands,Other,1,Male,1,0,0,0,0,0,0,0,0,0,0
+1049,Season 1,S01E03,Lord Snow,9,1049,NED STARK,Baelish leads Ned to the entrance of his brothel. Ned is not so keen on the idea and begins choking Baelish., King's Landing,The Crownlands,Stark,1,Male,1,0,0,0,0,0,0,0,0,0,0
+1050,Season 1,S01E03,Lord Snow,9,1050,PETYR BAELISH,  I thought that she'd be safest in here. One of several such establishments I own., King's Landing,The Crownlands,Other,1,Male,0,0,0,0,0,0,0,0,0,0,0
+1051,Season 1,S01E03,Lord Snow,9,1051,NED STARK, You're a funny man. A very funny man., King's Landing,The Crownlands,Stark,1,Male,0,0,0,0,0,0,0,0,0,0,0
+1052,Season 1,S01E03,Lord Snow,9,1052,CATELYN STARK,  Ned! [poking her head out of a window], King's Landing,The Crownlands,Stark,1,Female,0,0,0,0,0,0,0,0,0,0,0
+1053,Season 1,S01E03,Lord Snow,9,1053,PETYR BAELISH," The Starks... Quick tempers, slow minds.", King's Landing,The Crownlands,Other,1,Male,0,0,0,0,0,0,0,0,0,1,0
+1055,Season 1,S01E03,Lord Snow,10,1055,JON SNOW,"Jon is in the armory of Castle Black, putting away equipment when a gang of the guys jump him.",The Wall,The North,Stark,1,Male,0,0,0,0,0,0,0,0,0,0,0
+1057,Season 1,S01E03,Lord Snow,10,1057,JON SNOW,  It's an improvement.,The Wall,The North,Stark,1,Male,0,0,0,0,0,0,0,0,0,0,0
+1061,Season 1,S01E03,Lord Snow,10,1061,TYRION LANNISTER,  I'm looking at you. You've got an interesting face. Very distinctive faces. All of you.,The Wall,The North,Lannister,1,Male,0,0,0,0,0,0,0,0,0,0,0
+1063,Season 1,S01E03,Lord Snow,10,1063,TYRION LANNISTER," It's just I think they would look marvelous decorating spikes in King's Landing. Perhaps I'll write my sister, the Queen, about it.",The Wall,The North,Lannister,1,Male,0,0,0,0,0,0,0,0,0,1,0
+1065,Season 1,S01E03,Lord Snow,10,1065,JON SNOW, Everybody knew what this place was and no one told me. No one but you. My father knew and left me to rot here at the Wall all the same.,The Wall,The North,Stark,1,Male,0,0,0,0,0,0,0,0,0,1,0
+1066,Season 1,S01E03,Lord Snow,10,1066,TYRION LANNISTER,  Grenn's father left him too... Outside a farmhouse when he was three. Pyp was caught stealing a wheel of cheese. His little sister hadn't eaten in three days. He was given a choice: his right hand or the Wall. I've been asking the Lord Commander about them. Fascinating stories.,The Wall,The North,Lannister,1,Male,0,0,0,0,0,0,0,0,0,1,0
+1067,Season 1,S01E03,Lord Snow,10,1067,JON SNOW, They hate me because I'm better than they are.,The Wall,The North,Stark,1,Male,0,0,0,0,0,0,0,0,0,0,0
+1068,Season 1,S01E03,Lord Snow,10,1068,TYRION LANNISTER, It's a lucky thing none of them were trained by a master-at-arms like your Ser Rodrik. I don't imagine any of them have ever held a real sword before they came here. Your brother Bran. He's woken up.,The Wall,The North,Lannister,1,Male,0,0,0,0,0,0,0,0,0,1,0
+1071,Season 1,S01E03,Lord Snow,11,1071,PETYR BAELISH, The mere suggestion that the Queen's brother tried to kill your boy would be considered treason.,King's Landing,The Crownlands,Other,1,Male,0,1,0,0,0,0,0,0,0,1,1
+1072,Season 1,S01E03,Lord Snow,11,1072,CATELYN STARK, We have proof. We have the blade.,King's Landing,The Crownlands,Stark,1,Female,0,0,0,0,0,0,0,0,0,0,0
+1073,Season 1,S01E03,Lord Snow,11,1073,PETYR BAELISH,"  Which Lord Tyrion will say was stolen from him. The only man who could say otherwise has no throat, thanks to your boy's wolf.",King's Landing,The Crownlands,Other,1,Male,0,0,0,0,0,0,0,0,0,0,0
+1074,Season 1,S01E03,Lord Snow,11,1074,CATELYN STARK,  Petyr has promised to help us find the truth. He's like a little brother to me. He would never betray my trust.,King's Landing,The Crownlands,Stark,1,Female,0,0,0,0,0,0,0,0,1,1,0
+1075,Season 1,S01E03,Lord Snow,11,1075,PETYR BAELISH,"  I'll try to keep you alive, for her sake. A fool's task, admittedly, but I've never been able to refuse your wife anything.",King's Landing,The Crownlands,Other,1,Male,0,0,0,0,0,0,0,0,0,1,0
+1076,Season 1,S01E03,Lord Snow,11,1076,CATELYN STARK, I won't forget this. You're a true friend.,King's Landing,The Crownlands,Stark,1,Female,0,0,0,0,0,0,0,0,0,0,0
+1077,Season 1,S01E03,Lord Snow,11,1077,PETYR BAELISH,  Don't tell anyone. I have a reputation to maintain.,King's Landing,The Crownlands,Other,1,Male,0,0,0,0,0,0,0,0,0,0,0
+1080,Season 1,S01E03,Lord Snow,12,1080,CERSEI LANNISTER, How could you be so stupid?,King's Landing,The Crownlands,Lannister,1,Female,0,0,0,0,0,0,0,0,0,0,0
+1081,Season 1,S01E03,Lord Snow,12,1081,JAIME LANNISTER, Calm down.,King's Landing,The Crownlands,Lannister,1,Male,0,0,0,0,0,0,0,0,0,0,0
+1082,Season 1,S01E03,Lord Snow,12,1082,CERSEI LANNISTER, He's a child... 10 years old. What were you thinking?,King's Landing,The Crownlands,Lannister,1,Female,0,0,0,0,0,0,0,0,0,0,0
+1083,Season 1,S01E03,Lord Snow,12,1083,JAIME LANNISTER, I was thinking of us. You're a bit late to start complaining about it now. What has the boy told them?,King's Landing,The Crownlands,Lannister,1,Male,0,0,0,0,0,0,0,0,0,0,0
+1084,Season 1,S01E03,Lord Snow,12,1084,CERSEI LANNISTER, Nothing. He's said nothing. He remembers nothing.,King's Landing,The Crownlands,Lannister,1,Female,0,0,0,0,0,0,0,0,0,0,0
+1085,Season 1,S01E03,Lord Snow,12,1085,JAIME LANNISTER, Then what are you raving about?,King's Landing,The Crownlands,Lannister,1,Male,0,0,0,0,0,0,0,0,0,0,0
+1086,Season 1,S01E03,Lord Snow,12,1086,CERSEI LANNISTER, What if it comes back to him? If he tells his father what he saw...,King's Landing,The Crownlands,Lannister,1,Female,0,0,0,0,0,0,0,0,0,1,0
+1087,Season 1,S01E03,Lord Snow,12,1087,JAIME LANNISTER, We'll say he was lying. We'll say he was dreaming. We'll say whatever we like. I think we can outfox a 10-year-old.,King's Landing,The Crownlands,Lannister,1,Male,0,0,0,0,0,0,0,0,0,0,0
+1088,Season 1,S01E03,Lord Snow,12,1088,CERSEI LANNISTER, And my husband?,King's Landing,The Crownlands,Lannister,1,Female,0,0,0,0,0,0,0,0,0,1,0
+1089,Season 1,S01E03,Lord Snow,12,1089,JAIME LANNISTER," I'll go to war with him if I have to. They can write a ballad about us : ""The War for Cersei's Cunt.""",King's Landing,The Crownlands,Lannister,1,Male,0,1,0,0,0,0,0,0,0,0,0
+1090,Season 1,S01E03,Lord Snow,12,1090,CERSEI LANNISTER,"Cersei hits Jaime, he spins her around and hugs her from behind, whispering into her ear.",King's Landing,The Crownlands,Lannister,1,Female,0,1,0,0,0,1,0,0,0,0,0
+1091,Season 1,S01E03,Lord Snow,12,1091,JAIME LANNISTER,"Cersei hits Jaime, he spins her around and hugs her from behind, whispering into her ear.",King's Landing,The Crownlands,Lannister,1,Male,0,1,0,0,0,1,0,0,0,0,0
+1092,Season 1,S01E03,Lord Snow,12,1092,CERSEI LANNISTER, Let me go.,King's Landing,The Crownlands,Lannister,1,Female,0,0,0,0,0,0,0,0,0,0,0
+1093,Season 1,S01E03,Lord Snow,12,1093,JAIME LANNISTER, Never.,King's Landing,The Crownlands,Lannister,1,Male,0,0,0,0,0,0,0,0,0,0,0
+1094,Season 1,S01E03,Lord Snow,12,1094,CERSEI LANNISTER, Let me go.,King's Landing,The Crownlands,Lannister,1,Female,0,0,0,0,0,0,0,0,0,0,0
+1095,Season 1,S01E03,Lord Snow,12,1095,JAIME LANNISTER," The boy won't talk. And if he does, I'll kill him. Him, Ned Stark, the King... the whole bloody lot of them, until you and I are the only people left in this world.",King's Landing,The Crownlands,Lannister,1,Male,0,1,0,0,0,0,0,0,0,0,1
+1097,Season 1,S01E03,Lord Snow,13,1097,CATELYN STARK,In a back alley before Catelyn leaves King's Landing.,King's Landing,The Crownlands,Stark,1,Female,0,0,0,0,0,0,0,0,0,0,0
+1098,Season 1,S01E03,Lord Snow,13,1098,CATELYN STARK,  I wish I could see the girls.,King's Landing,The Crownlands,Stark,1,Female,0,0,0,0,0,0,0,0,0,0,0
+1099,Season 1,S01E03,Lord Snow,13,1099,NED STARK,  It's too dangerous.,King's Landing,The Crownlands,Stark,1,Male,0,0,0,0,0,0,0,0,0,0,0
+1100,Season 1,S01E03,Lord Snow,13,1100,CATELYN STARK, Just for a moment.,King's Landing,The Crownlands,Stark,1,Female,0,0,0,0,0,0,0,0,0,0,0
+1101,Season 1,S01E03,Lord Snow,13,1101,NED STARK,  Until we know who our enemies are...,King's Landing,The Crownlands,Stark,1,Male,0,0,0,0,0,0,0,0,0,0,0
+1102,Season 1,S01E03,Lord Snow,13,1102,CATELYN STARK," I know they did it, Ned. The Lannisters. In my bones, I know it.",King's Landing,The Crownlands,Stark,1,Female,0,0,0,0,0,0,0,0,0,1,0
+1103,Season 1,S01E03,Lord Snow,13,1103,NED STARK,  Littlefinger's right. I can't do anything without proof.,King's Landing,The Crownlands,Stark,1,Male,0,0,0,0,0,0,0,0,0,0,0
+1104,Season 1,S01E03,Lord Snow,13,1104,CERSEI LANNISTER, And if you find the proof?,King's Landing,The Crownlands,Lannister,1,Female,0,0,0,0,0,0,0,0,0,0,0
+1105,Season 1,S01E03,Lord Snow,13,1105,NED STARK," Then I bring it to Robert... And hope he's still the man I once knew. You watch yourself on the road, huh? That temper of yours is a dangerous thing.",King's Landing,The Crownlands,Stark,1,Male,0,0,0,0,0,0,0,0,0,0,0
+1106,Season 1,S01E03,Lord Snow,13,1106,CATELYN STARK," My temper? Gods be good, you nearly killed poor Littlefinger yesterday.",King's Landing,The Crownlands,Stark,1,Female,0,1,1,0,0,0,0,0,0,0,1
+1107,Season 1,S01E03,Lord Snow,13,1107,NED STARK, He still loves you.,King's Landing,The Crownlands,Stark,1,Male,0,0,0,0,0,0,0,0,0,0,0
+1108,Season 1,S01E03,Lord Snow,13,1108,CATELYN STARK, Does he?,King's Landing,The Crownlands,Stark,1,Female,0,0,0,0,0,0,0,0,0,0,0
+1109,Season 1,S01E03,Lord Snow,13,1109,NED STARK, Off with you.,King's Landing,The Crownlands,Stark,1,Male,0,0,0,0,0,0,0,0,0,0,0
+1112,Season 1,S01E03,Lord Snow,14,1112,ROBERT BARATHEON,  It's been a long time. But I still remember every face. You remember your first?,King's Landing,The Crownlands,Baratheon,1,Male,0,0,0,0,0,0,0,0,0,0,0
+1114,Season 1,S01E03,Lord Snow,14,1114,ROBERT BARATHEON,  Who was it?,King's Landing,The Crownlands,Baratheon,1,Male,0,0,0,0,0,0,0,0,0,0,0
+1116,Season 1,S01E03,Lord Snow,14,1116,ROBERT BARATHEON, How'd you do it?,King's Landing,The Crownlands,Baratheon,1,Male,0,0,0,0,0,0,0,0,0,0,0
+1118,Season 1,S01E03,Lord Snow,14,1118,ROBERT BARATHEON," Quick one. Lucky for you. Mine was some Tarly boy at the Battle of Summerhall. My horse took an arrow so I was on foot, slogging through the mud. He came running at me, this dumb high-born lad, thinking he could end the rebellion with the single swing of his sword. I knocked him down with the hammer. Gods, I was strong then. Caved in his breastplate. Probably shattered every rib he had. Stood over him, hammer in the air. Right before I brought it down he shouted, ""Wait! Wait!""... They never tell you how they all shit themselves. They don't put that part in the songs. Stupid boy. Now the Tarlys bend the knee like everyone else. He could have lingered on the edge of the battle with the smart boys and today his wife would be making him miserable, his sons would be ingrates, and he'd be waking three times in the night to piss into a bowl. Wine! Lancel. Gods, what a stupid name. Lancel Lannister. Who named you? Some halfwit with a stutter? What are you doing?",King's Landing,The Crownlands,Baratheon,1,Male,0,1,1,0,0,0,0,1,1,1,0
+1120,Season 1,S01E03,Lord Snow,14,1120,ROBERT BARATHEON, What do you mean it's empty?,King's Landing,The Crownlands,Baratheon,1,Male,0,0,0,0,0,0,0,0,0,0,0
+1122,Season 1,S01E03,Lord Snow,14,1122,ROBERT BARATHEON,"  Is that what empty means?! So get more. Tell your cousin to get in here. Kingslayer! Get in here. Surrounded by Lannisters. Every time I close my eyes I see their blond hair and their smug, satisfied faces. It must wound your pride, huh? Standing out there like a glorified sentry. Jaime Lannister, son of the mighty Tywin... Forced to mind the door while your King eats and drinks and shits and fucks. So come on. We're telling war stories. Who was your first kill, not counting old men?",King's Landing,The Crownlands,Baratheon,1,Male,0,1,0,0,0,0,0,1,0,1,1
+1123,Season 1,S01E03,Lord Snow,14,1123,JAIME LANNISTER, One of the outlaws in the Brotherhood.,King's Landing,The Crownlands,Lannister,1,Male,0,0,0,0,0,0,0,0,0,1,0
+1125,Season 1,S01E03,Lord Snow,14,1125,JAIME LANNISTER, You killed Simon Toyne with a counter riposte. Best move I ever saw.,King's Landing,The Crownlands,Lannister,1,Male,0,1,0,0,0,0,0,0,0,0,1
+1127,Season 1,S01E03,Lord Snow,14,1127,ROBERT BARATHEON, Your outlaw... Any last words?,King's Landing,The Crownlands,Baratheon,1,Male,0,0,0,0,0,0,0,0,0,0,0
+1128,Season 1,S01E03,Lord Snow,14,1128,JAIME LANNISTER," I cut his head off, so no.",King's Landing,The Crownlands,Lannister,1,Male,0,0,0,0,0,0,0,0,0,0,0
+1129,Season 1,S01E03,Lord Snow,14,1129,ROBERT BARATHEON, What about Aerys Targaryen? What did the Mad King say when you stabbed him in the back? I never asked. Did he call you a traitor? Did he plead for a reprieve?,King's Landing,The Crownlands,Baratheon,1,Male,0,1,0,0,0,0,0,0,0,0,0
+1130,Season 1,S01E03,Lord Snow,14,1130,JAIME LANNISTER," He said the same thing he'd been saying for hours... ""Burn them all."" If that's all, your Grace...",King's Landing,The Crownlands,Lannister,1,Male,0,1,0,0,0,0,0,0,0,0,0
+1133,Season 1,S01E03,Lord Snow,15,1133,DAENERYS TARGARYEN, : Do the Dothrakis buy their slaves?,Dothraki Sea,Essos,Other,1,Female,0,0,0,0,0,0,0,0,0,0,0
+1134,Season 1,S01E03,Lord Snow,15,1134,JORAH MORMONT,  The Dothraki don't believe in money. Most of their slaves were given to them as gifts.,Dothraki Sea,Essos,Other,1,Male,0,0,0,0,1,0,0,0,0,0,0
+1135,Season 1,S01E03,Lord Snow,15,1135,DAENERYS TARGARYEN, From whom?,Dothraki Sea,Essos,Other,1,Female,0,0,0,0,0,0,0,0,0,0,0
+1136,Season 1,S01E03,Lord Snow,15,1136,JORAH MORMONT,"  If you rule a city and you see the horde approaching, you have two choices : pay tribute or fight. An easy choice for most. Of course, sometimes it's not enough. Sometimes a Khal feels insulted by the number of slaves he's given. He might think the men too weak or the women too ugly. Sometimes a Khal decides his riders haven't had a good fight in months and need the practice.",Dothraki Sea,Essos,Other,1,Male,0,1,0,0,1,0,0,0,0,0,0
+1137,Season 1,S01E03,Lord Snow,15,1137,DAENERYS TARGARYEN,Daenerys sees one of the Dothraki men strike a slave with a whip for not moving fast enough.,Dothraki Sea,Essos,Other,1,Female,0,1,0,0,0,0,0,0,0,0,0
+1138,Season 1,S01E03,Lord Snow,15,1138,DAENERYS TARGARYEN, Tell them all to stop.,Dothraki Sea,Essos,Other,1,Female,0,0,0,0,0,0,0,0,0,0,0
+1139,Season 1,S01E03,Lord Snow,15,1139,JORAH MORMONT, You want the entire horde to stop? For how long?,Dothraki Sea,Essos,Other,1,Male,0,0,0,0,0,0,0,0,0,0,0
+1140,Season 1,S01E03,Lord Snow,15,1140,DAENERYS TARGARYEN,  Until I command them otherwise.,Dothraki Sea,Essos,Other,1,Female,0,0,0,0,0,0,0,0,0,0,0
+1141,Season 1,S01E03,Lord Snow,15,1141,JORAH MORMONT,  You're learning to talk like a Queen.,Dothraki Sea,Essos,Other,1,Male,0,0,0,0,0,0,0,0,0,0,0
+1142,Season 1,S01E03,Lord Snow,15,1142,DAENERYS TARGARYEN, Not a Queen. A Khaleesi.,Dothraki Sea,Essos,Other,1,Female,0,0,0,0,0,0,0,0,0,0,0
+1143,Season 1,S01E03,Lord Snow,15,1143,DAENERYS TARGARYEN,Daenerys dismounts her horse and walks through the field off of the path. She hears noises coming towards her and grass snapping. Her brother Viserys storms into the clearing on horseback wielding a sword.,Dothraki Sea,Essos,Other,1,Female,0,0,0,0,0,0,0,0,0,1,0
+1148,Season 1,S01E03,Lord Snow,15,1148,DAENERYS TARGARYEN,  No!,Dothraki Sea,Essos,Other,1,Female,0,0,0,0,0,0,0,0,0,0,0
+1150,Season 1,S01E03,Lord Snow,15,1150,DAENERYS TARGARYEN,"  Please please, don't hurt him. Tell him I don't want my brother harmed.",Dothraki Sea,Essos,Other,1,Female,0,0,0,0,0,0,0,0,0,1,0
+1152,Season 1,S01E03,Lord Snow,15,1152,JORAH MORMONT,"  Shall we return to the Khalasar, Khaleesi?",Dothraki Sea,Essos,Other,1,Male,0,0,0,0,0,0,0,0,0,0,0
+1155,Season 1,S01E03,Lord Snow,16,1155,JON SNOW,Jon and Benjen looking out over the wall. Benjen saying goodbye.,The Wall,The North,Stark,1,Male,0,0,0,0,0,0,0,0,0,0,0
+1157,Season 1,S01E03,Lord Snow,16,1157,JON SNOW, You're leaving?,The Wall,The North,Stark,1,Male,0,0,0,0,0,0,0,0,0,0,0
+1159,Season 1,S01E03,Lord Snow,16,1159,JON SNOW,  What kind of reports?,The Wall,The North,Stark,1,Male,0,0,0,0,0,0,0,0,0,0,0
+1161,Season 1,S01E03,Lord Snow,16,1161,JON SNOW, 'm ready. I won't let you down.,The Wall,The North,Stark,1,Male,0,0,0,0,0,0,0,0,0,0,0
+1163,Season 1,S01E03,Lord Snow,16,1163,JON SNOW, But I'm better than every...,The Wall,The North,Stark,1,Male,0,0,0,0,0,0,0,0,0,0,0
+1166,Season 1,S01E03,Lord Snow,17,1166,TYRION LANNISTER,Yoren and Tyrion getting drunk on wine in a the mess hall of Castle Black.,The Wall,The North,Lannister,1,Male,0,0,0,0,0,0,0,1,0,0,0
+1168,Season 1,S01E03,Lord Snow,17,1168,TYRION LANNISTER, You're joking?,The Wall,The North,Lannister,1,Male,0,0,0,0,0,0,0,0,0,0,0
+1170,Season 1,S01E03,Lord Snow,17,1170,TYRION LANNISTER, And how do a bear's balls taste?,The Wall,The North,Lannister,1,Male,0,0,0,0,0,0,0,0,0,0,0
+1172,Season 1,S01E03,Lord Snow,17,1172,TYRION LANNISTER,"  Do Dornish girls count? So you roam the Seven Kingdoms, collaring pickpockets and horse thieves and bringing them here as eager recruits?",The Wall,The North,Lannister,1,Male,0,0,0,0,0,0,0,0,0,0,0
+1174,Season 1,S01E03,Lord Snow,17,1174,TYRION LANNISTER, They have a better chance finding feed than glory.,The Wall,The North,Lannister,1,Male,0,0,0,0,0,0,0,0,1,0,0
+1177,Season 1,S01E03,Lord Snow,17,1177,TYRION LANNISTER,"  You don't have enough men to be an army and aside from Yoren here, none of you are particularly funny.",The Wall,The North,Lannister,1,Male,0,0,0,0,0,0,0,0,0,0,0
+1179,Season 1,S01E03,Lord Snow,17,1179,TYRION LANNISTER," Do you think I'm plump? Listen, Benjen... May I call you Benjen?",The Wall,The North,Lannister,1,Male,0,0,0,0,0,0,0,0,0,0,0
+1181,Season 1,S01E03,Lord Snow,17,1181,TYRION LANNISTER,  I'm not sure what I've done to offend you. I have great admiration for the Night's Watch. I've great admiration for you as First Ranger.,The Wall,The North,Lannister,1,Male,0,0,0,0,0,0,0,0,0,0,0
+1183,Season 1,S01E03,Lord Snow,17,1183,TYRION LANNISTER," But... I don't believe that giants and ghouls and White Walkers are lurking beyond the Wall. I believe that the only difference between us and the wildlings is that when the Wall went up, our ancestors happened to live on the right side of it.",The Wall,The North,Lannister,1,Male,0,0,0,1,0,0,0,0,0,1,0
+1188,Season 1,S01E03,Lord Snow,17,1188,TYRION LANNISTER," I think he's starting to like me. ""Going below""?",The Wall,The North,Lannister,1,Male,0,0,0,0,0,0,0,0,0,0,0
+1190,Season 1,S01E03,Lord Snow,17,1190,TYRION LANNISTER, So you're heading down to King's Landing too.,The Wall,The North,Lannister,1,Male,0,0,0,0,0,0,0,0,0,0,0
+1192,Season 1,S01E03,Lord Snow,17,1192,TYRION LANNISTER, Let's share the road. I could use some decent company.,The Wall,The North,Lannister,1,Male,0,0,0,0,0,0,0,0,0,0,0
+1194,Season 1,S01E03,Lord Snow,17,1194,TYRION LANNISTER,  Not this time. We'll be staying at the finest castles and inns. No one turns away a Lannister.,The Wall,The North,Lannister,1,Male,0,0,0,0,0,0,0,0,0,1,0
+1196,Season 1,S01E03,Lord Snow,18,1196,DAENERYS TARGARYEN,Irri is braiding Daenerys hair and teaching her Dothraki. She feels Daenerys' breast.,Dothraki Sea,Essos,Other,1,Female,0,0,0,0,0,0,0,0,0,0,0
+1198,Season 1,S01E03,Lord Snow,18,1198,DAENERYS TARGARYEN,  What are you doing?,Dothraki Sea,Essos,Other,1,Female,0,0,0,0,0,0,0,0,0,0,0
+1200,Season 1,S01E03,Lord Snow,18,1200,JORAH MORMONT,Jorah and Rakharo around a fire in a tent.,Dothraki Sea,Essos,Other,1,Male,0,0,0,0,0,0,0,0,0,0,0
+1201,Season 1,S01E03,Lord Snow,18,1201,JORAH MORMONT,"  For a man on horseback, the curved blade is a good thing, easier to handle. It's a good weapon for a Dothrakan. But a man in full plate... the arakh won't get through the steel. That's where the broadsword has the advantage. Designed for piercing plate.",Dothraki Sea,Essos,Other,1,Male,0,0,0,0,0,0,0,0,0,0,0
+1203,Season 1,S01E03,Lord Snow,18,1203,JORAH MORMONT, Armor.,Dothraki Sea,Essos,Other,1,Male,0,0,0,0,0,0,0,0,0,0,0
+1205,Season 1,S01E03,Lord Snow,18,1205,JORAH MORMONT,  Slow.,Dothraki Sea,Essos,Other,1,Male,0,0,0,0,0,0,0,0,0,0,0
+1207,Season 1,S01E03,Lord Snow,18,1207,JORAH MORMONT," It's true, but it also keeps a man alive.",Dothraki Sea,Essos,Other,1,Male,0,0,0,0,0,0,0,0,0,0,0
+1209,Season 1,S01E03,Lord Snow,18,1209,JORAH MORMONT,  I've heard that your father was a famous warrior.,Dothraki Sea,Essos,Other,1,Male,0,0,0,0,0,0,0,0,0,1,0
+1211,Season 1,S01E03,Lord Snow,18,1211,JORAH MORMONT, He still is. A man of great honor. And I betrayed him.,Dothraki Sea,Essos,Other,1,Male,0,0,0,0,0,0,0,0,1,0,0
+1217,Season 1,S01E03,Lord Snow,18,1217,JORAH MORMONT, I don't think she wants to eat dog.,Dothraki Sea,Essos,Other,1,Male,0,0,0,0,0,0,0,0,0,0,0
+1221,Season 1,S01E03,Lord Snow,18,1221,JORAH MORMONT, I'll have the boys butcher a goat for supper. I need to ride to Qohor.,Dothraki Sea,Essos,Other,1,Male,0,0,0,0,0,0,0,0,0,0,0
+1223,Season 1,S01E03,Lord Snow,18,1223,JORAH MORMONT, Don't worry. I'll catch you. The horde's easy to find.,Dothraki Sea,Essos,Other,1,Male,0,0,0,0,0,0,0,0,0,0,0
+1225,Season 1,S01E03,Lord Snow,19,1225,JON SNOW,"Back again in the courtyard of Castle Black. Jon is battling his brothers in black as Tyrion overlooks from the balcony. Jon continuing to defeat them, he begins teaching them.",The Wall,The North,Stark,1,Male,0,0,0,0,0,0,0,0,0,1,0
+1226,Season 1,S01E03,Lord Snow,19,1226,TYRION LANNISTER,"Back again in the courtyard of Castle Black. Jon is battling his brothers in black as Tyrion overlooks from the balcony. Jon continuing to defeat them, he begins teaching them.",The Wall,The North,Lannister,1,Male,0,0,0,0,0,0,0,0,0,1,0
+1227,Season 1,S01E03,Lord Snow,19,1227,JON SNOW, Don't stand so still. It's harder to hit a moving target. Except for you. You move too much. I could just hold my sword out and let you do the work for me.,The Wall,The North,Stark,1,Male,0,0,0,0,0,0,0,0,0,0,0
+1228,Season 1,S01E03,Lord Snow,19,1228,TYRION LANNISTER,Tyrion reenters the hall to speak and drink with Aemon and Lord Commander.,The Wall,The North,Lannister,1,Male,0,0,0,0,0,0,0,1,0,0,0
+1230,Season 1,S01E03,Lord Snow,19,1230,TYRION LANNISTER,"  Eight... no, nine.",The Wall,The North,Lannister,1,Male,0,0,0,0,0,0,0,0,0,0,0
+1232,Season 1,S01E03,Lord Snow,19,1232,TYRION LANNISTER,"  They say the winter of my birth was three years long, Maester Aemon.",The Wall,The North,Lannister,1,Male,0,0,0,0,0,0,0,0,0,0,0
+1235,Season 1,S01E03,Lord Snow,19,1235,TYRION LANNISTER,"  Yes, and the fishermen of Lannisport say they see mermaids.",The Wall,The North,Lannister,1,Male,0,0,0,0,0,0,0,0,0,0,0
+1241,Season 1,S01E03,Lord Snow,20,1241,DAENERYS TARGARYEN,The Khal and Daenerys are intertwined in their tent via candlelight. Daenerys surprises Drogo and speaks Dothraki to him.,Dothraki Sea,Essos,Other,1,Female,0,0,0,0,0,0,0,0,0,0,0
+1242,Season 1,S01E03,Lord Snow,20,1242,KHAL DROGO,The Khal and Daenerys are intertwined in their tent via candlelight. Daenerys surprises Drogo and speaks Dothraki to him.,Dothraki Sea,Essos,Other,1,Male,0,0,0,0,0,0,0,0,0,0,0
+1243,Season 1,S01E03,Lord Snow,20,1243,DAENERYS TARGARYEN,  It's a boy.,Dothraki Sea,Essos,Other,1,Female,0,0,0,0,0,0,0,0,0,0,0
+1244,Season 1,S01E03,Lord Snow,20,1244,KHAL DROGO, How do you know?,Dothraki Sea,Essos,Other,1,Male,0,0,0,0,0,0,0,0,0,0,0
+1245,Season 1,S01E03,Lord Snow,20,1245,DAENERYS TARGARYEN, I know.,Dothraki Sea,Essos,Other,1,Female,0,0,0,0,0,0,0,0,0,0,0
+1247,Season 1,S01E03,Lord Snow,21,1247,TYRION LANNISTER,"Tyrion is pissing off of the wall, when he's done, Jon and him converse near a fire.",The Wall,The North,Lannister,1,Male,0,0,0,0,0,0,0,0,0,0,0
+1248,Season 1,S01E03,Lord Snow,21,1248,JON SNOW,"Tyrion is pissing off of the wall, when he's done, Jon and him converse near a fire.",The Wall,The North,Stark,1,Male,0,0,0,0,0,0,0,0,0,0,0
+1249,Season 1,S01E03,Lord Snow,21,1249,JON SNOW,"  I'm sorry to see you leave, Lannister.",The Wall,The North,Stark,1,Male,0,0,0,0,0,0,0,0,0,0,0
+1250,Season 1,S01E03,Lord Snow,21,1250,TYRION LANNISTER, It's either me or this cold. And it doesn't appear to be going anywhere.,The Wall,The North,Lannister,1,Male,0,0,0,0,0,0,0,0,0,0,0
+1251,Season 1,S01E03,Lord Snow,21,1251,JON SNOW,  Will you stop at Winterfell on your way South?,The Wall,The North,Stark,1,Male,0,0,0,0,0,0,0,0,0,0,0
+1252,Season 1,S01E03,Lord Snow,21,1252,TYRION LANNISTER,  I expect I will. Gods know there aren't many feather beds between here and King's Landing.,The Wall,The North,Lannister,1,Male,0,0,1,0,0,0,0,0,0,0,0
+1253,Season 1,S01E03,Lord Snow,21,1253,JON SNOW,"  If you see my brother Bran, tell him I miss him. Tell him I'd visit if I could.",The Wall,The North,Stark,1,Male,0,0,0,0,0,0,0,0,0,1,0
+1254,Season 1,S01E03,Lord Snow,21,1254,TYRION LANNISTER, Of course.,The Wall,The North,Lannister,1,Male,0,0,0,0,0,0,0,0,0,0,0
+1255,Season 1,S01E03,Lord Snow,21,1255,JON SNOW, He'll never walk again.,The Wall,The North,Stark,1,Male,0,0,0,0,0,0,0,0,0,0,0
+1256,Season 1,S01E03,Lord Snow,21,1256,TYRION LANNISTER," If you're going to be a cripple, it's better to be a rich cripple. Take care, Snow.",The Wall,The North,Lannister,1,Male,0,0,0,0,0,0,0,0,0,0,0
+1257,Season 1,S01E03,Lord Snow,21,1257,JON SNOW," Farewell, My Lord.",The Wall,The North,Stark,1,Male,0,0,0,0,0,0,0,0,0,0,0
+1259,Season 1,S01E03,Lord Snow,22,1259,ARYA STARK,Arya arrives to her dance lesson in King's Landing.,King's Landing,The Crownlands,Stark,1,Female,0,0,0,0,0,0,0,0,0,0,0
+1261,Season 1,S01E03,Lord Snow,22,1261,ARYA STARK,  Who are you?,King's Landing,The Crownlands,Stark,1,Female,0,0,0,0,0,0,0,0,0,0,0
+1263,Season 1,S01E03,Lord Snow,22,1263,ARYA STARK,"Syrio throws a wooden sword to Arya, she does not catch it, but drops it.",King's Landing,The Crownlands,Stark,1,Female,0,1,0,0,0,0,0,0,0,0,0
+1265,Season 1,S01E03,Lord Snow,22,1265,ARYA STARK,  It's too heavy.,King's Landing,The Crownlands,Stark,1,Female,0,0,0,0,0,0,0,0,0,0,0
+1267,Season 1,S01E03,Lord Snow,22,1267,ARYA STARK, What if I drop it?,King's Landing,The Crownlands,Stark,1,Female,0,0,0,0,0,0,0,0,0,0,0
+1269,Season 1,S01E03,Lord Snow,22,1269,ARYA STARK, I'm a girl.,King's Landing,The Crownlands,Stark,1,Female,0,0,0,0,0,0,0,0,0,0,0
+1271,Season 1,S01E03,Lord Snow,22,1271,ARYA STARK,  A needle.,King's Landing,The Crownlands,Stark,1,Female,0,0,0,0,0,0,0,0,0,0,0
+1273,Season 1,S01E03,Lord Snow,22,1273,ARYA STARK,"Arya takes several attempts as Syrio turns his back, defending her and disarming her constantly. She begins picking up on a few things, but still needs much work. Ned enters in the doorway and his smile turns to a grimace watching his daughter swordfight.",King's Landing,The Crownlands,Stark,1,Female,0,1,0,0,0,0,0,0,0,1,0
+1274,Season 1,S01E03,Lord Snow,22,1274,NED STARK,"Arya takes several attempts as Syrio turns his back, defending her and disarming her constantly. She begins picking up on a few things, but still needs much work. Ned enters in the doorway and his smile turns to a grimace watching his daughter swordfight.",King's Landing,The Crownlands,Stark,1,Male,0,1,0,0,0,0,0,0,0,1,0
