@@ -8,13 +8,16 @@ Overview
 
 This repository contains the materials and datasets used in the workshop “From Qualitative Data to Quantified Connections: An Introduction to Epistemic Network Analysis (ENA)”, designed to introduce researchers and educators to the principles and practice of ENA. The workshop demonstrates how qualitative discourse can be systematically coded, modelled, and visualised as a network to reveal patterns of connection in meaning and reasoning.
 
-Contents
+**Contents**
 File	Description
+
 GOT.scripts.final.coded.042219.csv	Example dataset of coded discourse segments used to illustrate ENA modelling.
+
 GOT.scripts.final.codes.exercise (1).csv	Companion exercise dataset for hands-on coding practice.
+
 GoT_codebook.xlsx	Codebook outlining the categories and definitions used for the example datasets.
 
-Learning Objectives
+**Learning Objectives**
 Participants will learn to:
 
   1.Understand the conceptual foundations of Quantitative Ethnography and Epistemic Network Analysis.
